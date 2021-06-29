@@ -5,7 +5,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/2821
 #EXTINF:-1 tvg-logo="https://logos.servidor.tv/redevida.jpg",REDE VIDA HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054398
 
-#EXTINF:-1, tvg-logo="https://logos.servidor.tv/paieterno.jpg",PAI ETERNO HD*
+#EXTINF:-1 tvg-logo="https://logos.servidor.tv/paieterno.jpg",PAI ETERNO HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054486
 
 #EXTINF:-1 tvg-logo="https://logos.servidor.tv/754f20fd138da4ac2265060e8284d736.png",CANÇÃO NOVA HD
@@ -25,6 +25,9 @@ http://diretogo.com:80/cristinasantos9823/8912459x/2776
 
 #EXTINF:-1 tvg-logo="https://logos.servidor.tv/redetv.png",REDETV! HD
 http://diretogo.com:80/cristinasantos9823/8912459x/335
+
+#EXTINF:-1 tvg-logo="https://logos.servidor.tv/terraviva.png",VIVA HD
+http://diretogo.com:80/cristinasantos9823/8912459x/79
 
 #EXTINF:-1 tvg-logo="https://logos.servidor.tv/band.png",BAND HD
 http://diretogo.com:80/cristinasantos9823/8912459x/4895
