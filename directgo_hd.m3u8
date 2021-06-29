@@ -1,36 +1,36 @@
 #EXTM3U
-#EXTINF:-1,Globo SP HD
+#EXTINF:-1 tvg-logo="https://logos.servidor.tv/globo.jpg",Globo SP HD
 http://diretogo.com:80/cristinasantos9823/8912459x/2821
 
-#EXTINF:-1,REDE VIDA HD*
+#EXTINF:-1 tvg-logo="https://logos.servidor.tv/redevida.jpg",REDE VIDA HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054398
 
-#EXTINF:-1,PAI ETERNO HD*
+#EXTINF:-1, tvg-logo="https://logos.servidor.tv/paieterno.jpg",PAI ETERNO HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054486
 
-#EXTINF:-1,CANÇÃO NOVA HD
+#EXTINF:-1 tvg-logo="https://logos.servidor.tv/754f20fd138da4ac2265060e8284d736.png",CANÇÃO NOVA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/3290
 
-#EXTINF:-1,TV CULTURA HD
+#EXTINF:-1 tvg-logo="https://logos.servidor.tv/cultura.jpg",TV CULTURA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10027022
 
-#EXTINF:-1,SBT HD
+#EXTINF:-1 tvg-logo="https://logos.servidor.tv/sbt.png",SBT HD
 http://diretogo.com:80/cristinasantos9823/8912459x/330
 
-#EXTINF:-1,RECORDTV SP HD
+#EXTINF:-1 tvg-logo="https://logos.servidor.tv/record.png",RECORDTV SP HD
 http://diretogo.com:80/cristinasantos9823/8912459x/336
 
-#EXTINF:-1,RECORD NEWS HD
+#EXTINF:-1 tvg-logo="https://logos.servidor.tv/recordnews.jpg",RECORD NEWS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/2776
 
-#EXTINF:-1,REDETV! HD
+#EXTINF:-1 tvg-logo="https://logos.servidor.tv/redetv.png",REDETV! HD
 http://diretogo.com:80/cristinasantos9823/8912459x/335
 
-#EXTINF:-1,BAND HD
+#EXTINF:-1 tvg-logo="https://logos.servidor.tv/band.png",BAND HD
 http://diretogo.com:80/cristinasantos9823/8912459x/4895
 
-#EXTINF:-1,TV APARECIDA HD
+#EXTINF:-1 tvg-logo="https://logos.servidor.tv/tvaparecida.png",TV APARECIDA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/30
 
-#EXTINF:-1,REDE BRASIL TV
+#EXTINF:-1 tvg-logo="https://logos.servidor.tv/redebrasil.png" ,REDE BRASIL TV
 http://diretogo.com:80/cristinasantos9823/8912459x/10040646
