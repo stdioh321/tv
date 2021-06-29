@@ -16,18 +16,14 @@ http://flash8.crossdigital.com.br/2306/2306/chunklist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w829976371.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.servidor.tv/754f20fd138da4ac2265060e8284d736.png",Canção Nova
-https://www.youtube.com/user/tvcancaonova/live
+http://canaishd.servidor.tv:8080/nino2021/nino2021/53496
 
 #EXTINF:-1 tvg-logo="https://logos.servidor.tv/sbt.png",SBT GO
 http://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logos.servidor.tv/sbt.png",SBT Interior
-https://5a1c76baf08c0.streamlock.net/sbtinterior/4cd4a4222eabddfc/chunklist_w62336293.m3u8
 
 #EXTINF:-1 tvg-logo="https://folhagospel.com/wp-content/uploads/2019/01/record_news.jpg",Rede Record News
-https://www.youtube.com/c/recordnews/live
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://logos.servidor.tv/redetv.png",Rede TV
-https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos.servidor.tv/band.png",Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
