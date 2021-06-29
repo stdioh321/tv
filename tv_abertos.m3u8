@@ -22,7 +22,9 @@ http://canaishd.servidor.tv:8080/nino2021/nino2021/63319
 #EXTINF:-1 tvg-id="" tvg-name="BAND SC HD" tvg-logo="" group-title="Canais: Abertos",BAND SC HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/63318
 #EXTINF:-1 tvg-id="" tvg-name="Globo RPC TV Paranavai HD" tvg-logo="" group-title="Canais: Abertos",Globo RPC TV Paranavai HD
+http://canaishd.servidor.tv:8080/nino2021/nino2021/63292
 #EXTINF:-1 tvg-id="" tvg-name="Globo SP TV Tem Itapetininga HD" tvg-logo="" group-title="Canais: Abertos",Globo SP TV Tem Itapetininga HD
+http://canaishd.servidor.tv:8080/nino2021/nino2021/63291
 #EXTINF:-1 tvg-id="" tvg-name="Record Interior RJ HD" tvg-logo="" group-title="Canais: Abertos",Record Interior RJ HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/63205
 #EXTINF:-1 tvg-id="" tvg-name="Record Interior SP HD" tvg-logo="" group-title="Canais: Abertos",Record Interior SP HD
@@ -30,12 +32,15 @@ http://canaishd.servidor.tv:8080/nino2021/nino2021/63204
 #EXTINF:-1 tvg-id="" tvg-name="Record Itapoãn HD" tvg-logo="" group-title="Canais: Abertos",Record Itapoãn HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/63203
 #EXTINF:-1 tvg-id="" tvg-name="Record Litoral e Vale HD" tvg-logo="" group-title="Canais: Abertos",Record Litoral e Vale HD
+http://canaishd.servidor.tv:8080/nino2021/nino2021/63202
 #EXTINF:-1 tvg-id="" tvg-name="Record Manaus HD" tvg-logo="" group-title="Canais: Abertos",Record Manaus HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/63201
 #EXTINF:-1 tvg-id="" tvg-name="Record Minas HD" tvg-logo="" group-title="Canais: Abertos",Record Minas HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/63200
 #EXTINF:-1 tvg-id="" tvg-name="Record PR - RIC Maringá HD" tvg-logo="" group-title="Canais: Abertos",Record PR - RIC Maringá HD
+http://canaishd.servidor.tv:8080/nino2021/nino2021/63199
 #EXTINF:-1 tvg-id="" tvg-name="Record PR - RIC Maringá HD+" tvg-logo="" group-title="Canais: Abertos",Record PR - RIC Maringá HD+
+http://canaishd.servidor.tv:8080/nino2021/nino2021/63198
 #EXTINF:-1 tvg-id="" tvg-name="Record Recife HD" tvg-logo="" group-title="Canais: Abertos",Record Recife HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/63197
 #EXTINF:-1 tvg-id="" tvg-name="Record SC HD+" tvg-logo="" group-title="Canais: Abertos",Record SC HD+
@@ -49,6 +54,7 @@ http://canaishd.servidor.tv:8080/nino2021/nino2021/63193
 #EXTINF:-1 tvg-id="" tvg-name="SBT Paraná HD" tvg-logo="" group-title="Canais: Abertos",SBT Paraná HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/63192
 #EXTINF:-1 tvg-id="" tvg-name="SBT PI TV Cidade Verde HD" tvg-logo="" group-title="Canais: Abertos",SBT PI TV Cidade Verde HD
+http://canaishd.servidor.tv:8080/nino2021/nino2021/63191
 #EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="" group-title="Canais: Abertos",SBT RJ HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/63190
 #EXTINF:-1 tvg-id="" tvg-name="SBT RS HD" tvg-logo="" group-title="Canais: Abertos",SBT RS HD
@@ -62,255 +68,256 @@ http://canaishd.servidor.tv:8080/nino2021/nino2021/63169
 #EXTINF:-1 tvg-id="" tvg-name="TVE Bahia HD" tvg-logo="" group-title="Canais: Abertos",TVE Bahia HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/63161
 #EXTINF:-1 tvg-id="" tvg-name="TV Diário do Sertão HD" tvg-logo="" group-title="Canais: Abertos",TV Diário do Sertão HD
-Abertos",Band HD
+http://canaishd.servidor.tv:8080/nino2021/nino2021/63145
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Abertos",Band HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/489
-Abertos",Band HD+
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD+" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Abertos",Band HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/484
-group-title="Canais: Abertos",Canal do Boi HD
+#EXTINF:-1 tvg-id="Canal do Boi (BR)" tvg-name="Canal do Boi HD" tvg-logo="https://logos.servidor.tv/canaldoboi.png" group-title="Canais: Abertos",Canal do Boi HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/29771
-group-title="Canais: Abertos",Canal Rural HD
+#EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural HD" tvg-logo="https://logos.servidor.tv/canalrural.gif" group-title="Canais: Abertos",Canal Rural HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/29770
-group-title="Canais: Abertos",Futura HD+
+#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura HD+" tvg-logo="https://logos.servidor.tv/futura.png" group-title="Canais: Abertos",Futura HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53490
-group-title="Canais: Abertos",Globo Bahia HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Bahia HD" tvg-logo="https://logos.servidor.tv/globotvbahia.jpg" group-title="Canais: Abertos",Globo Bahia HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/260
-group-title="Canais: Abertos",Globo Bahia HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Bahia HD+" tvg-logo="https://logos.servidor.tv/globotvbahia.jpg" group-title="Canais: Abertos",Globo Bahia HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2707
-group-title="Canais: Abertos",Globo Brasilia HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Brasilia HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Brasilia HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/291
-group-title="Canais: Abertos",Globo Centro America HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Centro America HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Centro America HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2712
-globoeptv.jpg" group-title="Canais: Abertos",Globo EPTV Campinas HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Campinas HD" tvg-logo="https://logos.servidor.tv/globoeptv.jpg" group-title="Canais: Abertos",Globo EPTV Campinas HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/289
-globoeptv.jpg" group-title="Canais: Abertos",Globo EPTV Campinas HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Campinas HD+" tvg-logo="https://logos.servidor.tv/globoeptv.jpg" group-title="Canais: Abertos",Globo EPTV Campinas HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2711
-globoeptv.jpg" group-title="Canais: Abertos",Globo EPTV Ribeirão Preto HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Ribeirão Preto HD" tvg-logo="https://logos.servidor.tv/globoeptv.jpg" group-title="Canais: Abertos",Globo EPTV Ribeirão Preto HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/287
-globo.jpg" group-title="Canais: Abertos",Globo EPTV Ribeirão Preto HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Ribeirão Preto HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo EPTV Ribeirão Preto HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2952
-group-title="Canais: Abertos",Globo EPTV Sul Minas HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Sul Minas HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo EPTV Sul Minas HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/4469
-group-title="Canais: Abertos",Globo EPTV Sul Minas HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Sul Minas HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo EPTV Sul Minas HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/4468
-group-title="Canais: Abertos",Globo EPTV São Carlos HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV São Carlos HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo EPTV São Carlos HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2941
-group-title="Canais: Abertos",Globo EPTV São Carlos HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV São Carlos HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo EPTV São Carlos HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2940
-globotvanhanguera.jpg" group-title="Canais: Abertos",Globo Goiânia SD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Goiânia SD" tvg-logo="https://logos.servidor.tv/globotvanhanguera.jpg" group-title="Canais: Abertos",Globo Goiânia SD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/262
-globo.jpg" group-title="Canais: Abertos",Globo Inter TV Alto Litoral HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Inter TV Alto Litoral HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Inter TV Alto Litoral HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53507
-group-title="Canais: Abertos",Globo Inter TV Cabugi HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Inter TV Cabugi HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Inter TV Cabugi HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53476
-01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo Inter TV Cabugi HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Inter TV Cabugi HD+" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo Inter TV Cabugi HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/33244
-globo.jpg" group-title="Canais: Abertos",Globo Inter TV dos Vales HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Inter TV dos Vales HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Inter TV dos Vales HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53470
-globo.jpg" group-title="Canais: Abertos",Globo Inter TV dos Vales HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Inter TV dos Vales HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Inter TV dos Vales HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53471
-globo.jpg" group-title="Canais: Abertos",Globo Inter TV Grande Minas HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Inter TV Grande Minas HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/4471
-globo.jpg" group-title="Canais: Abertos",Globo Inter TV Grande Minas HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Inter TV Grande Minas HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Inter TV Grande Minas HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/4470
-globo.jpg" group-title="Canais: Abertos",Globo Inter TV Serra Mar HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Inter TV Serra Mar HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Inter TV Serra Mar HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53487
-globo.jpg" group-title="Canais: Abertos",Globo Inter TV Serra Mar HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Inter TV Serra Mar HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Inter TV Serra Mar HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53486
-group-title="Canais: Abertos",Globo Manaus
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Manaus" tvg-logo="https://logos.servidor.tv/globoredeamazonica.png" group-title="Canais: Abertos",Globo Manaus
 http://canaishd.servidor.tv:8080/nino2021/nino2021/19
-01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo Manaus HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Manaus HD+" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo Manaus HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/33250
-group-title="Canais: Abertos",Globo Minas HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Minas HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Minas HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/279
-group-title="Canais: Abertos",Globo Minas HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Minas HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Minas HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2713
-group-title="Canais: Abertos",Globo Nordeste HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Nordeste HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Nordeste HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/275
-group-title="Canais: Abertos",Globo Nordeste HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Nordeste HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Nordeste HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2714
-group-title="Canais: Abertos",Globo NSC Blumenal HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo NSC Blumenal HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo NSC Blumenal HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53513
-globo.jpg" group-title="Canais: Abertos",Globo NSC Centro Oeste HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo NSC Centro Oeste HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo NSC Centro Oeste HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53501
-group-title="Canais: Abertos",Globo NSC Criciuma HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo NSC Criciuma HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo NSC Criciuma HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53504
-group-title="Canais: Abertos",Globo NSC Floripa HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo NSC Floripa HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo NSC Floripa HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2710
-01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo NSC Joinville HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo NSC Joinville HD" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo NSC Joinville HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/33246
-01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo NSC Joinville HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo NSC Joinville HD+" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo NSC Joinville HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/33245
-group-title="Canais: Abertos",Globo NSC TV Chapeco HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo NSC TV Chapeco HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo NSC TV Chapeco HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53505
-01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo Portugal HD
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="Globo Portugal HD" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo Portugal HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/33247
-group-title="Canais: Abertos",Globo RBS Poa HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RBS Poa HD" tvg-logo="https://logos.servidor.tv/globorbs.png" group-title="Canais: Abertos",Globo RBS Poa HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/1467
-group-title="Canais: Abertos",Globo RBS Poa HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RBS Poa HD+" tvg-logo="https://logos.servidor.tv/globorbs.png" group-title="Canais: Abertos",Globo RBS Poa HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/271
-globo.jpg" group-title="Canais: Abertos",Globo RBS TV Caixias do Sul HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RBS TV Caixias do Sul HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo RBS TV Caixias do Sul HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53503
-group-title="Canais: Abertos",Globo RBS TV Pelotas HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RBS TV Pelotas HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo RBS TV Pelotas HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53495
-01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo RBS TV Santa Maria HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RBS TV Santa Maria HD" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo RBS TV Santa Maria HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/33249
-01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo RBS TV Santa Maria HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RBS TV Santa Maria HD+" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo RBS TV Santa Maria HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/33248
-group-title="Canais: Abertos",Globo Recife HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Recife HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Recife HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53473
-group-title="Canais: Abertos",Globo Recife HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Recife HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Recife HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53472
-group-title="Canais: Abertos",Globo Rede Amazonica HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Rede Amazonica HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Rede Amazonica HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53478
-group-title="Canais: Abertos",Globo Rede Amazonica HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Rede Amazonica HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Rede Amazonica HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53477
-group-title="Canais: Abertos",Globo RJ HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RJ HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo RJ HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/1504
-group-title="Canais: Abertos",Globo RJ HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RJ HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo RJ HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/268
-group-title="Canais: Abertos",Globo RPC Curitiba HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RPC Curitiba HD" tvg-logo="https://logos.servidor.tv/globorpc.png" group-title="Canais: Abertos",Globo RPC Curitiba HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/266
-group-title="Canais: Abertos",Globo RPC Curitiba HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RPC Curitiba HD+" tvg-logo="https://logos.servidor.tv/globorpc.png" group-title="Canais: Abertos",Globo RPC Curitiba HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2709
-globo.jpg" group-title="Canais: Abertos",Globo RPC Foz do Iguaçu HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RPC Foz do Iguaçu HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo RPC Foz do Iguaçu HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53483
-globo.jpg" group-title="Canais: Abertos",Globo RPC Foz do Iguaçu HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RPC Foz do Iguaçu HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo RPC Foz do Iguaçu HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53482
-group-title="Canais: Abertos",Globo RPC Maringá HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RPC Maringá HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo RPC Maringá HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53485
-group-title="Canais: Abertos",Globo RPC Maringá HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RPC Maringá HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo RPC Maringá HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53484
-group-title="Canais: Abertos",Globo RPC Paraná HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RPC Paraná HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo RPC Paraná HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53475
-group-title="Canais: Abertos",Globo RPC Paraná HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RPC Paraná HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo RPC Paraná HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53474
-globo.jpg" group-title="Canais: Abertos",Globo RPC Ponta Grossa HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RPC Ponta Grossa HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo RPC Ponta Grossa HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53502
-group-title="Canais: Abertos",Globo S.J Rio Preto HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo S.J Rio Preto HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo S.J Rio Preto HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2945
-group-title="Canais: Abertos",Globo S.J Rio Preto HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo S.J Rio Preto HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo S.J Rio Preto HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2944
-group-title="Canais: Abertos",Globo Sergipe HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Sergipe HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo Sergipe HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/250
-group-title="Canais: Abertos",Globo São Paulo HD
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo São Paulo HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo São Paulo HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/1466
-group-title="Canais: Abertos",Globo São Paulo HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo São Paulo HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo São Paulo HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/265
-01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo TV Anhanguera Goiânia  HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Anhanguera Goiânia  HD+" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo TV Anhanguera Goiânia  HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/33251
-group-title="Canais: Abertos",Globo TV Anhanguera HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Anhanguera HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Anhanguera HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2708
-group-title="Canais: Abertos",Globo TV Asa Branca HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Asa Branca HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Asa Branca HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53479
-01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo TV Asa Branca HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Asa Branca HD+" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo TV Asa Branca HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/33252
-group-title="Canais: Abertos",Globo TV Cabo Branco HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Cabo Branco HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Cabo Branco HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53481
-group-title="Canais: Abertos",Globo TV Cabo Branco HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Cabo Branco HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Cabo Branco HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53480
-01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo TV Clube Piaui HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Clube Piaui HD" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo TV Clube Piaui HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/33254
-01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo TV Clube Piaui HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Clube Piaui HD+" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo TV Clube Piaui HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/33253
-group-title="Canais: Abertos",Globo TV Diario Mogi HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Diario Mogi HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Diario Mogi HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2947
-group-title="Canais: Abertos",Globo TV Diario Mogi HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Diario Mogi HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Diario Mogi HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2946
-group-title="Canais: Abertos",Globo TV Fronteira HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Fronteira HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Fronteira HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2943
-group-title="Canais: Abertos",Globo TV Fronteira HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Fronteira HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Fronteira HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2942
-tvgazeta.jpg" group-title="Canais: Abertos",Globo TV Gazeta Alagoas HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Gazeta Alagoas HD+" tvg-logo="https://logos.servidor.tv/tvgazeta.jpg" group-title="Canais: Abertos",Globo TV Gazeta Alagoas HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/4467
-tvgazeta.jpg" group-title="Canais: Abertos",Globo TV Gazeta Alagoas HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Gazeta Alagoas HD" tvg-logo="https://logos.servidor.tv/tvgazeta.jpg" group-title="Canais: Abertos",Globo TV Gazeta Alagoas HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/75
-globogazetasul.png" group-title="Canais: Abertos",Globo Tv Gazeta Sul ES HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Tv Gazeta Sul ES HD" tvg-logo="https://logos.servidor.tv/globogazetasul.png" group-title="Canais: Abertos",Globo Tv Gazeta Sul ES HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/33185
-globogazetasul.png" group-title="Canais: Abertos",Globo Tv Gazeta Sul ES HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Tv Gazeta Sul ES HD+" tvg-logo="https://logos.servidor.tv/globogazetasul.png" group-title="Canais: Abertos",Globo Tv Gazeta Sul ES HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/33186
-group-title="Canais: Abertos",Globo TV Integração HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Integração HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Integração HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/22505
-group-title="Canais: Abertos",Globo TV Integração HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Integração HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Integração HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/22504
-globo.jpg" group-title="Canais: Abertos",Globo TV Integração J.F HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Integração J.F HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Integração J.F HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53506
-group-title="Canais: Abertos",Globo TV Liberal
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Liberal" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Liberal
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2706
-01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo TV Liberal Belem HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Liberal Belem HD" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo TV Liberal Belem HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/33256
-01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo TV Liberal Belem HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Liberal Belem HD+" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo TV Liberal Belem HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/33255
-group-title="Canais: Abertos",Globo TV Mirante HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Mirante HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Mirante HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2705
-group-title="Canais: Abertos",Globo TV Morena HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Morena HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Morena HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2704
-group-title="Canais: Abertos",Globo TV Rio Sul HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Rio Sul HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Rio Sul HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53494
-group-title="Canais: Abertos",Globo TV Santa Cruz SD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Santa Cruz SD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Santa Cruz SD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/29774
-01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo TV Tem Bauru SD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Tem Bauru SD" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="Canais: Abertos",Globo TV Tem Bauru SD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/33257
-group-title="Canais: Abertos",Globo TV TEM Sorocaba HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TEM Sorocaba HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV TEM Sorocaba HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2949
-group-title="Canais: Abertos",Globo TV TEM Sorocaba HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TEM Sorocaba HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV TEM Sorocaba HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2948
-group-title="Canais: Abertos",Globo TV TRIBUNA HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TRIBUNA HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV TRIBUNA HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2954
-group-title="Canais: Abertos",Globo TV TRIBUNA HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TRIBUNA HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV TRIBUNA HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2953
-group-title="Canais: Abertos",Globo TV VANGUARDA HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV VANGUARDA HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV VANGUARDA HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2951
-group-title="Canais: Abertos",Globo TV VANGUARDA HD+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV VANGUARDA HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV VANGUARDA HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2950
-group-title="Canais: Abertos",Globo TV Verdes Mares HD
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Verdes Mares HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV Verdes Mares HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/2703
-Abertos",Polishop HD+
+#EXTINF:-1 tvg-id="" tvg-name="Polishop HD+" tvg-logo="https://logos.servidor.tv/polishop.png" group-title="Canais: Abertos",Polishop HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53498
-group-title="Canais: Abertos",Record BA HD
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record BA HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record BA HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/29777
-group-title="Canais: Abertos",Record Belem HD
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record Belem HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record Belem HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/29775
-group-title="Canais: Abertos",Record DF HD
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record DF HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record DF HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/29776
-group-title="Canais: Abertos",Record GO HD
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record GO HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record GO HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/29779
-group-title="Canais: Abertos",Record MG HD
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record MG HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record MG HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/29778
-group-title="Canais: Abertos",Record PA HD
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record PA HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record PA HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/29782
-group-title="Canais: Abertos",Record RJ HD
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record RJ HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record RJ HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/29780
-group-title="Canais: Abertos",Record RS HD
+#EXTINF:-1 tvg-id="RecordNews" tvg-name="Record RS HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record RS HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/29781
-group-title="Canais: Abertos",Record SP HD
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="Record SP HD" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record SP HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/403
-group-title="Canais: Abertos",Record SP HD+
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record SP HD+" tvg-logo="https://logos.servidor.tv/record.png" group-title="Canais: Abertos",Record SP HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/148
-group-title="Canais: Abertos",Rede TV HD
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede TV HD" tvg-logo="https://logos.servidor.tv/redetv.png" group-title="Canais: Abertos",Rede TV HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/136
-Abertos",SBT HD
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Abertos",SBT HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/1512
-Abertos",SBT HD+
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD+" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Abertos",SBT HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/402
-group-title="Canais: Abertos",Terra Viva HD+
+#EXTINF:-1 tvg-id="terraviva.br" tvg-name="Terra Viva HD+" tvg-logo="https://logos.servidor.tv/terraviva.png" group-title="Canais: Abertos",Terra Viva HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53500
-group-title="Canais: Abertos",TV Brasil 2 HD+
+#EXTINF:-1 tvg-id="tvbrasilcentral.br" tvg-name="TV Brasil 2 HD+" tvg-logo="https://logos.servidor.tv/tvbrasil2.png" group-title="Canais: Abertos",TV Brasil 2 HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53492
-group-title="Canais: Abertos",TV Brasil HD
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV Brasil HD" tvg-logo="https://logos.servidor.tv/tvbrasil.jpg" group-title="Canais: Abertos",TV Brasil HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/22513
-group-title="Canais: Abertos",TV Camara HD
+#EXTINF:-1 tvg-id="tvcamara.br" tvg-name="TV Camara HD" tvg-logo="https://logos.servidor.tv/tvcamara.jpg" group-title="Canais: Abertos",TV Camara HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/22511
-group-title="Canais: Abertos",TV Comunitária HD+
+#EXTINF:-1 tvg-id="" tvg-name="TV Comunitária HD+" tvg-logo="https://logos.servidor.tv/tvcomunitaria.png" group-title="Canais: Abertos",TV Comunitária HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/53491
-group-title="Canais: Abertos",TV Cultura HD
+#EXTINF:-1 tvg-id="TV Cultura (BR)" tvg-name="TV Cultura HD" tvg-logo="https://logos.servidor.tv/cultura.jpg" group-title="Canais: Abertos",TV Cultura HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/29772
-group-title="Canais: Abertos",TV Diario HD
+#EXTINF:-1 tvg-id="tvdiario.br" tvg-name="TV Diario HD" tvg-logo="https://logos.servidor.tv/tvdiario.png" group-title="Canais: Abertos",TV Diario HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/4473
-group-title="Canais: Abertos",TV Diario HD+
+#EXTINF:-1 tvg-id="tvdiario.br" tvg-name="TV Diario HD+" tvg-logo="https://logos.servidor.tv/tvdiario.png" group-title="Canais: Abertos",TV Diario HD+
 http://canaishd.servidor.tv:8080/nino2021/nino2021/4472
-group-title="Canais: Abertos",TV Escola HD
+#EXTINF:-1 tvg-id="tvescola.br" tvg-name="TV Escola HD" tvg-logo="https://logos.servidor.tv/tvescola.jpg" group-title="Canais: Abertos",TV Escola HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/22514
-group-title="Canais: Abertos",TV Justiça HD
+#EXTINF:-1 tvg-id="tvjustica.br" tvg-name="TV Justiça HD" tvg-logo="https://logos.servidor.tv/tvjustica.jpg" group-title="Canais: Abertos",TV Justiça HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/22512
-group-title="Canais: Abertos",TV Senado HD
+#EXTINF:-1 tvg-id="tvsenado.br" tvg-name="TV Senado HD" tvg-logo="https://logos.servidor.tv/tvsenado.jpg" group-title="Canais: Abertos",TV Senado HD
 http://canaishd.servidor.tv:8080/nino2021/nino2021/22515
