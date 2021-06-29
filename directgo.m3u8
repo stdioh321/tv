@@ -9,7 +9,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054706
 http://diretogo.com:80/cristinasantos9823/8912459x/10035331
 #EXTINF:-1,GB SP FHD H265
 http://diretogo.com:80/cristinasantos9823/8912459x/17298
-#EXTINF:-1,GB SP HD
+#EXTINF:-1 group-title="HD",GB SP HD
 http://diretogo.com:80/cristinasantos9823/8912459x/2821
 #EXTINF:-1,GB SP HDᴮᴿ
 http://diretogo.com:80/cristinasantos9823/8912459x/10047305
@@ -29,7 +29,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/5789
 http://diretogo.com:80/cristinasantos9823/8912459x/10054724
 #EXTINF:-1,GB RJ FHD H265
 http://diretogo.com:80/cristinasantos9823/8912459x/17299
-#EXTINF:-1,GB RJ HD
+#EXTINF:-1 group-title="HD",GB RJ HD
 http://diretogo.com:80/cristinasantos9823/8912459x/345
 #EXTINF:-1,GB RJ HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054723
@@ -45,7 +45,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/4801
 http://diretogo.com:80/cristinasantos9823/8912459x/10054758
 #EXTINF:-1,GB MINAS FHD H265
 http://diretogo.com:80/cristinasantos9823/8912459x/10027000
-#EXTINF:-1,GB MINAS HD
+#EXTINF:-1 group-title="HD",GB MINAS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/5556
 #EXTINF:-1,GB MINAS HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054757
@@ -59,7 +59,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054756
 http://diretogo.com:80/cristinasantos9823/8912459x/9598
 #EXTINF:-1,GB BRASILIA FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054791
-#EXTINF:-1,GB BRASILIA HD
+#EXTINF:-1 group-title="HD",GB BRASILIA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/4893
 #EXTINF:-1,GB BRASILIA HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054790
@@ -75,7 +75,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/5407
 http://diretogo.com:80/cristinasantos9823/8912459x/10054751
 #EXTINF:-1,GB NORDESTE FHD H265
 http://diretogo.com:80/cristinasantos9823/8912459x/17275
-#EXTINF:-1,GB NORDESTE HD
+#EXTINF:-1 group-title="HD",GB NORDESTE HD
 http://diretogo.com:80/cristinasantos9823/8912459x/5292
 #EXTINF:-1,GB NORDESTE HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054750
@@ -89,7 +89,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/9597
 http://diretogo.com:80/cristinasantos9823/8912459x/10054788
 #EXTINF:-1,GB EPTV CAMPINAS H265
 http://diretogo.com:80/cristinasantos9823/8912459x/10027001
-#EXTINF:-1,GB EPTV CAMPINAS HD
+#EXTINF:-1 group-title="HD",GB EPTV CAMPINAS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/5595
 #EXTINF:-1,GB EPTV CAMPINAS HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054787
@@ -105,7 +105,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/9824
 http://diretogo.com:80/cristinasantos9823/8912459x/10054782
 #EXTINF:-1,GB EPTV RIBEIRAO PRETO FHD H265
 http://diretogo.com:80/cristinasantos9823/8912459x/17273
-#EXTINF:-1,GB EPTV RIBEIRAO PRETO HD
+#EXTINF:-1 group-title="HD",GB EPTV RIBEIRAO PRETO HD
 http://diretogo.com:80/cristinasantos9823/8912459x/6558
 #EXTINF:-1,GB EPTV RIBEIRÃO PRETO HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054781
@@ -117,7 +117,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/4863
 http://diretogo.com:80/cristinasantos9823/8912459x/10050089
 #EXTINF:-1,GB EPTV CENTRAL SAO CARLOS FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054785
-#EXTINF:-1,GB EPTV SAO CARLOS HD
+#EXTINF:-1 group-title="HD",GB EPTV SAO CARLOS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050088
 #EXTINF:-1,GB EPTV CENTRAL SAO CARLOS HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054784
@@ -127,7 +127,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/5549
 http://diretogo.com:80/cristinasantos9823/8912459x/10054783
 #EXTINF:-1,GB EPTV ARARAQUARA SD
 http://diretogo.com:80/cristinasantos9823/8912459x/6557
-#EXTINF:-1,GB TV DIARIO MOGI DAS CRUZES HD
+#EXTINF:-1 group-title="HD",GB TV DIARIO MOGI DAS CRUZES HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049608
 #EXTINF:-1,GB TV DIARIO MOGI DAS CRUZES FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054685
@@ -141,7 +141,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054683
 http://diretogo.com:80/cristinasantos9823/8912459x/9586
 #EXTINF:-1,GB TV TEM S. J. RIO PRETO FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054646
-#EXTINF:-1,GB TV TEM S. J. RIO PRETO HD
+#EXTINF:-1 group-title="HD",GB TV TEM S. J. RIO PRETO HD
 http://diretogo.com:80/cristinasantos9823/8912459x/9599
 #EXTINF:-1,GB TV TEM S. J. RIO PRETO HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054645
@@ -153,7 +153,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054644
 http://diretogo.com:80/cristinasantos9823/8912459x/10049102
 #EXTINF:-1,GB TV TEM ITAPETININGA FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054649
-#EXTINF:-1,GB TV TEM ITAPETININGA HD
+#EXTINF:-1 group-title="HD",GB TV TEM ITAPETININGA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049101
 #EXTINF:-1,GB TV TEM ITAPETININGA HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054648
@@ -167,7 +167,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10050085
 http://diretogo.com:80/cristinasantos9823/8912459x/10054652
 #EXTINF:-1,GB TV TEM BAURU HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054651
-#EXTINF:-1,GB TV TEM BAURU HD
+#EXTINF:-1 group-title="HD",GB TV TEM BAURU HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050084
 #EXTINF:-1,GB TV TEM BAURU SD
 http://diretogo.com:80/cristinasantos9823/8912459x/4857
@@ -177,7 +177,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054650
 http://diretogo.com:80/cristinasantos9823/8912459x/10050087
 #EXTINF:-1,GB TV TEM SOROCABA FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054643
-#EXTINF:-1,GB TV TEM SOROCABA HD
+#EXTINF:-1 group-title="HD",GB TV TEM SOROCABA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050086
 #EXTINF:-1,GB TV TEM SOROCABA HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054642
@@ -189,7 +189,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054641
 http://diretogo.com:80/cristinasantos9823/8912459x/10049117
 #EXTINF:-1,GB TV VANGUARDA TAUBATE FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054634
-#EXTINF:-1,GB TV VANGUARDA TAUBATE HD
+#EXTINF:-1 group-title="HD",GB TV VANGUARDA TAUBATE HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049116
 #EXTINF:-1,GB TV VANGUARDA TAUBATE HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054633
@@ -201,7 +201,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054632
 http://diretogo.com:80/cristinasantos9823/8912459x/10049108
 #EXTINF:-1,GB TV FRONTEIRA PRESIDENTE PRUDENTE FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054682
-#EXTINF:-1,GB TV FRONTEIRA P. PRUDENTE HD
+#EXTINF:-1 group-title="HD",GB TV FRONTEIRA P. PRUDENTE HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049107
 #EXTINF:-1,GB TV FRONTEIRA PRESIDENTE PRUDENTE HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054681
@@ -213,7 +213,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054680
 http://diretogo.com:80/cristinasantos9823/8912459x/11228
 #EXTINF:-1,GB NSC TV BLUMENAU FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054748
-#EXTINF:-1,GB NSC BLUMENAU HD
+#EXTINF:-1 group-title="HD",GB NSC BLUMENAU HD
 http://diretogo.com:80/cristinasantos9823/8912459x/11227
 #EXTINF:-1,GB NSC TV BLUMENAU HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054747
@@ -229,19 +229,19 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054744
 http://diretogo.com:80/cristinasantos9823/8912459x/10049032
 #EXTINF:-1,GB NSC TV CHAPECO SD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054743
-#EXTINF:-1,GB NSC TV CHAPECO HD
+#EXTINF:-1 group-title="HD",GB NSC TV CHAPECO HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049031
 #EXTINF:-1,GB NSC TV CHAPECO FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049030
 #EXTINF:-1,GB NSC TV CRICIUMA FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049050
-#EXTINF:-1,GB NSC TV CRICIUMA HD
+#EXTINF:-1 group-title="HD",GB NSC TV CRICIUMA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049049
 #EXTINF:-1,GB NSC TV CRICIUMA SD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049048
 #EXTINF:-1,GB NSC TV CENTRO-OESTE FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049047
-#EXTINF:-1,GB NSC TV CENTRO-OESTE HD
+#EXTINF:-1 group-title="HD",GB NSC TV CENTRO-OESTE HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049046
 #EXTINF:-1,GB NSC TV CENTRO-OESTE SD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049045
@@ -249,7 +249,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10049045
 http://diretogo.com:80/cristinasantos9823/8912459x/9596
 #EXTINF:-1,GB NSC FLORIANOPOLIS FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054742
-#EXTINF:-1,GB NSC FLORIANOPOLIS HD
+#EXTINF:-1 group-title="HD",GB NSC FLORIANOPOLIS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/6269
 #EXTINF:-1,GB NSC FLORIANOPOLIS HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054741
@@ -261,7 +261,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054740
 http://diretogo.com:80/cristinasantos9823/8912459x/11222
 #EXTINF:-1,GB NSC JOINVILLE FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054739
-#EXTINF:-1,GB NSC JOINVILLE HD
+#EXTINF:-1 group-title="HD",GB NSC JOINVILLE HD
 http://diretogo.com:80/cristinasantos9823/8912459x/11221
 #EXTINF:-1,GB NSC JOINVILLE HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054738
@@ -275,7 +275,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/9595
 http://diretogo.com:80/cristinasantos9823/8912459x/10054730
 #EXTINF:-1,GB RBS PORTO ALEGRE FHD H265
 http://diretogo.com:80/cristinasantos9823/8912459x/10027002
-#EXTINF:-1,GB RBS PORTO ALEGRE HD
+#EXTINF:-1 group-title="HD",GB RBS PORTO ALEGRE HD
 http://diretogo.com:80/cristinasantos9823/8912459x/2777
 #EXTINF:-1,GB RBS TV PORTO ALEGRE HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054729
@@ -287,7 +287,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054728
 http://diretogo.com:80/cristinasantos9823/8912459x/11225
 #EXTINF:-1,GB RBS TV CAXIAS DO SUL FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054736
-#EXTINF:-1,GB RBS CAXIAS DO SUL HD
+#EXTINF:-1 group-title="HD",GB RBS CAXIAS DO SUL HD
 http://diretogo.com:80/cristinasantos9823/8912459x/11224
 #EXTINF:-1,GB RBS TV CAXIAS DO SUL HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054735
@@ -299,7 +299,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054734
 http://diretogo.com:80/cristinasantos9823/8912459x/11219
 #EXTINF:-1,GB RBS PELOTAS FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054733
-#EXTINF:-1,GB RBS PELOTAS HD
+#EXTINF:-1 group-title="HD",GB RBS PELOTAS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/11218
 #EXTINF:-1,GB RBS PELOTAS HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054732
@@ -309,7 +309,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/11217
 http://diretogo.com:80/cristinasantos9823/8912459x/10054731
 #EXTINF:-1,GB RBS TV SANTA MARIA FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049044
-#EXTINF:-1,GB RBS TV SANTA MARIA HD
+#EXTINF:-1 group-title="HD",GB RBS TV SANTA MARIA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049043
 #EXTINF:-1,GB RBS TV SANTA MARIA SD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049042
@@ -319,7 +319,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/9521
 http://diretogo.com:80/cristinasantos9823/8912459x/10054721
 #EXTINF:-1,GB RPC CURITIBA HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054720
-#EXTINF:-1,GB RPC CURITIBA HD
+#EXTINF:-1 group-title="HD",GB RPC CURITIBA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/6561
 #EXTINF:-1,GB RPC CURITIBA SD
 http://diretogo.com:80/cristinasantos9823/8912459x/4793
@@ -327,7 +327,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/4793
 http://diretogo.com:80/cristinasantos9823/8912459x/10054719
 #EXTINF:-1,GB RPC FOZ DO IGUACU SD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049029
-#EXTINF:-1,GB RPC FOZ DO IGUACU HD
+#EXTINF:-1 group-title="HD",GB RPC FOZ DO IGUACU HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049028
 #EXTINF:-1,GB RPC FOZ DO IGUACU FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049027
@@ -339,7 +339,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054717
 http://diretogo.com:80/cristinasantos9823/8912459x/10054716
 #EXTINF:-1,GB RPC MARINGA FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10035641
-#EXTINF:-1,GB RPC MARINGA HD
+#EXTINF:-1 group-title="HD",GB RPC MARINGA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10035642
 #EXTINF:-1,GB RPC MARINGA SD
 http://diretogo.com:80/cristinasantos9823/8912459x/10035643
@@ -351,7 +351,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054714
 http://diretogo.com:80/cristinasantos9823/8912459x/10054713
 #EXTINF:-1,GB RPC TV PONTA GROSSA FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049041
-#EXTINF:-1,GB RPC TV PONTA GROSSA HD
+#EXTINF:-1 group-title="HD",GB RPC TV PONTA GROSSA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049040
 #EXTINF:-1,GB RPC TV PONTA GROSSA SD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049039
@@ -363,7 +363,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054708
 http://diretogo.com:80/cristinasantos9823/8912459x/10054707
 #EXTINF:-1,GB RPC TV PARANAVAI FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049035
-#EXTINF:-1,GB RPC TV PARANAVAI HD
+#EXTINF:-1 group-title="HD",GB RPC TV PARANAVAI HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049034
 #EXTINF:-1,GB RPC TV PARANAVAI SD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049033
@@ -377,7 +377,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054710
 http://diretogo.com:80/cristinasantos9823/8912459x/9594
 #EXTINF:-1,GB TV ANHANGUERA FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054703
-#EXTINF:-1,GB TV ANHANGUERA GOIANIA HD
+#EXTINF:-1 group-title="HD",GB TV ANHANGUERA GOIANIA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/6562
 #EXTINF:-1,GB TV ANHANGUERA HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054702
@@ -389,7 +389,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054701
 http://diretogo.com:80/cristinasantos9823/8912459x/11234
 #EXTINF:-1,GB INTER TV GRANDE MINAS FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054764
-#EXTINF:-1,GB INTER TV GRANDE MINAS HD
+#EXTINF:-1 group-title="HD",GB INTER TV GRANDE MINAS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/11233
 #EXTINF:-1,GB INTER TV GRANDE MINAS HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054763
@@ -399,7 +399,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/11232
 http://diretogo.com:80/cristinasantos9823/8912459x/10054762
 #EXTINF:-1,GB INTER TV DOS VALES FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/11237
-#EXTINF:-1,GB INTER TV DOS VALES HD
+#EXTINF:-1 group-title="HD",GB INTER TV DOS VALES HD
 http://diretogo.com:80/cristinasantos9823/8912459x/11236
 #EXTINF:-1,GB INTER TV DOS VALES SD
 http://diretogo.com:80/cristinasantos9823/8912459x/11235
@@ -411,7 +411,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054766
 http://diretogo.com:80/cristinasantos9823/8912459x/10054765
 #EXTINF:-1,GB TV INTEGRAÇÃO ARAXA FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049059
-#EXTINF:-1,GB TV INTEGRAÇÃO ARAXA HD
+#EXTINF:-1 group-title="HD",GB TV INTEGRAÇÃO ARAXA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049058
 #EXTINF:-1,GB TV INTEGRAÇÃO ARAXA SD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049057
@@ -427,7 +427,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10049056
 http://diretogo.com:80/cristinasantos9823/8912459x/10054670
 #EXTINF:-1,GB TV INTEGRACAO JUIZ DE FORA HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054669
-#EXTINF:-1,GB TV INTEGRAÇÃO JUIZ DE FORA HD
+#EXTINF:-1 group-title="HD",GB TV INTEGRAÇÃO JUIZ DE FORA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049055
 #EXTINF:-1,GB TV INTEGRACAO JUIZ DE FORA SD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054668
@@ -435,13 +435,13 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054668
 http://diretogo.com:80/cristinasantos9823/8912459x/10049054
 #EXTINF:-1,GB TV INTEGRACAO UBERLANDIA FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049114
-#EXTINF:-1,GB TV INTEGRACAO UBERLANDIA HD
+#EXTINF:-1 group-title="HD",GB TV INTEGRACAO UBERLANDIA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049113
 #EXTINF:-1,GB TV INTEGRACAO UBERLANDIA SD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049112
 #EXTINF:-1,GB EPTV SUL DE MINAS FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049062
-#EXTINF:-1,GB EPTV SUL DE MINAS HD
+#EXTINF:-1 group-title="HD",GB EPTV SUL DE MINAS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049061
 #EXTINF:-1,GB EPTV SUL DE MINAS SD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049060
@@ -455,7 +455,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054777
 http://diretogo.com:80/cristinasantos9823/8912459x/10050083
 #EXTINF:-1,GB TV TRIBUNA SANTOS FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054640
-#EXTINF:-1,GB TV TRIBUNA SANTOS HD
+#EXTINF:-1 group-title="HD",GB TV TRIBUNA SANTOS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050082
 #EXTINF:-1,GB TV TRIBUNA SANTOS HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054639
@@ -469,7 +469,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/6552
 http://diretogo.com:80/cristinasantos9823/8912459x/11213
 #EXTINF:-1,GB TV RIO SUL FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054658
-#EXTINF:-1,GB TV RIO SUL HD
+#EXTINF:-1 group-title="HD",GB TV RIO SUL HD
 http://diretogo.com:80/cristinasantos9823/8912459x/11212
 #EXTINF:-1,GB TV RIO SUL HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054657
@@ -479,7 +479,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054656
 http://diretogo.com:80/cristinasantos9823/8912459x/11211
 #EXTINF:-1,GB INTER TV ALTO LITORAL FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/11240
-#EXTINF:-1,GB INTER TV ALTO LITORAL HD
+#EXTINF:-1 group-title="HD",GB INTER TV ALTO LITORAL HD
 http://diretogo.com:80/cristinasantos9823/8912459x/11239
 #EXTINF:-1,GB INTER TV ALTO LITORAL SD
 http://diretogo.com:80/cristinasantos9823/8912459x/11238
@@ -491,7 +491,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054775
 http://diretogo.com:80/cristinasantos9823/8912459x/10054774
 #EXTINF:-1,GB INTER TV SERRA MAR FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/11231
-#EXTINF:-1,GB INTER TV SERRA MAR HD
+#EXTINF:-1 group-title="HD",GB INTER TV SERRA MAR HD
 http://diretogo.com:80/cristinasantos9823/8912459x/11230
 #EXTINF:-1,GB INTER TV SERRA MAR SD
 http://diretogo.com:80/cristinasantos9823/8912459x/11229
@@ -505,7 +505,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054759
 http://diretogo.com:80/cristinasantos9823/8912459x/10048874
 #EXTINF:-1,GB TV GAZETA VITORIA FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054673
-#EXTINF:-1,GB TV GAZETA VITÓRIA HD
+#EXTINF:-1 group-title="HD",GB TV GAZETA VITÓRIA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10048873
 #EXTINF:-1,GB TV GAZETA VITORIA HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054672
@@ -515,7 +515,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054671
 http://diretogo.com:80/cristinasantos9823/8912459x/9516
 #EXTINF:-1,GB TV GAZETA SUL ES FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/9515
-#EXTINF:-1,GB TV GAZETA SUL ES HD
+#EXTINF:-1 group-title="HD",GB TV GAZETA SUL ES HD
 http://diretogo.com:80/cristinasantos9823/8912459x/9514
 #EXTINF:-1,GB INTER TV CABUGI NATAL FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054770
@@ -531,7 +531,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/11216
 http://diretogo.com:80/cristinasantos9823/8912459x/10054694
 #EXTINF:-1,GB TV CABO BRANCO HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054693
-#EXTINF:-1,GB TV CABO BRANCO HD
+#EXTINF:-1 group-title="HD",GB TV CABO BRANCO HD
 http://diretogo.com:80/cristinasantos9823/8912459x/11215
 #EXTINF:-1,GB TV CABO BRANCO SD
 http://diretogo.com:80/cristinasantos9823/8912459x/11214
@@ -539,7 +539,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/11214
 http://diretogo.com:80/cristinasantos9823/8912459x/10054692
 #EXTINF:-1,GB TV BAHIA FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/9593
-#EXTINF:-1,GB TV BAHIA HD
+#EXTINF:-1 group-title="HD",GB TV BAHIA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/5853
 #EXTINF:-1,GB TV BAHIA SD
 http://diretogo.com:80/cristinasantos9823/8912459x/5777
@@ -551,7 +551,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054696
 http://diretogo.com:80/cristinasantos9823/8912459x/10054695
 #EXTINF:-1,GB TV SANTA CRUZ FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/11210
-#EXTINF:-1,GB TV SANTA CRUZ HD
+#EXTINF:-1 group-title="HD",GB TV SANTA CRUZ HD
 http://diretogo.com:80/cristinasantos9823/8912459x/11209
 #EXTINF:-1,GB TV SANTA CRUZ SD
 http://diretogo.com:80/cristinasantos9823/8912459x/11208
@@ -559,7 +559,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/11208
 http://diretogo.com:80/cristinasantos9823/8912459x/9592
 #EXTINF:-1,GB TV MIRANTE SAO LUIS FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054664
-#EXTINF:-1,GB TV MIRANTE SAO LUIS HD
+#EXTINF:-1 group-title="HD",GB TV MIRANTE SAO LUIS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/9591
 #EXTINF:-1,GB TV MIRANTE SAO LUIS HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054663
@@ -571,7 +571,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/9590
 http://diretogo.com:80/cristinasantos9823/8912459x/9512
 #EXTINF:-1,GB TV SERGIPE FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054655
-#EXTINF:-1,GB TV SERGIPE HD
+#EXTINF:-1 group-title="HD",GB TV SERGIPE HD
 http://diretogo.com:80/cristinasantos9823/8912459x/9511
 #EXTINF:-1,GB TV SERGIPE HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054654
@@ -583,7 +583,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/9513
 http://diretogo.com:80/cristinasantos9823/8912459x/9655
 #EXTINF:-1,GB TV GAZETA ALAGOAS FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054679
-#EXTINF:-1,GB TV GAZETA ALAGOAS HD
+#EXTINF:-1 group-title="HD",GB TV GAZETA ALAGOAS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/9654
 #EXTINF:-1,GB TV GAZETA ALAGOAS HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054678
@@ -595,7 +595,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054677
 http://diretogo.com:80/cristinasantos9823/8912459x/9518
 #EXTINF:-1,GB TV CLUBE TERESINA FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054688
-#EXTINF:-1,GB TV CLUBE TERESINA HD
+#EXTINF:-1 group-title="HD",GB TV CLUBE TERESINA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/9517
 #EXTINF:-1,GB TV CLUBE TERESINA HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054687
@@ -607,7 +607,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054686
 http://diretogo.com:80/cristinasantos9823/8912459x/9589
 #EXTINF:-1,GB TV MORENA FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054661
-#EXTINF:-1,GB TV MORENA CAMPO GRANDE HD
+#EXTINF:-1 group-title="HD",GB TV MORENA CAMPO GRANDE HD
 http://diretogo.com:80/cristinasantos9823/8912459x/9588
 #EXTINF:-1,GB TV MORENA HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054660
@@ -619,7 +619,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/9587
 http://diretogo.com:80/cristinasantos9823/8912459x/10049053
 #EXTINF:-1,GB TV GAZETA SUL FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054676
-#EXTINF:-1,GB TV GAZETA SUL HD
+#EXTINF:-1 group-title="HD",GB TV GAZETA SUL HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049052
 #EXTINF:-1,GB TV GAZETA SUL HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054675
@@ -629,7 +629,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054674
 http://diretogo.com:80/cristinasantos9823/8912459x/10049051
 #EXTINF:-1,GB TV ASA BRANCA FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049038
-#EXTINF:-1,GB TV ASA BRANCA HD
+#EXTINF:-1 group-title="HD",GB TV ASA BRANCA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049037
 #EXTINF:-1,GB TV ASA BRANCA SD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049036
@@ -641,7 +641,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054699
 http://diretogo.com:80/cristinasantos9823/8912459x/10054698
 #EXTINF:-1,GB TV CENTRO AMERICA CUIABA FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049123
-#EXTINF:-1,GB TV CENTRO AMERICA CUIABA HD
+#EXTINF:-1 group-title="HD",GB TV CENTRO AMERICA CUIABA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049122
 #EXTINF:-1,GB TV CENTRO AMERICA CUIABA SD
 http://diretogo.com:80/cristinasantos9823/8912459x/6564
@@ -655,7 +655,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054689
 http://diretogo.com:80/cristinasantos9823/8912459x/10049119
 #EXTINF:-1,GB REDE AMAZONICA MANAUS FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054727
-#EXTINF:-1,GB TV REDE AMAZONICA MANAUS HD
+#EXTINF:-1 group-title="HD",GB TV REDE AMAZONICA MANAUS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049118
 #EXTINF:-1,GB REDE AMAZONICA MANAUS HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054726
@@ -665,13 +665,13 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054725
 http://diretogo.com:80/cristinasantos9823/8912459x/5779
 #EXTINF:-1,GB TV REDE AMAZONICA BOA VISTA FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049105
-#EXTINF:-1,GB TV REDE AMAZONICA BOA VISTA HD
+#EXTINF:-1 group-title="HD",GB TV REDE AMAZONICA BOA VISTA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049104
 #EXTINF:-1,GB TV REDE AMAZONICA BOA VISTA SD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049103
 #EXTINF:-1,GB TV REDE AMAZONICA PORTO VELHO FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049111
-#EXTINF:-1,GB TV REDE AMAZONICA PORTO VELHO HD
+#EXTINF:-1 group-title="HD",GB TV REDE AMAZONICA PORTO VELHO HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049110
 #EXTINF:-1,GB TV REDE AMAZONICA PORTO VELHO SD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049109
@@ -683,7 +683,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10049609
 http://diretogo.com:80/cristinasantos9823/8912459x/10049121
 #EXTINF:-1,GB TV LIBERAL BELEM FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054667
-#EXTINF:-1,GB TV LIBERAL BELEM HD
+#EXTINF:-1 group-title="HD",GB TV LIBERAL BELEM HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049120
 #EXTINF:-1,GB TV LIBERAL BELEM HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054666
@@ -697,7 +697,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10049125
 http://diretogo.com:80/cristinasantos9823/8912459x/10054631
 #EXTINF:-1,GB TV VERDES MARES FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054630
-#EXTINF:-1,GB TV VERDES MARES FORTALEZA HD
+#EXTINF:-1 group-title="HD",GB TV VERDES MARES FORTALEZA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049124
 #EXTINF:-1,GB TV VERDES MARES HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054629
@@ -711,13 +711,13 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054628
 http://diretogo.com:80/cristinasantos9823/8912459x/19487
 #EXTINF:-1,GB RBS TV PASSO FUNDO FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050095
-#EXTINF:-1,GB RBS TV PASSO FUNDO HD
+#EXTINF:-1 group-title="HD",GB RBS TV PASSO FUNDO HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050094
 #EXTINF:-1,GB RBS TV PASSO FUNDO SD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050093
 #EXTINF:-1,GB RPC LONDRINA FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050092
-#EXTINF:-1,GB RPC LONDRINA HD
+#EXTINF:-1 group-title="HD",GB RPC LONDRINA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050091
 #EXTINF:-1,GB RPC LONDRINA SD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050090
@@ -725,55 +725,55 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10050090
 http://diretogo.com:80/cristinasantos9823/8912459x/10050081
 #EXTINF:-1,GB TV VANGUARDA S J CAMPOS FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054637
-#EXTINF:-1,GB TV VANGUARDA S. J. DOS CAMPOS HD
+#EXTINF:-1 group-title="HD",GB TV VANGUARDA S. J. DOS CAMPOS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050080
 #EXTINF:-1,GB TV VERDES MARES CARIRI FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050079
-#EXTINF:-1,GB TV VERDES MARES CARIRI HD
+#EXTINF:-1 group-title="HD",GB TV VERDES MARES CARIRI HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050078
 #EXTINF:-1,GB TV VERDES MARES CARIRI SD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050077
 #EXTINF:-1,GB TV REDE AMAZONICA MACAPA FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050076
-#EXTINF:-1,GB TV REDE AMAZONICA MACAPA HD
+#EXTINF:-1 group-title="HD",GB TV REDE AMAZONICA MACAPA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050075
 #EXTINF:-1,GB TV REDE AMAZONICA MACAPA SD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050074
 #EXTINF:-1,GB RPC CASCAVEL FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050073
-#EXTINF:-1,GB RPC CASCAVEL HD
+#EXTINF:-1 group-title="HD",GB RPC CASCAVEL HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050072
 #EXTINF:-1,GB RPC CASCAVEL SD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050071
 #EXTINF:-1,GB INTER TV CABUGI NATAL FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050070
-#EXTINF:-1,GB INTER TV CABUGI NATAL HD
+#EXTINF:-1 group-title="HD",GB INTER TV CABUGI NATAL HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050069
 #EXTINF:-1,GB TV MIRANTE COCAIS FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050068
-#EXTINF:-1,GB TV MIRANTE COCAIS HD
+#EXTINF:-1 group-title="HD",GB TV MIRANTE COCAIS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050067
 #EXTINF:-1,GB TV MIRANTE COCAIS SD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050066
 #EXTINF:-1,GB TV INTEGRACAO UBERABA FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050065
-#EXTINF:-1,GB TV INTEGRACAO UBERABA HD
+#EXTINF:-1 group-title="HD",GB TV INTEGRACAO UBERABA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050064
 #EXTINF:-1,GB TV INTEGRACAO UBERABA SD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050063
 #EXTINF:-1,GB TV SUBAE FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050062
-#EXTINF:-1,GB TV SUBAE HD
+#EXTINF:-1 group-title="HD",GB TV SUBAE HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050061
 #EXTINF:-1,GB TV SUBAE SD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050060
 #EXTINF:-1,GB TV SUDOESTE FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050059
-#EXTINF:-1,GB TV SUDOESTE HD
+#EXTINF:-1 group-title="HD",GB TV SUDOESTE HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050058
 #EXTINF:-1,GB TV SUDOESTE SD
 http://diretogo.com:80/cristinasantos9823/8912459x/10050057
-#EXTINF:-1,GB USA HD
+#EXTINF:-1 group-title="HD",GB USA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/6500
 #EXTINF:-1,POWER COUPLE
 http://diretogo.com:80/cristinasantos9823/8912459x/10056189
@@ -791,7 +791,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10055102
 http://diretogo.com:80/cristinasantos9823/8912459x/17023
 #EXTINF:-1,RECORDTV TV CIDADE FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055101
-#EXTINF:-1,RECORDTV SP HD
+#EXTINF:-1 group-title="HD",RECORDTV SP HD
 http://diretogo.com:80/cristinasantos9823/8912459x/336
 #EXTINF:-1,RECORDTV SP HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054409
@@ -823,7 +823,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054413
 http://diretogo.com:80/cristinasantos9823/8912459x/10054412
 #EXTINF:-1,RECORDTV SAO JOSE DO RIO PRETO SD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054411
-#EXTINF:-1,RECORDTV RJ HD
+#EXTINF:-1 group-title="HD",RECORDTV RJ HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10027008
 #EXTINF:-1,RECORDTV RJ HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054418
@@ -839,7 +839,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054433
 http://diretogo.com:80/cristinasantos9823/8912459x/10054432
 #EXTINF:-1,RECORDTV MG FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054421
-#EXTINF:-1,RECORDTV MG HD
+#EXTINF:-1 group-title="HD",RECORDTV MG HD
 http://diretogo.com:80/cristinasantos9823/8912459x/9821
 #EXTINF:-1,RECORDTV MG HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054420
@@ -849,7 +849,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/9822
 http://diretogo.com:80/cristinasantos9823/8912459x/10054419
 #EXTINF:-1,RECORDTV GO FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054437
-#EXTINF:-1,RECORDTV GO HD
+#EXTINF:-1 group-title="HD",RECORDTV GO HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10027007
 #EXTINF:-1,RECORDTV GO HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054436
@@ -857,7 +857,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054436
 http://diretogo.com:80/cristinasantos9823/8912459x/10027006
 #EXTINF:-1,RECORDTV GO SD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054435
-#EXTINF:-1,RECORDTV DF HD
+#EXTINF:-1 group-title="HD",RECORDTV DF HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10640
 #EXTINF:-1,RECORDTV DF HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054439
@@ -869,7 +869,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054438
 http://diretogo.com:80/cristinasantos9823/8912459x/10050303
 #EXTINF:-1,RECORDTV RS FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054416
-#EXTINF:-1,RECORDTV RS HD
+#EXTINF:-1 group-title="HD",RECORDTV RS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10642
 #EXTINF:-1,RECORDTV RS HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054415
@@ -881,13 +881,13 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10643
 http://diretogo.com:80/cristinasantos9823/8912459x/10027003
 #EXTINF:-1,RECORDTV BAHIA FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10041072
-#EXTINF:-1,RECORDTV BA HD
+#EXTINF:-1 group-title="HD",RECORDTV BA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/19413
 #EXTINF:-1,RECORDTV BA SD
 http://diretogo.com:80/cristinasantos9823/8912459x/19414
 #EXTINF:-1,RECORDTV BELEM FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054442
-#EXTINF:-1,RECORDTV BELEM HD
+#EXTINF:-1 group-title="HD",RECORDTV BELEM HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10027004
 #EXTINF:-1,RECORDTV BELEM HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054441
@@ -907,7 +907,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10055015
 http://diretogo.com:80/cristinasantos9823/8912459x/10036718
 #EXTINF:-1,BAND FHD H265
 http://diretogo.com:80/cristinasantos9823/8912459x/17316
-#EXTINF:-1,BAND HD
+#EXTINF:-1 group-title="HD",BAND HD
 http://diretogo.com:80/cristinasantos9823/8912459x/4895
 #EXTINF:-1,BAND SP HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055014
@@ -939,7 +939,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054395
 http://diretogo.com:80/cristinasantos9823/8912459x/10047242
 #EXTINF:-1,SBT FHD H265
 http://diretogo.com:80/cristinasantos9823/8912459x/4896
-#EXTINF:-1,SBT HD
+#EXTINF:-1 group-title="HD",SBT HD
 http://diretogo.com:80/cristinasantos9823/8912459x/330
 #EXTINF:-1,SBT SP HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054394
@@ -955,7 +955,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047241
 http://diretogo.com:80/cristinasantos9823/8912459x/331
 #EXTINF:-1,SBT RJ
 http://diretogo.com:80/cristinasantos9823/8912459x/10027018
-#EXTINF:-1,SBT RJ HD
+#EXTINF:-1 group-title="HD",SBT RJ HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049869
 #EXTINF:-1,SBT PR FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049868
@@ -975,7 +975,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10055094
 http://diretogo.com:80/cristinasantos9823/8912459x/10055093
 #EXTINF:-1,SBT JANGADEIRO HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055092
-#EXTINF:-1,SBT TV JANGADEIRO CE HD
+#EXTINF:-1 group-title="HD",SBT TV JANGADEIRO CE HD
 http://diretogo.com:80/cristinasantos9823/8912459x/19714
 #EXTINF:-1,SBT JANGADEIRO SD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055091
@@ -987,7 +987,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047244
 http://diretogo.com:80/cristinasantos9823/8912459x/10027020
 #EXTINF:-1,REDETV! FHD H265
 http://diretogo.com:80/cristinasantos9823/8912459x/17270
-#EXTINF:-1,REDETV! HD
+#EXTINF:-1 group-title="HD",REDETV! HD
 http://diretogo.com:80/cristinasantos9823/8912459x/335
 #EXTINF:-1,REDETV! HD²
 http://diretogo.com:80/cristinasantos9823/8912459x/5142
@@ -1019,7 +1019,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054887
 http://diretogo.com:80/cristinasantos9823/8912459x/17265
 #EXTINF:-1,TV CULTURA FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054886
-#EXTINF:-1,TV CULTURA HD
+#EXTINF:-1 group-title="HD",TV CULTURA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10027022
 #EXTINF:-1,TV CULTURA HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054885
@@ -1035,7 +1035,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054802
 http://diretogo.com:80/cristinasantos9823/8912459x/17369
 #EXTINF:-1,FUTURA FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054801
-#EXTINF:-1,FUTURA HD
+#EXTINF:-1 group-title="HD",FUTURA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/9615
 #EXTINF:-1,FUTURA HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054800
@@ -1049,7 +1049,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047308
 http://diretogo.com:80/cristinasantos9823/8912459x/10027023
 #EXTINF:-1,TV GAZETA FHDᴮᴿ
 http://diretogo.com:80/cristinasantos9823/8912459x/10047213
-#EXTINF:-1,TV GAZETA SP HD
+#EXTINF:-1 group-title="HD",TV GAZETA SP HD
 http://diretogo.com:80/cristinasantos9823/8912459x/4914
 #EXTINF:-1,TV GAZETA SP SD
 http://diretogo.com:80/cristinasantos9823/8912459x/10027024
@@ -1061,7 +1061,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/17262
 http://diretogo.com:80/cristinasantos9823/8912459x/10055098
 #EXTINF:-1,TV DIARIO FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055097
-#EXTINF:-1,TV DIARIO FORTALEZA HD
+#EXTINF:-1 group-title="HD",TV DIARIO FORTALEZA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/17263
 #EXTINF:-1,TV DIARIO HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055096
@@ -1141,7 +1141,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/5784
 http://diretogo.com:80/cristinasantos9823/8912459x/17335
 #EXTINF:-1,SPORTV FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054369
-#EXTINF:-1,SPORTV HD
+#EXTINF:-1 group-title="HD",SPORTV HD
 http://diretogo.com:80/cristinasantos9823/8912459x/177
 #EXTINF:-1,SPORTV HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054368
@@ -1161,7 +1161,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054378
 http://diretogo.com:80/cristinasantos9823/8912459x/17337
 #EXTINF:-1,SPORTV 2 FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054377
-#EXTINF:-1,SPORTV 2 HD
+#EXTINF:-1 group-title="HD",SPORTV 2 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/172
 #EXTINF:-1,SPORTV 2 HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054376
@@ -1179,7 +1179,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054374
 http://diretogo.com:80/cristinasantos9823/8912459x/17336
 #EXTINF:-1,SPORTV 3 FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054373
-#EXTINF:-1,SPORTV 3 HD
+#EXTINF:-1 group-title="HD",SPORTV 3 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/167
 #EXTINF:-1,SPORTV 3 HDᴮᴿ
 http://diretogo.com:80/cristinasantos9823/8912459x/17104
@@ -1199,7 +1199,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054806
 http://diretogo.com:80/cristinasantos9823/8912459x/17300
 #EXTINF:-1,FOX SPORTS FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054805
-#EXTINF:-1,FOX SPORTS HD
+#EXTINF:-1 group-title="HD",FOX SPORTS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/164
 #EXTINF:-1,FOX SPORTS HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054804
@@ -1221,7 +1221,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054810
 http://diretogo.com:80/cristinasantos9823/8912459x/17301
 #EXTINF:-1,FOX SPORTS 2 FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054809
-#EXTINF:-1,FOX SPORTS 2 HD
+#EXTINF:-1 group-title="HD",FOX SPORTS 2 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/161
 #EXTINF:-1,FOX SPORTS 2 HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054808
@@ -1243,7 +1243,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047321
 http://diretogo.com:80/cristinasantos9823/8912459x/17304
 #EXTINF:-1,ESPN FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054831
-#EXTINF:-1,ESPN HD
+#EXTINF:-1 group-title="HD",ESPN HD
 http://diretogo.com:80/cristinasantos9823/8912459x/154
 #EXTINF:-1,ESPN HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054830
@@ -1265,7 +1265,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047325
 http://diretogo.com:80/cristinasantos9823/8912459x/17376
 #EXTINF:-1,ESPN 2 FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054837
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 group-title="HD",ESPN 2 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/148
 #EXTINF:-1,ESPN 2 HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054836
@@ -1287,7 +1287,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10038813
 http://diretogo.com:80/cristinasantos9823/8912459x/17305
 #EXTINF:-1,ESPN BRASIL FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054834
-#EXTINF:-1,ESPN BRASIL HD
+#EXTINF:-1 group-title="HD",ESPN BRASIL HD
 http://diretogo.com:80/cristinasantos9823/8912459x/151
 #EXTINF:-1,ESPN BRASIL HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054827
@@ -1307,7 +1307,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054825
 http://diretogo.com:80/cristinasantos9823/8912459x/17375
 #EXTINF:-1,ESPN EXTRA FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054833
-#EXTINF:-1,ESPN EXTRA HD
+#EXTINF:-1 group-title="HD",ESPN EXTRA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/5396
 #EXTINF:-1,ESPN EXTRA HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054824
@@ -1327,7 +1327,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10055013
 http://diretogo.com:80/cristinasantos9823/8912459x/17386
 #EXTINF:-1,BAND SPORTS FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055012
-#EXTINF:-1,BAND SPORTS HD
+#EXTINF:-1 group-title="HD",BAND SPORTS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/155
 #EXTINF:-1,BAND SPORTS HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055011
@@ -1347,7 +1347,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047251
 http://diretogo.com:80/cristinasantos9823/8912459x/17347
 #EXTINF:-1,OFF FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054491
-#EXTINF:-1,OFF HD
+#EXTINF:-1 group-title="HD",OFF HD
 http://diretogo.com:80/cristinasantos9823/8912459x/141
 #EXTINF:-1,OFF HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054490
@@ -1365,7 +1365,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054818
 http://diretogo.com:80/cristinasantos9823/8912459x/17302
 #EXTINF:-1,FISH TV FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054817
-#EXTINF:-1,FISH TV HD
+#EXTINF:-1 group-title="HD",FISH TV HD
 http://diretogo.com:80/cristinasantos9823/8912459x/5947
 #EXTINF:-1,FISH TV HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054816
@@ -1385,7 +1385,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/17030
 http://diretogo.com:80/cristinasantos9823/8912459x/17379
 #EXTINF:-1,COMBATE FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054918
-#EXTINF:-1,COMBATE HD
+#EXTINF:-1 group-title="HD",COMBATE HD
 http://diretogo.com:80/cristinasantos9823/8912459x/201
 #EXTINF:-1,COMBATE HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054917
@@ -1407,7 +1407,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054470
 http://diretogo.com:80/cristinasantos9823/8912459x/17342
 #EXTINF:-1,PREMIERE CLUBES FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054469
-#EXTINF:-1,PREMIERE CLUBES HD
+#EXTINF:-1 group-title="HD",PREMIERE CLUBES HD
 http://diretogo.com:80/cristinasantos9823/8912459x/200
 #EXTINF:-1,PREMIERE CLUBES HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054468
@@ -1431,7 +1431,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054466
 http://diretogo.com:80/cristinasantos9823/8912459x/17345
 #EXTINF:-1,PREMIERE 2 FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054476
-#EXTINF:-1,PREMIERE 2 HD
+#EXTINF:-1 group-title="HD",PREMIERE 2 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/197
 #EXTINF:-1,PREMIERE 2 HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054465
@@ -1455,7 +1455,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054463
 http://diretogo.com:80/cristinasantos9823/8912459x/17344
 #EXTINF:-1,PREMIERE 3 FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054475
-#EXTINF:-1,PREMIERE 3 HD
+#EXTINF:-1 group-title="HD",PREMIERE 3 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/196
 #EXTINF:-1,PREMIERE 3 HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054462
@@ -1479,7 +1479,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054460
 http://diretogo.com:80/cristinasantos9823/8912459x/17291
 #EXTINF:-1,PREMIERE 4 FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054474
-#EXTINF:-1,PREMIERE 4 HD
+#EXTINF:-1 group-title="HD",PREMIERE 4 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/193
 #EXTINF:-1,PREMIERE 4 HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054459
@@ -1503,7 +1503,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054457
 http://diretogo.com:80/cristinasantos9823/8912459x/17343
 #EXTINF:-1,PREMIERE 5 FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054473
-#EXTINF:-1,PREMIERE 5 HD
+#EXTINF:-1 group-title="HD",PREMIERE 5 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/190
 #EXTINF:-1,PREMIERE 5 HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054456
@@ -1527,7 +1527,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054454
 http://diretogo.com:80/cristinasantos9823/8912459x/17290
 #EXTINF:-1,PREMIERE 6 FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054472
-#EXTINF:-1,PREMIERE 6 HD
+#EXTINF:-1 group-title="HD",PREMIERE 6 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/4991
 #EXTINF:-1,PREMIERE 6 HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054453
@@ -1549,7 +1549,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054451
 http://diretogo.com:80/cristinasantos9823/8912459x/17289
 #EXTINF:-1,PREMIERE 7 FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054471
-#EXTINF:-1,PREMIERE 7 HD
+#EXTINF:-1 group-title="HD",PREMIERE 7 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/4990
 #EXTINF:-1,PREMIERE 7 HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054450
@@ -1569,9 +1569,9 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054448
 http://diretogo.com:80/cristinasantos9823/8912459x/8944
 #EXTINF:-1,PREMIERE 8 SDᴮᴿ
 http://diretogo.com:80/cristinasantos9823/8912459x/10055186
-#EXTINF:-1,LIGA FUTSAL 2 HD
+#EXTINF:-1 group-title="HD",LIGA FUTSAL 2 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10055535
-#EXTINF:-1,LIGA FUTSAL HD
+#EXTINF:-1 group-title="HD",LIGA FUTSAL HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10055534
 #EXTINF:-1,FURACAO TV
 http://diretogo.com:80/cristinasantos9823/8912459x/10054895
@@ -1641,7 +1641,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054888
 http://diretogo.com:80/cristinasantos9823/8912459x/19688
 #EXTINF:-1,COPA DO NORDESTE 3²
 http://diretogo.com:80/cristinasantos9823/8912459x/10046640
-#EXTINF:-1,ESTADIO TNT SPORTS HD
+#EXTINF:-1 group-title="HD",ESTADIO TNT SPORTS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053461
 #EXTINF:-1,ESTADIO TNT SPORTS HD²
 http://diretogo.com:80/cristinasantos9823/8912459x/10054030
@@ -1689,7 +1689,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047229
 http://diretogo.com:80/cristinasantos9823/8912459x/10054299
 #EXTINF:-1,TC PREMIUM FHD H265
 http://diretogo.com:80/cristinasantos9823/8912459x/17327
-#EXTINF:-1,TC PREMIUM HD
+#EXTINF:-1 group-title="HD",TC PREMIUM HD
 http://diretogo.com:80/cristinasantos9823/8912459x/287
 #EXTINF:-1,TC PREMIUM HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054298
@@ -1721,7 +1721,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047235
 http://diretogo.com:80/cristinasantos9823/8912459x/17331
 #EXTINF:-1,TC ACTION FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054327
-#EXTINF:-1,TC ACTION HD
+#EXTINF:-1 group-title="HD",TC ACTION HD
 http://diretogo.com:80/cristinasantos9823/8912459x/296
 #EXTINF:-1,TC ACTION HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054326
@@ -1753,7 +1753,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047227
 http://diretogo.com:80/cristinasantos9823/8912459x/17328
 #EXTINF:-1,TC PIPOCA FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054306
-#EXTINF:-1,TC PIPOCA HD
+#EXTINF:-1 group-title="HD",TC PIPOCA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/290
 #EXTINF:-1,TC PIPOCA HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054305
@@ -1783,7 +1783,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047233
 http://diretogo.com:80/cristinasantos9823/8912459x/17329
 #EXTINF:-1,TC FUN FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054313
-#EXTINF:-1,TC FUN HD
+#EXTINF:-1 group-title="HD",TC FUN HD
 http://diretogo.com:80/cristinasantos9823/8912459x/293
 #EXTINF:-1,TC FUN HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054312
@@ -1815,7 +1815,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/17326
 http://diretogo.com:80/cristinasantos9823/8912459x/10054292
 #EXTINF:-1,TC TOUCH FHD [LEG]*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054293
-#EXTINF:-1,TC TOUCH HD
+#EXTINF:-1 group-title="HD",TC TOUCH HD
 http://diretogo.com:80/cristinasantos9823/8912459x/284
 #EXTINF:-1,TC TOUCH HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054291
@@ -1845,7 +1845,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054322
 http://diretogo.com:80/cristinasantos9823/8912459x/17330
 #EXTINF:-1,TC CULT FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054320
-#EXTINF:-1,TC CULT HD
+#EXTINF:-1 group-title="HD",TC CULT HD
 http://diretogo.com:80/cristinasantos9823/8912459x/4791
 #EXTINF:-1,TC CULT HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054319
@@ -1877,7 +1877,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047269
 http://diretogo.com:80/cristinasantos9823/8912459x/17354
 #EXTINF:-1,MEGAPIX FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054535
-#EXTINF:-1,MEGAPIX HD
+#EXTINF:-1 group-title="HD",MEGAPIX HD
 http://diretogo.com:80/cristinasantos9823/8912459x/244
 #EXTINF:-1,MEGAPIX HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054534
@@ -1907,7 +1907,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047207
 http://diretogo.com:80/cristinasantos9823/8912459x/17322
 #EXTINF:-1,UNIVERSAL TV FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055074
-#EXTINF:-1,UNIVERSAL TV HD
+#EXTINF:-1 group-title="HD",UNIVERSAL TV HD
 http://diretogo.com:80/cristinasantos9823/8912459x/208
 #EXTINF:-1,UNIVERSAL TV HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055073
@@ -1929,7 +1929,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047238
 http://diretogo.com:80/cristinasantos9823/8912459x/17334
 #EXTINF:-1,STUDIO UNIVERSAL FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054340
-#EXTINF:-1,STUDIO UNIVERSAL HD
+#EXTINF:-1 group-title="HD",STUDIO UNIVERSAL HD
 http://diretogo.com:80/cristinasantos9823/8912459x/2763
 #EXTINF:-1,STUDIO UNIVERSAL HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054339
@@ -1949,7 +1949,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054337
 http://diretogo.com:80/cristinasantos9823/8912459x/17333
 #EXTINF:-1,SYFY FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054336
-#EXTINF:-1,SYFY HD
+#EXTINF:-1 group-title="HD",SYFY HD
 http://diretogo.com:80/cristinasantos9823/8912459x/2762
 #EXTINF:-1,SYFY HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054335
@@ -1965,7 +1965,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/17383
 http://diretogo.com:80/cristinasantos9823/8912459x/10054945
 #EXTINF:-1,CANAL BRASIL FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054946
-#EXTINF:-1,CANAL BRASIL HD
+#EXTINF:-1 group-title="HD",CANAL BRASIL HD
 http://diretogo.com:80/cristinasantos9823/8912459x/2871
 #EXTINF:-1,CANAL BRASIL HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054944
@@ -1985,7 +1985,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047293
 http://diretogo.com:80/cristinasantos9823/8912459x/17363
 #EXTINF:-1,HBO FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054598
-#EXTINF:-1,HBO HD
+#EXTINF:-1 group-title="HD",HBO HD
 http://diretogo.com:80/cristinasantos9823/8912459x/273
 #EXTINF:-1,HBO HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054597
@@ -2017,7 +2017,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047297
 http://diretogo.com:80/cristinasantos9823/8912459x/17365
 #EXTINF:-1,HBO 2 FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054607
-#EXTINF:-1,HBO 2 HD
+#EXTINF:-1 group-title="HD",HBO 2 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/279
 #EXTINF:-1,HBO 2 HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054606
@@ -2039,7 +2039,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047283
 http://diretogo.com:80/cristinasantos9823/8912459x/2970
 #EXTINF:-1,HBO+ FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054613
-#EXTINF:-1,HBO+ HD
+#EXTINF:-1 group-title="HD",HBO+ HD
 http://diretogo.com:80/cristinasantos9823/8912459x/270
 #EXTINF:-1,HBO+ HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054612
@@ -2071,7 +2071,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047295
 http://diretogo.com:80/cristinasantos9823/8912459x/17364
 #EXTINF:-1,HBO FAMILY FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054603
-#EXTINF:-1,HBO FAMILY HD
+#EXTINF:-1 group-title="HD",HBO FAMILY HD
 http://diretogo.com:80/cristinasantos9823/8912459x/276
 #EXTINF:-1,HBO FAMILY HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054602
@@ -2093,7 +2093,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047287
 http://diretogo.com:80/cristinasantos9823/8912459x/17361
 #EXTINF:-1,HBO SIGNATURE FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054577
-#EXTINF:-1,HBO SIGNATURE HD
+#EXTINF:-1 group-title="HD",HBO SIGNATURE HD
 http://diretogo.com:80/cristinasantos9823/8912459x/267
 #EXTINF:-1,HBO SIGNATURE HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054576
@@ -2121,7 +2121,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047291
 http://diretogo.com:80/cristinasantos9823/8912459x/17357
 #EXTINF:-1,HBO MUNDI FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054593
-#EXTINF:-1,HBO MUNDI HD
+#EXTINF:-1 group-title="HD",HBO MUNDI HD
 http://diretogo.com:80/cristinasantos9823/8912459x/4827
 #EXTINF:-1,HBO MUNDI HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054592
@@ -2151,7 +2151,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047289
 http://diretogo.com:80/cristinasantos9823/8912459x/17355
 #EXTINF:-1,HBO POP FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054586
-#EXTINF:-1,HBO POP HD
+#EXTINF:-1 group-title="HD",HBO POP HD
 http://diretogo.com:80/cristinasantos9823/8912459x/5043
 #EXTINF:-1,HBO POP HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054585
@@ -2181,7 +2181,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047285
 http://diretogo.com:80/cristinasantos9823/8912459x/17356
 #EXTINF:-1,HBO XTREME FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054570
-#EXTINF:-1,HBO XTREME HD
+#EXTINF:-1 group-title="HD",HBO XTREME HD
 http://diretogo.com:80/cristinasantos9823/8912459x/4828
 #EXTINF:-1,HBO XTREME HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054569
@@ -2211,7 +2211,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047357
 http://diretogo.com:80/cristinasantos9823/8912459x/17318
 #EXTINF:-1,A&E FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055050
-#EXTINF:-1,A&E HD
+#EXTINF:-1 group-title="HD",A&E HD
 http://diretogo.com:80/cristinasantos9823/8912459x/2881
 #EXTINF:-1,A&E HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055049
@@ -2233,7 +2233,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047355
 http://diretogo.com:80/cristinasantos9823/8912459x/17317
 #EXTINF:-1,AMC FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055042
-#EXTINF:-1,AMC HD
+#EXTINF:-1 group-title="HD",AMC HD
 http://diretogo.com:80/cristinasantos9823/8912459x/5477
 #EXTINF:-1,AMC HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055041
@@ -2255,7 +2255,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10055030
 http://diretogo.com:80/cristinasantos9823/8912459x/17388
 #EXTINF:-1,AXN FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055028
-#EXTINF:-1,AXN HD
+#EXTINF:-1 group-title="HD",AXN HD
 http://diretogo.com:80/cristinasantos9823/8912459x/231
 #EXTINF:-1,AXN HDᴮᴿ
 http://diretogo.com:80/cristinasantos9823/8912459x/17148
@@ -2283,7 +2283,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054938
 http://diretogo.com:80/cristinasantos9823/8912459x/17382
 #EXTINF:-1,CANAL SONY FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054936
-#EXTINF:-1,CANAL SONY HD
+#EXTINF:-1 group-title="HD",CANAL SONY HD
 http://diretogo.com:80/cristinasantos9823/8912459x/210
 #EXTINF:-1,CANAL SONY HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054935
@@ -2313,7 +2313,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047341
 http://diretogo.com:80/cristinasantos9823/8912459x/17380
 #EXTINF:-1,CINEMAX FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054926
-#EXTINF:-1,CINEMAX HD
+#EXTINF:-1 group-title="HD",CINEMAX HD
 http://diretogo.com:80/cristinasantos9823/8912459x/4825
 #EXTINF:-1,CINEMAX HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054925
@@ -2333,7 +2333,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054915
 http://diretogo.com:80/cristinasantos9823/8912459x/17378
 #EXTINF:-1,COMEDY CENTRAL FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054914
-#EXTINF:-1,COMEDY CENTRAL HD
+#EXTINF:-1 group-title="HD",COMEDY CENTRAL HD
 http://diretogo.com:80/cristinasantos9823/8912459x/2861
 #EXTINF:-1,COMEDY CENTRAL HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054913
@@ -2353,7 +2353,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/6284
 http://diretogo.com:80/cristinasantos9823/8912459x/17373
 #EXTINF:-1,STAR CHANNEL FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054364
-#EXTINF:-1,STAR CHANNEL HD
+#EXTINF:-1 group-title="HD",STAR CHANNEL HD
 http://diretogo.com:80/cristinasantos9823/8912459x/256
 #EXTINF:-1,STAR CHANNEL HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054363
@@ -2381,7 +2381,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054345
 http://diretogo.com:80/cristinasantos9823/8912459x/17372
 #EXTINF:-1,STAR LIFE FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054344
-#EXTINF:-1,STAR LIFE HD
+#EXTINF:-1 group-title="HD",STAR LIFE HD
 http://diretogo.com:80/cristinasantos9823/8912459x/250
 #EXTINF:-1,STAR LIFE HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054343
@@ -2403,7 +2403,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047314
 http://diretogo.com:80/cristinasantos9823/8912459x/17371
 #EXTINF:-1,STAR HITS FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054357
-#EXTINF:-1,STAR HITS HD
+#EXTINF:-1 group-title="HD",STAR HITS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/257
 #EXTINF:-1,STAR HITS HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054356
@@ -2431,7 +2431,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047312
 http://diretogo.com:80/cristinasantos9823/8912459x/17370
 #EXTINF:-1,STAR HITS 2 FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054350
-#EXTINF:-1,STAR HITS 2 HD
+#EXTINF:-1 group-title="HD",STAR HITS 2 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/3293
 #EXTINF:-1,STAR HITS 2 HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054349
@@ -2457,7 +2457,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054798
 http://diretogo.com:80/cristinasantos9823/8912459x/17368
 #EXTINF:-1,FX FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054796
-#EXTINF:-1,FX HD
+#EXTINF:-1 group-title="HD",FX HD
 http://diretogo.com:80/cristinasantos9823/8912459x/247
 #EXTINF:-1,FX HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054795
@@ -2497,7 +2497,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047249
 http://diretogo.com:80/cristinasantos9823/8912459x/2962
 #EXTINF:-1,PARAMOUNT FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054483
-#EXTINF:-1,PARAMOUNT HD
+#EXTINF:-1 group-title="HD",PARAMOUNT HD
 http://diretogo.com:80/cristinasantos9823/8912459x/228
 #EXTINF:-1,PARAMOUNT HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054482
@@ -2519,7 +2519,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047240
 http://diretogo.com:80/cristinasantos9823/8912459x/17338
 #EXTINF:-1,SPACE FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054383
-#EXTINF:-1,SPACE HD
+#EXTINF:-1 group-title="HD",SPACE HD
 http://diretogo.com:80/cristinasantos9823/8912459x/223
 #EXTINF:-1,SPACE HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054382
@@ -2551,7 +2551,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047237
 http://diretogo.com:80/cristinasantos9823/8912459x/17332
 #EXTINF:-1,TBS FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054332
-#EXTINF:-1,TBS HD
+#EXTINF:-1 group-title="HD",TBS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/220
 #EXTINF:-1,TBS HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054331
@@ -2563,9 +2563,9 @@ http://diretogo.com:80/cristinasantos9823/8912459x/221
 http://diretogo.com:80/cristinasantos9823/8912459x/10054330
 #EXTINF:-1,TBS SDᴮᴿ
 http://diretogo.com:80/cristinasantos9823/8912459x/10047236
-#EXTINF:-1,TCM HD
+#EXTINF:-1 group-title="HD",TCM HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10027045
-#EXTINF:-1,TCM HD
+#EXTINF:-1 group-title="HD",TCM HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10027044
 #EXTINF:-1,TCM SD
 http://diretogo.com:80/cristinasantos9823/8912459x/214
@@ -2579,7 +2579,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047217
 http://diretogo.com:80/cristinasantos9823/8912459x/17325
 #EXTINF:-1,TNT FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055130
-#EXTINF:-1,TNT HD
+#EXTINF:-1 group-title="HD",TNT HD
 http://diretogo.com:80/cristinasantos9823/8912459x/263
 #EXTINF:-1,TNT HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055129
@@ -2611,7 +2611,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047219
 http://diretogo.com:80/cristinasantos9823/8912459x/17324
 #EXTINF:-1,TNT SERIES FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055123
-#EXTINF:-1,TNT SERIES HD
+#EXTINF:-1 group-title="HD",TNT SERIES HD
 http://diretogo.com:80/cristinasantos9823/8912459x/260
 #EXTINF:-1,TNT SERIES HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055122
@@ -2643,7 +2643,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047203
 http://diretogo.com:80/cristinasantos9823/8912459x/17319
 #EXTINF:-1,WARNER FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055060
-#EXTINF:-1,WARNER HD
+#EXTINF:-1 group-title="HD",WARNER HD
 http://diretogo.com:80/cristinasantos9823/8912459x/241
 #EXTINF:-1,WARNER HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055059
@@ -2675,7 +2675,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047332
 http://diretogo.com:80/cristinasantos9823/8912459x/10054858
 #EXTINF:-1,DISCOVERY TURBO FHD H265
 http://diretogo.com:80/cristinasantos9823/8912459x/17310
-#EXTINF:-1,DISCOVERY TURBO HD
+#EXTINF:-1 group-title="HD",DISCOVERY TURBO HD
 http://diretogo.com:80/cristinasantos9823/8912459x/126
 #EXTINF:-1,DISCOVERY TURBO HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054857
@@ -2695,7 +2695,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054842
 http://diretogo.com:80/cristinasantos9823/8912459x/17306
 #EXTINF:-1,E! FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054841
-#EXTINF:-1,E! HD
+#EXTINF:-1 group-title="HD",E! HD
 http://diretogo.com:80/cristinasantos9823/8912459x/2848
 #EXTINF:-1,E! HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054840
@@ -2727,7 +2727,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/17374
 http://diretogo.com:80/cristinasantos9823/8912459x/10054813
 #EXTINF:-1,FOOD NETWORK HDᴮᴿ
 http://diretogo.com:80/cristinasantos9823/8912459x/17091
-#EXTINF:-1,FOOD NETWORK HD
+#EXTINF:-1 group-title="HD",FOOD NETWORK HD
 http://diretogo.com:80/cristinasantos9823/8912459x/2841
 #EXTINF:-1,FOOD NETWORK HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054812
@@ -2747,7 +2747,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047301
 http://diretogo.com:80/cristinasantos9823/8912459x/2973
 #EXTINF:-1,GNT FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054618
-#EXTINF:-1,GNT HD
+#EXTINF:-1 group-title="HD",GNT HD
 http://diretogo.com:80/cristinasantos9823/8912459x/82
 #EXTINF:-1,GNT HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054617
@@ -2769,7 +2769,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047281
 http://diretogo.com:80/cristinasantos9823/8912459x/17315
 #EXTINF:-1,HGTV FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054564
-#EXTINF:-1,HGTV HD
+#EXTINF:-1 group-title="HD",HGTV HD
 http://diretogo.com:80/cristinasantos9823/8912459x/5475
 #EXTINF:-1,HGTV HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054563
@@ -2791,7 +2791,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047277
 http://diretogo.com:80/cristinasantos9823/8912459x/17314
 #EXTINF:-1,HOME & HEALTH FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054878
-#EXTINF:-1,HOME & HEALTH HD
+#EXTINF:-1 group-title="HD",HOME & HEALTH HD
 http://diretogo.com:80/cristinasantos9823/8912459x/130
 #EXTINF:-1,HOME & HEALTH HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054877
@@ -2813,7 +2813,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047273
 http://diretogo.com:80/cristinasantos9823/8912459x/17359
 #EXTINF:-1,LIFETIME FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054548
-#EXTINF:-1,LIFETIME HD
+#EXTINF:-1 group-title="HD",LIFETIME HD
 http://diretogo.com:80/cristinasantos9823/8912459x/5059
 #EXTINF:-1,LIFETIME HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054547
@@ -2827,7 +2827,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054546
 http://diretogo.com:80/cristinasantos9823/8912459x/10047272
 #EXTINF:-1,LOADING SD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052808
-#EXTINF:-1,LOADING HD
+#EXTINF:-1 group-title="HD",LOADING HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052807
 #EXTINF:-1,LOADING FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052806
@@ -2865,7 +2865,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047221
 http://diretogo.com:80/cristinasantos9823/8912459x/17268
 #EXTINF:-1,TLC FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054286
-#EXTINF:-1,TLC HD
+#EXTINF:-1 group-title="HD",TLC HD
 http://diretogo.com:80/cristinasantos9823/8912459x/2747
 #EXTINF:-1,TLC HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054285
@@ -2887,7 +2887,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047205
 http://diretogo.com:80/cristinasantos9823/8912459x/17320
 #EXTINF:-1,VIVA FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055065
-#EXTINF:-1,VIVA HD
+#EXTINF:-1 group-title="HD",VIVA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/79
 #EXTINF:-1,VIVA HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055064
@@ -2909,7 +2909,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047201
 http://diretogo.com:80/cristinasantos9823/8912459x/10027047
 #EXTINF:-1,WOOHOO FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055054
-#EXTINF:-1,WOOHOO HD
+#EXTINF:-1 group-title="HD",WOOHOO HD
 http://diretogo.com:80/cristinasantos9823/8912459x/4775
 #EXTINF:-1,WOOHOO HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055053
@@ -2923,7 +2923,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047200
 http://diretogo.com:80/cristinasantos9823/8912459x/9641
 #EXTINF:-1,TRUTV FHD H265
 http://diretogo.com:80/cristinasantos9823/8912459x/17267
-#EXTINF:-1,TRUTV HD
+#EXTINF:-1 group-title="HD",TRUTV HD
 http://diretogo.com:80/cristinasantos9823/8912459x/9640
 #EXTINF:-1,TRUTV SD
 http://diretogo.com:80/cristinasantos9823/8912459x/74
@@ -2949,7 +2949,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047265
 http://diretogo.com:80/cristinasantos9823/8912459x/17293
 #EXTINF:-1,MULTISHOW FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054521
-#EXTINF:-1,MULTISHOW HD
+#EXTINF:-1 group-title="HD",MULTISHOW HD
 http://diretogo.com:80/cristinasantos9823/8912459x/93
 #EXTINF:-1,MULTISHOW HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054520
@@ -2971,7 +2971,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047348
 http://diretogo.com:80/cristinasantos9823/8912459x/17385
 #EXTINF:-1,BIS FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054962
-#EXTINF:-1,BIS HD
+#EXTINF:-1 group-title="HD",BIS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/4955
 #EXTINF:-1,BIS HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054961
@@ -2991,7 +2991,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047267
 http://diretogo.com:80/cristinasantos9823/8912459x/17353
 #EXTINF:-1,MTV FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054529
-#EXTINF:-1,MTV HD
+#EXTINF:-1 group-title="HD",MTV HD
 http://diretogo.com:80/cristinasantos9823/8912459x/4957
 #EXTINF:-1,MTV HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054528
@@ -3011,7 +3011,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054527
 http://diretogo.com:80/cristinasantos9823/8912459x/10054526
 #EXTINF:-1,MTV LIVE FHD H265
 http://diretogo.com:80/cristinasantos9823/8912459x/17294
-#EXTINF:-1,MTV LIVE HD
+#EXTINF:-1 group-title="HD",MTV LIVE HD
 http://diretogo.com:80/cristinasantos9823/8912459x/9626
 #EXTINF:-1,MTV LIVE HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054525
@@ -3029,7 +3029,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047263
 http://diretogo.com:80/cristinasantos9823/8912459x/17352
 #EXTINF:-1,MUSIC BOX BRAZIL FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054517
-#EXTINF:-1,MUSIC BOX BRAZIL HD
+#EXTINF:-1 group-title="HD",MUSIC BOX BRAZIL HD
 http://diretogo.com:80/cristinasantos9823/8912459x/9630
 #EXTINF:-1,MUSIC BOX BRAZIL HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054516
@@ -3051,7 +3051,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054446
 http://diretogo.com:80/cristinasantos9823/8912459x/90
 #EXTINF:-1,PRIME BOX BRAZIL HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054445
-#EXTINF:-1,PRIME BOX BRAZIL HD
+#EXTINF:-1 group-title="HD",PRIME BOX BRAZIL HD
 http://diretogo.com:80/cristinasantos9823/8912459x/2779
 #EXTINF:-1,PRIME BOX BRAZIL SD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054444
@@ -3075,7 +3075,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10055068
 http://diretogo.com:80/cristinasantos9823/8912459x/10055067
 #EXTINF:-1,VH1 FHD H265
 http://diretogo.com:80/cristinasantos9823/8912459x/17321
-#EXTINF:-1,VH1 HD
+#EXTINF:-1 group-title="HD",VH1 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/2733
 #EXTINF:-1,VH1 SD
 http://diretogo.com:80/cristinasantos9823/8912459x/9644
@@ -3095,7 +3095,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047353
 http://diretogo.com:80/cristinasantos9823/8912459x/17390
 #EXTINF:-1,ANIMAL PLANET FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055038
-#EXTINF:-1,ANIMAL PLANET HD
+#EXTINF:-1 group-title="HD",ANIMAL PLANET HD
 http://diretogo.com:80/cristinasantos9823/8912459x/116
 #EXTINF:-1,ANIMAL PLANET HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055037
@@ -3117,7 +3117,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047275
 http://diretogo.com:80/cristinasantos9823/8912459x/17295
 #EXTINF:-1,ID - INVESTIGATION DISCOVERY FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054552
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD
+#EXTINF:-1 group-title="HD",ID - INVESTIGACAO DISCOVERY HD
 http://diretogo.com:80/cristinasantos9823/8912459x/109
 #EXTINF:-1,ID - INVESTIGATION DISCOVERY HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054551
@@ -3141,7 +3141,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10041071
 http://diretogo.com:80/cristinasantos9823/8912459x/17279
 #EXTINF:-1,DISCOVERY CHANNEL FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054874
-#EXTINF:-1,DISCOVERY CHANNEL HD
+#EXTINF:-1 group-title="HD",DISCOVERY CHANNEL HD
 http://diretogo.com:80/cristinasantos9823/8912459x/133
 #EXTINF:-1,DISCOVERY CHANNEL HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054873
@@ -3161,7 +3161,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054867
 http://diretogo.com:80/cristinasantos9823/8912459x/10054866
 #EXTINF:-1,DISCOVERY SCIENCE FHD H265
 http://diretogo.com:80/cristinasantos9823/8912459x/17312
-#EXTINF:-1,DISCOVERY SCIENCE HD
+#EXTINF:-1 group-title="HD",DISCOVERY SCIENCE HD
 http://diretogo.com:80/cristinasantos9823/8912459x/5476
 #EXTINF:-1,DISCOVERY SCIENCE HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054865
@@ -3183,7 +3183,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047223
 http://diretogo.com:80/cristinasantos9823/8912459x/17311
 #EXTINF:-1,THEATER FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054862
-#EXTINF:-1,THEATER HD
+#EXTINF:-1 group-title="HD",THEATER HD
 http://diretogo.com:80/cristinasantos9823/8912459x/127
 #EXTINF:-1,THEATER HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054861
@@ -3205,7 +3205,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047199
 http://diretogo.com:80/cristinasantos9823/8912459x/17309
 #EXTINF:-1,WORLD FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054854
-#EXTINF:-1,WORLD HD
+#EXTINF:-1 group-title="HD",WORLD HD
 http://diretogo.com:80/cristinasantos9823/8912459x/123
 #EXTINF:-1,WORLD HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054853
@@ -3227,7 +3227,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047259
 http://diretogo.com:80/cristinasantos9823/8912459x/17350
 #EXTINF:-1,NAT GEO WILD FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054509
-#EXTINF:-1,NAT GEO WILD HD
+#EXTINF:-1 group-title="HD",NAT GEO WILD HD
 http://diretogo.com:80/cristinasantos9823/8912459x/106
 #EXTINF:-1,NAT GEO WILD HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054508
@@ -3249,7 +3249,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047261
 http://diretogo.com:80/cristinasantos9823/8912459x/17351
 #EXTINF:-1,NATIONAL GEOGRAPHIC FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054505
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 group-title="HD",NATIONAL GEOGRAPHIC HD
 http://diretogo.com:80/cristinasantos9823/8912459x/103
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054504
@@ -3271,7 +3271,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054389
 http://diretogo.com:80/cristinasantos9823/8912459x/17269
 #EXTINF:-1,SMITHSONIAN FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054388
-#EXTINF:-1,SMITHSONIAN CHANNEL HD
+#EXTINF:-1 group-title="HD",SMITHSONIAN CHANNEL HD
 http://diretogo.com:80/cristinasantos9823/8912459x/16953
 #EXTINF:-1,SMITHSONIAN HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054387
@@ -3289,7 +3289,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047279
 http://diretogo.com:80/cristinasantos9823/8912459x/17360
 #EXTINF:-1,HISTORY FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054556
-#EXTINF:-1,HISTORY HD
+#EXTINF:-1 group-title="HD",HISTORY HD
 http://diretogo.com:80/cristinasantos9823/8912459x/112
 #EXTINF:-1,HISTORY HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054555
@@ -3311,7 +3311,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047299
 http://diretogo.com:80/cristinasantos9823/8912459x/17296
 #EXTINF:-1,H2 FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054560
-#EXTINF:-1,H2 HD
+#EXTINF:-1 group-title="HD",H2 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/115
 #EXTINF:-1,H2 HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054559
@@ -3331,7 +3331,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10055035
 http://diretogo.com:80/cristinasantos9823/8912459x/17389
 #EXTINF:-1,ARTE 1 FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055034
-#EXTINF:-1,ARTE 1 HD
+#EXTINF:-1 group-title="HD",ARTE 1 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/5474
 #EXTINF:-1,CURTA! FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/9607
@@ -3341,7 +3341,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054883
 http://diretogo.com:80/cristinasantos9823/8912459x/17377
 #EXTINF:-1,CURTA! FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054882
-#EXTINF:-1,CURTA! HD
+#EXTINF:-1 group-title="HD",CURTA! HD
 http://diretogo.com:80/cristinasantos9823/8912459x/9606
 #EXTINF:-1,CURTA! HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054881
@@ -3361,7 +3361,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10048416
 http://diretogo.com:80/cristinasantos9823/8912459x/17387
 #EXTINF:-1,BAND NEWS FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055018
-#EXTINF:-1,BAND NEWS HD
+#EXTINF:-1 group-title="HD",BAND NEWS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/5843
 #EXTINF:-1,BAND NEWS HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055017
@@ -3381,7 +3381,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047339
 http://diretogo.com:80/cristinasantos9823/8912459x/10027036
 #EXTINF:-1,CNN BRASIL FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054922
-#EXTINF:-1,CNN BRASIL HD
+#EXTINF:-1 group-title="HD",CNN BRASIL HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10027034
 #EXTINF:-1,CNN BRASIL HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054921
@@ -3401,7 +3401,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054755
 http://diretogo.com:80/cristinasantos9823/8912459x/17367
 #EXTINF:-1,GB NEWS FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054754
-#EXTINF:-1,GB NEWS HD
+#EXTINF:-1 group-title="HD",GB NEWS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/2826
 #EXTINF:-1,GB NEWS HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054753
@@ -3411,7 +3411,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/17164
 http://diretogo.com:80/cristinasantos9823/8912459x/10054752
 #EXTINF:-1,GB NEWS SD
 http://diretogo.com:80/cristinasantos9823/8912459x/18
-#EXTINF:-1,NHK HD
+#EXTINF:-1 group-title="HD",NHK HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10027046
 #EXTINF:-1,NHK SD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054501
@@ -3423,7 +3423,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/7097
 http://diretogo.com:80/cristinasantos9823/8912459x/17271
 #EXTINF:-1,RECORD NEWS FHD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10056229
-#EXTINF:-1,RECORD NEWS HD
+#EXTINF:-1 group-title="HD",RECORD NEWS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/2776
 #EXTINF:-1,RECORD NEWS HD²
 http://diretogo.com:80/cristinasantos9823/8912459x/6272
@@ -3431,7 +3431,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/6272
 http://diretogo.com:80/cristinasantos9823/8912459x/23
 #EXTINF:-1,BABY TV FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10027048
-#EXTINF:-1,BABY TV HD
+#EXTINF:-1 group-title="HD",BABY TV HD
 http://diretogo.com:80/cristinasantos9823/8912459x/4885
 #EXTINF:-1,BABY TV SD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055023
@@ -3447,7 +3447,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047346
 http://diretogo.com:80/cristinasantos9823/8912459x/17384
 #EXTINF:-1,BOOMERANG FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054957
-#EXTINF:-1,BOOMERANG HD
+#EXTINF:-1 group-title="HD",BOOMERANG HD
 http://diretogo.com:80/cristinasantos9823/8912459x/5827
 #EXTINF:-1,BOOMERANG HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054956
@@ -3473,7 +3473,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047343
 http://diretogo.com:80/cristinasantos9823/8912459x/17381
 #EXTINF:-1,CARTOON NETWORK FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054930
-#EXTINF:-1,CARTOON NETWORK HD
+#EXTINF:-1 group-title="HD",CARTOON NETWORK HD
 http://diretogo.com:80/cristinasantos9823/8912459x/63
 #EXTINF:-1,CARTOON NETWORK HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054929
@@ -3493,7 +3493,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054871
 http://diretogo.com:80/cristinasantos9823/8912459x/10054870
 #EXTINF:-1,DISCOVERY KIDS FHD H265
 http://diretogo.com:80/cristinasantos9823/8912459x/17313
-#EXTINF:-1,DISCOVERY KIDS HD
+#EXTINF:-1 group-title="HD",DISCOVERY KIDS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/4826
 #EXTINF:-1,DISCOVERY KIDS HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054869
@@ -3515,7 +3515,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047330
 http://diretogo.com:80/cristinasantos9823/8912459x/17308
 #EXTINF:-1,DISNEY CHANNEL FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054850
-#EXTINF:-1,DISNEY CHANNEL HD
+#EXTINF:-1 group-title="HD",DISNEY CHANNEL HD
 http://diretogo.com:80/cristinasantos9823/8912459x/2852
 #EXTINF:-1,DISNEY CHANNEL HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054849
@@ -3537,7 +3537,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047328
 http://diretogo.com:80/cristinasantos9823/8912459x/17307
 #EXTINF:-1,DISNEY JUNIOR FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054846
-#EXTINF:-1,DISNEY JUNIOR HD
+#EXTINF:-1 group-title="HD",DISNEY JUNIOR HD
 http://diretogo.com:80/cristinasantos9823/8912459x/5645
 #EXTINF:-1,DISNEY JUNIOR HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054845
@@ -3553,7 +3553,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047327
 http://diretogo.com:80/cristinasantos9823/8912459x/10027049
 #EXTINF:-1,DISNEY XD FHD H265
 http://diretogo.com:80/cristinasantos9823/8912459x/17278
-#EXTINF:-1,DISNEY XD HD
+#EXTINF:-1 group-title="HD",DISNEY XD HD
 http://diretogo.com:80/cristinasantos9823/8912459x/2850
 #EXTINF:-1,DISNEY XD SD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054843
@@ -3567,7 +3567,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054627
 http://diretogo.com:80/cristinasantos9823/8912459x/17366
 #EXTINF:-1,GLOOB FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054626
-#EXTINF:-1,GLOOB HD
+#EXTINF:-1 group-title="HD",GLOOB HD
 http://diretogo.com:80/cristinasantos9823/8912459x/2819
 #EXTINF:-1,GLOOB HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054625
@@ -3585,7 +3585,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/17272
 http://diretogo.com:80/cristinasantos9823/8912459x/10054624
 #EXTINF:-1,GLOOBINHO FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054623
-#EXTINF:-1,GLOOBINHO HD
+#EXTINF:-1 group-title="HD",GLOOBINHO HD
 http://diretogo.com:80/cristinasantos9823/8912459x/5346
 #EXTINF:-1,GLOOBINHO HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054622
@@ -3605,7 +3605,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054514
 http://diretogo.com:80/cristinasantos9823/8912459x/10054513
 #EXTINF:-1,NAT GEO KIDS FHD H265
 http://diretogo.com:80/cristinasantos9823/8912459x/17292
-#EXTINF:-1,NAT GEO KIDS HD
+#EXTINF:-1 group-title="HD",NAT GEO KIDS HD
 http://diretogo.com:80/cristinasantos9823/8912459x/4692
 #EXTINF:-1,NAT GEO KIDS HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054512
@@ -3627,7 +3627,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047255
 http://diretogo.com:80/cristinasantos9823/8912459x/17348
 #EXTINF:-1,NICKELODEON FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054499
-#EXTINF:-1,NICK HD
+#EXTINF:-1 group-title="HD",NICK HD
 http://diretogo.com:80/cristinasantos9823/8912459x/4886
 #EXTINF:-1,NICKELODEON HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054498
@@ -3649,7 +3649,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047253
 http://diretogo.com:80/cristinasantos9823/8912459x/17349
 #EXTINF:-1,NICK JR. FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054495
-#EXTINF:-1,NICK JR HD
+#EXTINF:-1 group-title="HD",NICK JR HD
 http://diretogo.com:80/cristinasantos9823/8912459x/5045
 #EXTINF:-1,NICK JR. HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054494
@@ -3663,7 +3663,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054493
 http://diretogo.com:80/cristinasantos9823/8912459x/10047252
 #EXTINF:-1,TOONCAST FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10027050
-#EXTINF:-1,TOONCAST HD
+#EXTINF:-1 group-title="HD",TOONCAST HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10027051
 #EXTINF:-1,TOONCAST SD
 http://diretogo.com:80/cristinasantos9823/8912459x/48
@@ -3677,7 +3677,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047209
 http://diretogo.com:80/cristinasantos9823/8912459x/17323
 #EXTINF:-1,TV RA TIM BUM FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055083
-#EXTINF:-1,TV RA TIM BUM HD
+#EXTINF:-1 group-title="HD",TV RA TIM BUM HD
 http://diretogo.com:80/cristinasantos9823/8912459x/4889
 #EXTINF:-1,TV RA TIM BUM HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055082
@@ -3687,11 +3687,11 @@ http://diretogo.com:80/cristinasantos9823/8912459x/41
 http://diretogo.com:80/cristinasantos9823/8912459x/10055081
 #EXTINF:-1,TV RÁ TIM BUM SDᴮᴿ
 http://diretogo.com:80/cristinasantos9823/8912459x/10047208
-#EXTINF:-1,ZOOMOO HD
+#EXTINF:-1 group-title="HD",ZOOMOO HD
 http://diretogo.com:80/cristinasantos9823/8912459x/5455
 #EXTINF:-1,ZOOMOO SD
 http://diretogo.com:80/cristinasantos9823/8912459x/17470
-#EXTINF:-1,CANÇÃO NOVA HD
+#EXTINF:-1 group-title="HD",CANÇÃO NOVA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/3290
 #EXTINF:-1,CANCAO NOVA SD
 http://diretogo.com:80/cristinasantos9823/8912459x/39
@@ -3705,7 +3705,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047246
 http://diretogo.com:80/cristinasantos9823/8912459x/17339
 #EXTINF:-1,REDE VIDA FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054399
-#EXTINF:-1,REVE VIDA HD
+#EXTINF:-1 group-title="HD",REVE VIDA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10027052
 #EXTINF:-1,REDE VIDA HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054398
@@ -3723,7 +3723,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/16731
 http://diretogo.com:80/cristinasantos9823/8912459x/10047215
 #EXTINF:-1,TV APARECIDA FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055109
-#EXTINF:-1,TV APARECIDA HD
+#EXTINF:-1 group-title="HD",TV APARECIDA HD
 http://diretogo.com:80/cristinasantos9823/8912459x/30
 #EXTINF:-1,TV APARECIDA HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055108
@@ -3743,7 +3743,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047211
 http://diretogo.com:80/cristinasantos9823/8912459x/17283
 #EXTINF:-1,TV NOVO TEMPO FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055088
-#EXTINF:-1,TV NOVO TEMPO HD
+#EXTINF:-1 group-title="HD",TV NOVO TEMPO HD
 http://diretogo.com:80/cristinasantos9823/8912459x/17222
 #EXTINF:-1,TV NOVO TEMPO HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055087
@@ -3859,11 +3859,11 @@ http://diretogo.com:80/cristinasantos9823/8912459x/1717
 http://diretogo.com:80/cristinasantos9823/8912459x/10055119
 #EXTINF:-1,AXN SD [LEG]*
 http://diretogo.com:80/cristinasantos9823/8912459x/10055024
-#EXTINF:-1,[ADULTO] ОХ-АХ HD
+#EXTINF:-1 group-title="HD",[ADULTO] ОХ-АХ HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10058844
-#EXTINF:-1,[ADULTO] XY Max HD
+#EXTINF:-1 group-title="HD",[ADULTO] XY Max HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10058841
-#EXTINF:-1,[ADULTO] XY Mix HD
+#EXTINF:-1 group-title="HD",[ADULTO] XY Mix HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10058839
 #EXTINF:-1,[ADULTO] SL HOT HD2
 http://diretogo.com:80/cristinasantos9823/8912459x/10058838
@@ -3875,27 +3875,27 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10058835
 http://diretogo.com:80/cristinasantos9823/8912459x/10058834
 #EXTINF:-1,[ADULTO] KinoXXX
 http://diretogo.com:80/cristinasantos9823/8912459x/10058833
-#EXTINF:-1,[ADULTO] Superone HD
+#EXTINF:-1 group-title="HD",[ADULTO] Superone HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10058832
 #EXTINF:-1,[ADULTO] Playboy TV
 http://diretogo.com:80/cristinasantos9823/8912459x/10058830
-#EXTINF:-1,[ADULTO] Vivid Red HD
+#EXTINF:-1 group-title="HD",[ADULTO] Vivid Red HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10058829
-#EXTINF:-1,[ADULTO] Erox HD
+#EXTINF:-1 group-title="HD",[ADULTO] Erox HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10058827
-#EXTINF:-1,[ADULTO] Eroxxx HD
+#EXTINF:-1 group-title="HD",[ADULTO] Eroxxx HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10058826
-#EXTINF:-1,[ADULTO] Hustler HD
+#EXTINF:-1 group-title="HD",[ADULTO] Hustler HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10058825
 #EXTINF:-1,[ADULTO] Private TV
 http://diretogo.com:80/cristinasantos9823/8912459x/10058824
-#EXTINF:-1,[ADULTO] Redlight HD
+#EXTINF:-1 group-title="HD",[ADULTO] Redlight HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10058823
 #EXTINF:-1,[ADULTO] Jasmin TV
 http://diretogo.com:80/cristinasantos9823/8912459x/10058822
 #EXTINF:-1,[ADULTO] Babes TV
 http://diretogo.com:80/cristinasantos9823/8912459x/10058821
-#EXTINF:-1,[ADULTO] Penthouse Gold HD
+#EXTINF:-1 group-title="HD",[ADULTO] Penthouse Gold HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10058820
 #EXTINF:-1,[ADULTO] Penthouse 2
 http://diretogo.com:80/cristinasantos9823/8912459x/10058819
@@ -3907,7 +3907,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10058817
 http://diretogo.com:80/cristinasantos9823/8912459x/10058815
 #EXTINF:-1,[ADULTO] Candy
 http://diretogo.com:80/cristinasantos9823/8912459x/10058813
-#EXTINF:-1,[ADULTO] Extasy HD
+#EXTINF:-1 group-title="HD",[ADULTO] Extasy HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10058812
 #EXTINF:-1,[ADULTO] XXL
 http://diretogo.com:80/cristinasantos9823/8912459x/10058811
@@ -3941,7 +3941,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054480
 http://diretogo.com:80/cristinasantos9823/8912459x/17341
 #EXTINF:-1,PLAYBOY FHD H265*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054479
-#EXTINF:-1,PLAYBOY HD
+#EXTINF:-1 group-title="HD",PLAYBOY HD
 http://diretogo.com:80/cristinasantos9823/8912459x/2791
 #EXTINF:-1,PLAYBOY HD*
 http://diretogo.com:80/cristinasantos9823/8912459x/10054478
@@ -3953,7 +3953,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10039599
 http://diretogo.com:80/cristinasantos9823/8912459x/10054477
 #EXTINF:-1,SEXY HOT FHD H265
 http://diretogo.com:80/cristinasantos9823/8912459x/17286
-#EXTINF:-1,SEXY HOT HD
+#EXTINF:-1 group-title="HD",SEXY HOT HD
 http://diretogo.com:80/cristinasantos9823/8912459x/17217
 #EXTINF:-1,SEXY HOT SD
 http://diretogo.com:80/cristinasantos9823/8912459x/362
@@ -3961,7 +3961,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/362
 http://diretogo.com:80/cristinasantos9823/8912459x/10054391
 #EXTINF:-1,SEXTREME FHD H265
 http://diretogo.com:80/cristinasantos9823/8912459x/17285
-#EXTINF:-1,SEXTREME HD
+#EXTINF:-1 group-title="HD",SEXTREME HD
 http://diretogo.com:80/cristinasantos9823/8912459x/17218
 #EXTINF:-1,SEXTREME SD
 http://diretogo.com:80/cristinasantos9823/8912459x/364
@@ -4055,25 +4055,25 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10033882
 http://diretogo.com:80/cristinasantos9823/8912459x/10053133
 #EXTINF:-1,PT: RTP 1
 http://diretogo.com:80/cristinasantos9823/8912459x/10053132
-#EXTINF:-1,PT: RTP 1 HD
+#EXTINF:-1 group-title="HD",PT: RTP 1 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053131
 #EXTINF:-1,PT: RTP 1 FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053130
 #EXTINF:-1,PT: RTP 2
 http://diretogo.com:80/cristinasantos9823/8912459x/10053129
-#EXTINF:-1,PT: RTP 2 HD
+#EXTINF:-1 group-title="HD",PT: RTP 2 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053128
 #EXTINF:-1,PT: RTP 2 FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053127
 #EXTINF:-1,PT: SIC
 http://diretogo.com:80/cristinasantos9823/8912459x/10053126
-#EXTINF:-1,PT: SIC HD
+#EXTINF:-1 group-title="HD",PT: SIC HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053125
 #EXTINF:-1,PT: SIC FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053124
 #EXTINF:-1,PT: TVI
 http://diretogo.com:80/cristinasantos9823/8912459x/10053123
-#EXTINF:-1,PT: TVI HD
+#EXTINF:-1 group-title="HD",PT: TVI HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053122
 #EXTINF:-1,PT: TVI FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053121
@@ -4189,37 +4189,37 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10053051
 http://diretogo.com:80/cristinasantos9823/8912459x/10053047
 #EXTINF:-1,PT: TV CINE TOP
 http://diretogo.com:80/cristinasantos9823/8912459x/10053046
-#EXTINF:-1,PT: TV CINE TOP HD
+#EXTINF:-1 group-title="HD",PT: TV CINE TOP HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053045
 #EXTINF:-1,PT: TV CINE TOP FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053044
-#EXTINF:-1,PT: TV CINE EDITION HD
+#EXTINF:-1 group-title="HD",PT: TV CINE EDITION HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053042
 #EXTINF:-1,PT: TV CINE EDITION FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053041
 #EXTINF:-1,PT: TV CINE EMOTION
 http://diretogo.com:80/cristinasantos9823/8912459x/10053040
-#EXTINF:-1,PT: TV CINE EMOTION HD
+#EXTINF:-1 group-title="HD",PT: TV CINE EMOTION HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053039
 #EXTINF:-1,PT: TV CINE EMOTION FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053038
-#EXTINF:-1,PT: TV CINE ACTION HD
+#EXTINF:-1 group-title="HD",PT: TV CINE ACTION HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053036
 #EXTINF:-1,PT: TV CINE ACTION FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053035
 #EXTINF:-1,PT: NOS STUDIOS
 http://diretogo.com:80/cristinasantos9823/8912459x/10053034
-#EXTINF:-1,PT: NOS STUDIO HD
+#EXTINF:-1 group-title="HD",PT: NOS STUDIO HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053033
 #EXTINF:-1,PT: NOS STUDIO FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053032
 #EXTINF:-1,PT: AMC
 http://diretogo.com:80/cristinasantos9823/8912459x/10053031
-#EXTINF:-1,PT: AMC HD
+#EXTINF:-1 group-title="HD",PT: AMC HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053030
 #EXTINF:-1,PT: HOLLYWOOD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053028
-#EXTINF:-1,PT: HOLLYWOOD HD
+#EXTINF:-1 group-title="HD",PT: HOLLYWOOD HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053027
 #EXTINF:-1,PT: HOLLYWOOD FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053026
@@ -4229,25 +4229,25 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10053025
 http://diretogo.com:80/cristinasantos9823/8912459x/10053022
 #EXTINF:-1,PT: AXN
 http://diretogo.com:80/cristinasantos9823/8912459x/10053021
-#EXTINF:-1,PT: AXN HD
+#EXTINF:-1 group-title="HD",PT: AXN HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053020
 #EXTINF:-1,PT: AXN FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053019
 #EXTINF:-1,PT: AXN WHITE
 http://diretogo.com:80/cristinasantos9823/8912459x/10053018
-#EXTINF:-1,PT: AXN WHITE HD
+#EXTINF:-1 group-title="HD",PT: AXN WHITE HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053017
 #EXTINF:-1,PT: AXN WHITE FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053016
 #EXTINF:-1,PT: AXN MOVIES
 http://diretogo.com:80/cristinasantos9823/8912459x/10053015
-#EXTINF:-1,PT: AXN MOVIES HD
+#EXTINF:-1 group-title="HD",PT: AXN MOVIES HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053014
 #EXTINF:-1,PT: AXN MOVIES FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053013
 #EXTINF:-1,PT: FOX
 http://diretogo.com:80/cristinasantos9823/8912459x/10053012
-#EXTINF:-1,PT: FOX HD
+#EXTINF:-1 group-title="HD",PT: FOX HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053011
 #EXTINF:-1,PT: FOX FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053010
@@ -4257,11 +4257,11 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10053009
 http://diretogo.com:80/cristinasantos9823/8912459x/10053008
 #EXTINF:-1,PT: FOX LIFE
 http://diretogo.com:80/cristinasantos9823/8912459x/10053007
-#EXTINF:-1,PT: FOX LIFE HD
+#EXTINF:-1 group-title="HD",PT: FOX LIFE HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053006
 #EXTINF:-1,PT: FOX CRIME
 http://diretogo.com:80/cristinasantos9823/8912459x/10053005
-#EXTINF:-1,PT: FOX CRIME HD
+#EXTINF:-1 group-title="HD",PT: FOX CRIME HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053004
 #EXTINF:-1,PT: FOX CRIME FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10053003
@@ -4273,7 +4273,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10053000
 http://diretogo.com:80/cristinasantos9823/8912459x/10052999
 #EXTINF:-1,PT: CANAL 11
 http://diretogo.com:80/cristinasantos9823/8912459x/10052998
-#EXTINF:-1,PT: CANAL 11 HD
+#EXTINF:-1 group-title="HD",PT: CANAL 11 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052997
 #EXTINF:-1,PT: CANAL 11 FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052996
@@ -4283,19 +4283,19 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10052995
 http://diretogo.com:80/cristinasantos9823/8912459x/10052994
 #EXTINF:-1,PT: SPORT TV 1
 http://diretogo.com:80/cristinasantos9823/8912459x/10052993
-#EXTINF:-1,PT: SPORT TV 1 HD
+#EXTINF:-1 group-title="HD",PT: SPORT TV 1 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052992
 #EXTINF:-1,PT: SPORT TV 1 FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052991
 #EXTINF:-1,PT: SPORT TV 2
 http://diretogo.com:80/cristinasantos9823/8912459x/10052990
-#EXTINF:-1,PT: SPORT TV 2 HD
+#EXTINF:-1 group-title="HD",PT: SPORT TV 2 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052989
 #EXTINF:-1,PT: SPORT TV 2 FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052988
 #EXTINF:-1,PT: SPORT TV 3
 http://diretogo.com:80/cristinasantos9823/8912459x/10052987
-#EXTINF:-1,PT: SPORT TV 3 HD
+#EXTINF:-1 group-title="HD",PT: SPORT TV 3 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052986
 #EXTINF:-1,PT: SPORT TV 3 FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052985
@@ -4311,37 +4311,37 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10052981
 http://diretogo.com:80/cristinasantos9823/8912459x/10052980
 #EXTINF:-1,PT: ELEVEN SPORT 1 LOW
 http://diretogo.com:80/cristinasantos9823/8912459x/10052979
-#EXTINF:-1,PT: ELEVEN SPORT 1 HD
+#EXTINF:-1 group-title="HD",PT: ELEVEN SPORT 1 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052978
 #EXTINF:-1,PT: ELEVEN SPORT 1  FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052977
 #EXTINF:-1,PT: ELEVEN SPORT 2 LOW
 http://diretogo.com:80/cristinasantos9823/8912459x/10052976
-#EXTINF:-1,PT: ELEVEN SPORT 2 HD
+#EXTINF:-1 group-title="HD",PT: ELEVEN SPORT 2 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052975
 #EXTINF:-1,PT: ELEVEN SPORT 2  FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052974
 #EXTINF:-1,PT: ELEVEN SPORT 3 LOW
 http://diretogo.com:80/cristinasantos9823/8912459x/10052973
-#EXTINF:-1,PT: ELEVEN SPORT 3 HD
+#EXTINF:-1 group-title="HD",PT: ELEVEN SPORT 3 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052972
 #EXTINF:-1,PT: ELEVEN SPORT  3 FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052971
-#EXTINF:-1,PT: ELEVEN SPORT 4 HD
+#EXTINF:-1 group-title="HD",PT: ELEVEN SPORT 4 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052969
 #EXTINF:-1,PT: ELEVEN SPORT 4 FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052968
-#EXTINF:-1,PT: ELEVEN SPORT 5 HD
+#EXTINF:-1 group-title="HD",PT: ELEVEN SPORT 5 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052966
 #EXTINF:-1,PT: ELEVEN SPORT 5 FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052965
-#EXTINF:-1,PT: ELEVEN SPORT 6 HD
+#EXTINF:-1 group-title="HD",PT: ELEVEN SPORT 6 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052963
 #EXTINF:-1,PT: ELEVEN SPORT 6 FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052962
 #EXTINF:-1,PT: BTV 1
 http://diretogo.com:80/cristinasantos9823/8912459x/10052961
-#EXTINF:-1,PT: BTV 1 HD
+#EXTINF:-1 group-title="HD",PT: BTV 1 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052960
 #EXTINF:-1,PT: BTV 1 FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052959
@@ -4379,7 +4379,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10052941
 http://diretogo.com:80/cristinasantos9823/8912459x/10052940
 #EXTINF:-1,PT: DISCOVERY CHANNEL FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052939
-#EXTINF:-1,PT: ID INVESTIGATION DISCOVERY HD
+#EXTINF:-1 group-title="HD",PT: ID INVESTIGATION DISCOVERY HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052938
 #EXTINF:-1,PT: ID INVESTIGATION DISCOVERY FHD
 http://diretogo.com:80/cristinasantos9823/8912459x/10052937
@@ -4523,9 +4523,9 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10035171
 http://diretogo.com:80/cristinasantos9823/8912459x/10035194
 #EXTINF:-1,CMT
 http://diretogo.com:80/cristinasantos9823/8912459x/10035178
-#EXTINF:-1,CNN HD
+#EXTINF:-1 group-title="HD",CNN HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10039679
-#EXTINF:-1,CP24 HD
+#EXTINF:-1 group-title="HD",CP24 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10035169
 #EXTINF:-1,CPAC EN
 http://diretogo.com:80/cristinasantos9823/8912459x/10035177
@@ -4559,29 +4559,29 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10035182
 http://diretogo.com:80/cristinasantos9823/8912459x/10035184
 #EXTINF:-1,OWN
 http://diretogo.com:80/cristinasantos9823/8912459x/10039685
-#EXTINF:-1,PT ELEVEN SPORST 2 HD
+#EXTINF:-1 group-title="HD",PT ELEVEN SPORST 2 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10040679
 #EXTINF:-1,PT ELEVEN SPORTS 1
 http://diretogo.com:80/cristinasantos9823/8912459x/10040684
-#EXTINF:-1,PT ELEVEN SPORTS 1 HD
+#EXTINF:-1 group-title="HD",PT ELEVEN SPORTS 1 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10040678
 #EXTINF:-1,PT ELEVEN SPORTS 2
 http://diretogo.com:80/cristinasantos9823/8912459x/10040685
 #EXTINF:-1,PT ELEVEN SPORTS 3
 http://diretogo.com:80/cristinasantos9823/8912459x/10040686
-#EXTINF:-1,PT ELEVEN SPORTS 3 HD
+#EXTINF:-1 group-title="HD",PT ELEVEN SPORTS 3 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10040680
 #EXTINF:-1,PT ELEVEN SPORTS 4
 http://diretogo.com:80/cristinasantos9823/8912459x/10040687
-#EXTINF:-1,PT ELEVEN SPORTS 4 HD
+#EXTINF:-1 group-title="HD",PT ELEVEN SPORTS 4 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10040681
 #EXTINF:-1,PT ELEVEN SPORTS 5
 http://diretogo.com:80/cristinasantos9823/8912459x/10040688
-#EXTINF:-1,PT ELEVEN SPORTS 5 HD
+#EXTINF:-1 group-title="HD",PT ELEVEN SPORTS 5 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10040682
 #EXTINF:-1,PT ELEVEN SPORTS 6
 http://diretogo.com:80/cristinasantos9823/8912459x/10040689
-#EXTINF:-1,PT ELEVEN SPORTS 6 HD
+#EXTINF:-1 group-title="HD",PT ELEVEN SPORTS 6 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10040683
 #EXTINF:-1,PT SPORT TV +
 http://diretogo.com:80/cristinasantos9823/8912459x/10040690
@@ -4693,17 +4693,17 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047768
 http://diretogo.com:80/cristinasantos9823/8912459x/10047767
 #EXTINF:-1,USA: ESPN
 http://diretogo.com:80/cristinasantos9823/8912459x/10047793
-#EXTINF:-1,USA: ESPN 2 HD
+#EXTINF:-1 group-title="HD",USA: ESPN 2 HD
 http://diretogo.com:80/cristinasantos9823/8912459x/5630
 #EXTINF:-1,USA: ESPN 2²
 http://diretogo.com:80/cristinasantos9823/8912459x/10048049
 #EXTINF:-1,USA: ESPN DEPORTES
 http://diretogo.com:80/cristinasantos9823/8912459x/10047783
-#EXTINF:-1,USA: ESPN DEPORTES HD
+#EXTINF:-1 group-title="HD",USA: ESPN DEPORTES HD
 http://diretogo.com:80/cristinasantos9823/8912459x/5631
 #EXTINF:-1,USA: ESPN DEPORTES²
 http://diretogo.com:80/cristinasantos9823/8912459x/10048048
-#EXTINF:-1,USA: ESPN HD
+#EXTINF:-1 group-title="HD",USA: ESPN HD
 http://diretogo.com:80/cristinasantos9823/8912459x/1841
 #EXTINF:-1,USA: ESPN SPORTS
 http://diretogo.com:80/cristinasantos9823/8912459x/10048047
@@ -4717,7 +4717,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10047790
 http://diretogo.com:80/cristinasantos9823/8912459x/10045275
 #EXTINF:-1,USA: FOX NY WNYW
 http://diretogo.com:80/cristinasantos9823/8912459x/19724
-#EXTINF:-1,USA: FOX DEPORTES HD
+#EXTINF:-1 group-title="HD",USA: FOX DEPORTES HD
 http://diretogo.com:80/cristinasantos9823/8912459x/16551
 #EXTINF:-1,USA: FOX NEWS
 http://diretogo.com:80/cristinasantos9823/8912459x/10035202
@@ -4875,7 +4875,7 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10045405
 http://diretogo.com:80/cristinasantos9823/8912459x/10045288
 #EXTINF:-1,USA: TENNIS CHANNEL
 http://diretogo.com:80/cristinasantos9823/8912459x/10045402
-#EXTINF:-1,USA: TENNIS CHANNEL HD
+#EXTINF:-1 group-title="HD",USA: TENNIS CHANNEL HD
 http://diretogo.com:80/cristinasantos9823/8912459x/4498
 #EXTINF:-1,USA: THE GOLF CHANNEL
 http://diretogo.com:80/cristinasantos9823/8912459x/10045400
@@ -5051,9 +5051,9 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10049875
 http://diretogo.com:80/cristinasantos9823/8912459x/10049874
 #EXTINF:-1,USA: NFL 16
 http://diretogo.com:80/cristinasantos9823/8912459x/10049873
-#EXTINF:-1,USA: NFL NETWORK HD
+#EXTINF:-1 group-title="HD",USA: NFL NETWORK HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049871
-#EXTINF:-1,USA: NFL REDZONE HD
+#EXTINF:-1 group-title="HD",USA: NFL REDZONE HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10049870
 #EXTINF:-1,INVOCAÇÃO DO MAL 3: A ORDEM DO DEMÔNIO (2021)
 http://diretogo.com:80/movie/cristinasantos9823/8912459x/10066022.mp4
