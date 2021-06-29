@@ -1,0 +1,67 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo São Paulo HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo São Paulo HD
+http://canaishd.servidor.tv:8080/nino2021/nino2021/1466
+
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV VANGUARDA HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo TV VANGUARDA HD
+http://canaishd.servidor.tv:8080/nino2021/nino2021/2951
+
+#EXTINF:-1 tvg-id="571" tvg-name="Rede Vida" tvg-logo="https://www.m3u.cl/logo/571_Rede_Vida.jpg" group-title="Canais: Abertos",Rede Vida  | BR
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" tvg-name="Pai Eterno HD" tvg-logo="https://logos.servidor.tv/paieterno.jpg" group-title="Canais: Religião",Pai Eterno HD
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w829976371.m3u8
+# http://canaishd.servidor.tv:8080/nino2021/nino2021/22509
+# http://flash8.crossdigital.com.br/2306/2306/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova HD+" tvg-logo="https://logos.servidor.tv/754f20fd138da4ac2265060e8284d736.png" group-title="Canais: Religião",Canção Nova HD+
+http://canaishd.servidor.tv:8080/nino2021/nino2021/53496
+
+
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="Canais: Abertos",SBT HD
+http://canaishd.servidor.tv:8080/nino2021/nino2021/1512
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Record Interior SP HD" tvg-logo="" group-title="Canais: Abertos",Record Interior SP HD
+http://canaishd.servidor.tv:8080/nino2021/nino2021/63204
+
+#EXTINF:-1 tvg-id="" tvg-name="Record SC HD+" tvg-logo="" group-title="Canais: Abertos",Record SC HD+
+http://canaishd.servidor.tv:8080/nino2021/nino2021/63196
+
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News HD" tvg-logo="https://logos.servidor.tv/recordnews.jpg" group-title="Canais: Notícia",Record News HD
+http://canaishd.servidor.tv:8080/nino2021/nino2021/1513
+
+#EXTINF:-1 tvg-id="RecordNews" tvg-name="Record News HD+" tvg-logo="https://logos.servidor.tv/recordnews.jpg" group-title="Canais: Notícia",Record News HD+
+http://canaishd.servidor.tv:8080/nino2021/nino2021/405
+
+
+
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede TV HD" tvg-logo="https://logos.servidor.tv/redetv.png" group-title="Canais: Abertos",Rede TV HD
+http://canaishd.servidor.tv:8080/nino2021/nino2021/136
+
+
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Abertos",Band HD
+http://canaishd.servidor.tv:8080/nino2021/nino2021/489
+
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD+" tvg-logo="https://logos.servidor.tv/band.png" group-title="Canais: Abertos",Band HD+
+http://canaishd.servidor.tv:8080/nino2021/nino2021/484
+
+#EXTINF:-1 tvg-id="TV Cultura (BR)" tvg-name="TV Cultura HD" tvg-logo="https://logos.servidor.tv/cultura.jpg" group-title="Canais: Abertos",TV Cultura HD
+http://canaishd.servidor.tv:8080/nino2021/nino2021/29772
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Boa Vontade HD+" tvg-logo="https://logos.servidor.tv/boavontade.jpg" group-title="Canais: Religião",Boa Vontade HD+
+http://canaishd.servidor.tv:8080/nino2021/nino2021/53499
+
+
+
+#EXTINF:-1 tvg-id="redebrasil.br" tvg-name="Rede Brasil HD+" tvg-logo="https://logos.servidor.tv/redebrasil.png" group-title="Canais: Religião",Rede Brasil HD+
+http://canaishd.servidor.tv:8080/nino2021/nino2021/53493
+
+#EXTINF:-1 tvg-id="" tvg-name="Rede Genisis HD+" tvg-logo="https://logos.servidor.tv/redegenisis.png" group-title="Canais: Religião",Rede Genisis HD+
+http://canaishd.servidor.tv:8080/nino2021/nino2021/53511
+
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida HD" tvg-logo="https://logos.servidor.tv/tvaparecida.png" group-title="Canais: Religião",TV Aparecida HD
+http://canaishd.servidor.tv:8080/nino2021/nino2021/33184
