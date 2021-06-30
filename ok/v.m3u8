@@ -8,7 +8,7 @@ http://srv.maxptv.net:8080/Ricardo1/123456/72
 #EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida SD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_FI3ZIOc_Yo8IEzAwAiJ598O1To1DN0Y1vgdN3g=s900-c-k-c0x00ffffff-no-rj",Rede Vida SD
 http://srv.maxptv.net:8080/Ricardo1/123456/63
 
-#EXTINF:-1 tvg-id="" tvg-name="Rede Vida HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_FI3ZIOc_Yo8IEzAwAiJ598O1To1DN0Y1vgdN3g=s900-c-k-c0x00ffffff-no-rj",Rede Vida HD
+#EXTINF:-1 tvg-id="RedevidaHD.br" tvg-name="Rede Vida HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_FI3ZIOc_Yo8IEzAwAiJ598O1To1DN0Y1vgdN3g=s900-c-k-c0x00ffffff-no-rj",Rede Vida HD
 http://srv.maxptv.net:8080/Ricardo1/123456/62
 
 #EXTINF:-1 tvg-id="Rci.br" tvg-name="Pai Eterno HD" tvg-logo="http://logocanais.ddns.net/Logo/pai.png",Pai Eterno HD
@@ -17,7 +17,7 @@ http://srv.maxptv.net:8080/Ricardo1/123456/23850
 #EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canal Canção Nova HD" tvg-logo="https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png?file=2015/06/logo_novo_TVCN.png",Canal Canção Nova HD
 http://srv.maxptv.net:8080/Ricardo1/123456/215
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="Sbt SD" tvg-logo="http://logos.nineuhd.xyz/sbt.png",Sbt SD
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD" tvg-logo="http://logos.nineuhd.xyz/sbt.png",Sbt SD
 http://srv.maxptv.net:8080/Ricardo1/123456/58
 
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record HD" tvg-logo="http://logos.nineuhd.xyz/rederecord.png",Record HD
@@ -38,6 +38,9 @@ http://srv.maxptv.net:8080/Ricardo1/123456/60
 
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band SP SD" tvg-logo="http://logos.nineuhd.xyz/bandeirantes.png",Band SP SD
 http://srv.maxptv.net:8080/Ricardo1/123456/129
+
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Canal Band News HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png",Canal Band News HD
+http://srv.maxptv.net:8080/Ricardo1/123456/224
 
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Cultura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png",Cultura HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10054884
