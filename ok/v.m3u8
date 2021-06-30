@@ -17,8 +17,8 @@ http://tv1.cs10.tv:80/leopoldo/leopoldo/591
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD" tvg-logo="http://i.seuip.tv/85.png" group-title="CANAIS ABERTOS",SBT SD
 http://tv1.cs10.tv:80/leopoldo/leopoldo/85
 
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP SD" tvg-logo="http://i.seuip.tv/69.png" group-title="CANAIS ABERTOS",RECORDTV SP SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/69
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP HD" tvg-logo="http://i.seuip.tv/66.png" group-title="CANAIS ABERTOS",RECORDTV SP HD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/66
 
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News SD" tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2016/10/novo-logo-record-news-2016-696x364.jpg" group-title="Canais | NOTÍCIAS ",Record News SD
 http://srv.maxptv.net:8080/Ricardo1/123456/66
@@ -26,14 +26,14 @@ http://srv.maxptv.net:8080/Ricardo1/123456/66
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://i.seuip.tv/405.png" group-title="VARIEDADES",DISCOVERY HOME & HEALTH HD
 http://tv1.cs10.tv:80/leopoldo/leopoldo/405
 
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV HD" tvg-logo="http://i.seuip.tv/89.png" group-title="CANAIS ABERTOS",REDE TV HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/89
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD" tvg-logo="http://i.seuip.tv/89.png" group-title="CANAIS ABERTOS",REDE TV FHD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/6257
 
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD" tvg-logo="http://i.seuip.tv/75.png" group-title="CANAIS ABERTOS",BAND HD
 http://tv1.cs10.tv:80/leopoldo/leopoldo/75
 
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA HD" tvg-logo="http://i.seuip.tv/92.png" group-title="CANAIS ABERTOS",TV CULTURA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/92
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Cultura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="Canais | ABERTOS",Cultura HD
+http://diretogo.com:80/cristinasantos9823/8912459x/10054884
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo-0-2048x2048.png" group-title="Canais | ABERTOS",Tv Gazeta
 http://srv.maxptv.net:8080/Ricardo1/123456/22948
