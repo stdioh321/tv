@@ -5,38 +5,36 @@ http://srv.maxptv.net:8080/Ricardo1/123456/71
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="http://logos.nineuhd.xyz/globosp.png",Globo SP HD
 http://srv.maxptv.net:8080/Ricardo1/123456/72
 
-#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA SD" tvg-logo="http://i.seuip.tv/593.png",REDE VIDA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/593
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png,Rede Vida SD
+http://srv.maxptv.net:8080/Ricardo1/123456/63
 
 #EXTINF:-1 tvg-id="Rci.br" tvg-name="Pai Eterno HD" tvg-logo="http://logocanais.ddns.net/Logo/pai.png",Pai Eterno HD
 http://srv.maxptv.net:8080/Ricardo1/123456/23850
 
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA SD" tvg-logo="http://i.seuip.tv/591.png",CANCAO NOVA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/591
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canal Canção Nova HD" tvg-logo="https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png?file=2015/06/logo_novo_TVCN.png",Canal Canção Nova HD
+http://srv.maxptv.net:8080/Ricardo1/123456/215
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD" tvg-logo="http://i.seuip.tv/85.png",SBT SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/85
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="Sbt SD" tvg-logo="http://logos.nineuhd.xyz/sbt.png",Sbt SD
+http://srv.maxptv.net:8080/Ricardo1/123456/58
 
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP HD" tvg-logo="http://i.seuip.tv/66.png",RECORDTV SP HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/66
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record HD" tvg-logo="http://logos.nineuhd.xyz/rederecord.png",Record HD
+http://srv.maxptv.net:8080/Ricardo1/123456/240
 
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News SD" tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2016/10/novo-logo-record-news-2016-696x364.jpg",Record News SD
 http://srv.maxptv.net:8080/Ricardo1/123456/66
 
 
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="http://i.seuip.tv/408.png",DISCOVERY HOME & HEALTH SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/408
-
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://i.seuip.tv/405.png",DISCOVERY HOME & HEALTH HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/405
-
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health SD" tvg-logo="https://2.bp.blogspot.com/-P9Yfdyv57Aw/WPeXXUOiuXI/AAAAAAAA3s0/1FHrk8dlsXMEbPD67GOo510rU_j0yVp2QCLcB/s640/discoveryhomeandhealth.png",Discovery Home & Health SD
+http://srv.maxptv.net:8080/Ricardo1/123456/190
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="https://2.bp.blogspot.com/-P9Yfdyv57Aw/WPeXXUOiuXI/AAAAAAAA3s0/1FHrk8dlsXMEbPD67GOo510rU_j0yVp2QCLcB/s640/discoveryhomeandhealth.png",Discovery Home & Health HD
+http://srv.maxptv.net:8080/Ricardo1/123456/191
 
 
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD" tvg-logo="http://i.seuip.tv/89.png",REDE TV FHD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/6257
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV SD" tvg-logo="http://logos.nineuhd.xyz/redetv.png",RedeTV SD
+http://srv.maxptv.net:8080/Ricardo1/123456/60
 
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD" tvg-logo="http://i.seuip.tv/75.png",BAND HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/75
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band SP SD" tvg-logo="http://logos.nineuhd.xyz/bandeirantes.png",Band SP SD
+http://srv.maxptv.net:8080/Ricardo1/123456/129
 
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Cultura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png",Cultura HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10054884
@@ -44,15 +42,18 @@ http://diretogo.com:80/cristinasantos9823/8912459x/10054884
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo-0-2048x2048.png",Tv Gazeta
 http://srv.maxptv.net:8080/Ricardo1/123456/22948
 
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="http://i.seuip.tv/424.png",VIVA SD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/424
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20140519221640",Viva SD
+http://srv.maxptv.net:8080/Ricardo1/123456/5
 
-#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA HD" tvg-logo="http://i.seuip.tv/594.png",TV APARECIDA HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/594
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV Aparecida SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png",TV Aparecida SD
+http://srv.maxptv.net:8080/Ricardo1/123456/14
 
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="http://logos.nineuhd.xyz/animalplanethd.png",Animal Planet SD
+http://srv.maxptv.net:8080/Ricardo1/123456/231
 
-#EXTINF:-1 tvg-id="" tvg-name="DOG TV HD" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/f/f9/Dogtv.png/revision/latest/smart/width/200/height/200?cb=20181011235238&path-prefix=pt-br",DOG TV HD
-http://tv1.cs10.tv:80/leopoldo/leopoldo/61604
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel SD" tvg-logo="http://logos.nineuhd.xyz/discoverychannelhd.png",Discovery Channel SD
+http://srv.maxptv.net:8080/Ricardo1/123456/194
+
 
 #EXTINF:-1 tvg-id="" tvg-name="24H PICA- PAU" tvg-logo="",PICA-PAU 24H
 http://srv.maxptv.net:8080/Ricardo1/123456/28155
@@ -62,6 +63,10 @@ http://srv.maxptv.net:8080/Ricardo1/123456/557
 
 #EXTINF:-1,CHAVES 24h
 http://forceie.com:25461/force112025/2025force11/661
+
+#EXTINF:-1,CHAVES
+http://diretogo.com:80/cristinasantos9823/8912459x/5431
+
 #EXTINF:-1 tvg-id="" tvg-name="Chapolin 2 24H" tvg-logo="",Chapolin 24H
 http://srv.maxptv.net:8080/Ricardo1/123456/19541
 
@@ -71,8 +76,6 @@ http://srv.maxptv.net:8080/Ricardo1/123456/317
 
 #EXTINF:-1 tvg-id="" tvg-name="MR. Bean 24H" tvg-logo="",MR. Bean 24H
 http://srv.maxptv.net:8080/Ricardo1/123456/546
-
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="24H A TURMA DA PANTERA COR DE ROSA" tvg-logo="",A TURMA DA PANTERA COR DE ROSA 24H
