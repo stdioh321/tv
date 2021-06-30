@@ -23,8 +23,14 @@ http://tv1.cs10.tv:80/leopoldo/leopoldo/66
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News SD" tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2016/10/novo-logo-record-news-2016-696x364.jpg",Record News SD
 http://srv.maxptv.net:8080/Ricardo1/123456/66
 
+
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="http://i.seuip.tv/408.png",DISCOVERY HOME & HEALTH SD
+http://tv1.cs10.tv:80/leopoldo/leopoldo/408
+
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://i.seuip.tv/405.png",DISCOVERY HOME & HEALTH HD
 http://tv1.cs10.tv:80/leopoldo/leopoldo/405
+
+
 
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD" tvg-logo="http://i.seuip.tv/89.png",REDE TV FHD
 http://tv1.cs10.tv:80/leopoldo/leopoldo/6257
@@ -54,11 +60,16 @@ http://srv.maxptv.net:8080/Ricardo1/123456/28155
 #EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry  24H" tvg-logo="",Tom & Jerry  24H
 http://srv.maxptv.net:8080/Ricardo1/123456/557
 
-#EXTINF:-1 tvg-id="" tvg-name="Chapolin 2 24H" tvg-logo="",Chapolin 2 24H
-http://srv.maxptv.net:8080/Ricardo1/123456/19541
-
 #EXTINF:-1,CHAVES 24h
 http://forceie.com:25461/force112025/2025force11/661
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin 2 24H" tvg-logo="",Chapolin 24H
+http://srv.maxptv.net:8080/Ricardo1/123456/19541
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24H A TURMA DA PANTERA COR DE ROSA" tvg-logo="",A TURMA DA PANTERA COR DE ROSA 24H
+http://srv.maxptv.net:8080/Ricardo1/123456/28189
 
 #EXTINF:-1 tvg-id="" tvg-name="OS TRAPALHÕES - 24H" tvg-logo="",OS TRAPALHÕES 24h
 http://srv.maxptv.net:8080/Ricardo1/123456/25635
+
