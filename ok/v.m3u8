@@ -5,8 +5,11 @@ http://srv.maxptv.net:8080/Ricardo1/123456/71
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="http://logos.nineuhd.xyz/globosp.png",Globo SP HD
 http://srv.maxptv.net:8080/Ricardo1/123456/72
 
-#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png,Rede Vida SD
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida SD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_FI3ZIOc_Yo8IEzAwAiJ598O1To1DN0Y1vgdN3g=s900-c-k-c0x00ffffff-no-rj",Rede Vida SD
 http://srv.maxptv.net:8080/Ricardo1/123456/63
+
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_FI3ZIOc_Yo8IEzAwAiJ598O1To1DN0Y1vgdN3g=s900-c-k-c0x00ffffff-no-rj",Rede Vida HD
+http://srv.maxptv.net:8080/Ricardo1/123456/62
 
 #EXTINF:-1 tvg-id="Rci.br" tvg-name="Pai Eterno HD" tvg-logo="http://logocanais.ddns.net/Logo/pai.png",Pai Eterno HD
 http://srv.maxptv.net:8080/Ricardo1/123456/23850

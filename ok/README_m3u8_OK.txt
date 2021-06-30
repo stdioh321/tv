@@ -1,3 +1,7 @@
+http://clienteworld.com:8080/get.php?username=iarley&password=iarley&type=m3u_plus
+
+
+
 http://diretogo.com/get.php?username=cristinasantos9823&password=8912459x&type=m3u
 http://tv1.cs10.tv:80/get.php?username=leopoldo&password=leopoldo&type=m3u_plus
 http://maxptv.net:8080/get.php?username=Ricardo1&password=123456&type=m3u_plus
@@ -29,3 +33,4 @@ http://forceie.com//get.php?username=force112057&password=2057force11&type=m3u
 http://forceie.com//get.php?username=force112064&password=2064force11&type=m3u
 http://forceie.com//get.php?username=force112067&password=2067force11&type=m3u
 http://forceie.com//get.php?username=force112069&password=2069force11&type=m3u
+http://sv1.casaplayer.com.br:80/get.php?username=henrique&password=henrique&type=m3u_plus
