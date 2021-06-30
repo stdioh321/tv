@@ -1,64 +1,64 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP SD" tvg-logo="http://logos.nineuhd.xyz/globosp.png" group-title="Canais | ABERTOS",Globo SP SD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP SD" tvg-logo="http://logos.nineuhd.xyz/globosp.png",Globo SP SD
 http://srv.maxptv.net:8080/Ricardo1/123456/71
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="http://logos.nineuhd.xyz/globosp.png" group-title="Canais | ABERTOS",Globo SP HD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="http://logos.nineuhd.xyz/globosp.png",Globo SP HD
 http://srv.maxptv.net:8080/Ricardo1/123456/72
 
-#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA SD" tvg-logo="http://i.seuip.tv/593.png" group-title="RELIGIOSO",REDE VIDA SD
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA SD" tvg-logo="http://i.seuip.tv/593.png",REDE VIDA SD
 http://tv1.cs10.tv:80/leopoldo/leopoldo/593
 
-#EXTINF:-1 tvg-id="Rci.br" tvg-name="Pai Eterno HD" tvg-logo="http://logocanais.ddns.net/Logo/pai.png" group-title="Canais | RELIGIÃO",Pai Eterno HD
+#EXTINF:-1 tvg-id="Rci.br" tvg-name="Pai Eterno HD" tvg-logo="http://logocanais.ddns.net/Logo/pai.png",Pai Eterno HD
 http://srv.maxptv.net:8080/Ricardo1/123456/23850
 
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA SD" tvg-logo="http://i.seuip.tv/591.png" group-title="RELIGIOSO",CANCAO NOVA SD
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA SD" tvg-logo="http://i.seuip.tv/591.png",CANCAO NOVA SD
 http://tv1.cs10.tv:80/leopoldo/leopoldo/591
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD" tvg-logo="http://i.seuip.tv/85.png" group-title="CANAIS ABERTOS",SBT SD
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD" tvg-logo="http://i.seuip.tv/85.png",SBT SD
 http://tv1.cs10.tv:80/leopoldo/leopoldo/85
 
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP HD" tvg-logo="http://i.seuip.tv/66.png" group-title="CANAIS ABERTOS",RECORDTV SP HD
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV SP HD" tvg-logo="http://i.seuip.tv/66.png",RECORDTV SP HD
 http://tv1.cs10.tv:80/leopoldo/leopoldo/66
 
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News SD" tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2016/10/novo-logo-record-news-2016-696x364.jpg" group-title="Canais | NOTÍCIAS ",Record News SD
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News SD" tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2016/10/novo-logo-record-news-2016-696x364.jpg",Record News SD
 http://srv.maxptv.net:8080/Ricardo1/123456/66
 
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://i.seuip.tv/405.png" group-title="VARIEDADES",DISCOVERY HOME & HEALTH HD
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://i.seuip.tv/405.png",DISCOVERY HOME & HEALTH HD
 http://tv1.cs10.tv:80/leopoldo/leopoldo/405
 
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD" tvg-logo="http://i.seuip.tv/89.png" group-title="CANAIS ABERTOS",REDE TV FHD
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD" tvg-logo="http://i.seuip.tv/89.png",REDE TV FHD
 http://tv1.cs10.tv:80/leopoldo/leopoldo/6257
 
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD" tvg-logo="http://i.seuip.tv/75.png" group-title="CANAIS ABERTOS",BAND HD
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD" tvg-logo="http://i.seuip.tv/75.png",BAND HD
 http://tv1.cs10.tv:80/leopoldo/leopoldo/75
 
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Cultura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="Canais | ABERTOS",Cultura HD
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Cultura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png",Cultura HD
 http://diretogo.com:80/cristinasantos9823/8912459x/10054884
 
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo-0-2048x2048.png" group-title="Canais | ABERTOS",Tv Gazeta
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo-0-2048x2048.png",Tv Gazeta
 http://srv.maxptv.net:8080/Ricardo1/123456/22948
 
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="http://i.seuip.tv/424.png" group-title="VARIEDADES",VIVA SD
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="http://i.seuip.tv/424.png",VIVA SD
 http://tv1.cs10.tv:80/leopoldo/leopoldo/424
 
-#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA HD" tvg-logo="http://i.seuip.tv/594.png" group-title="RELIGIOSO",TV APARECIDA HD
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA HD" tvg-logo="http://i.seuip.tv/594.png",TV APARECIDA HD
 http://tv1.cs10.tv:80/leopoldo/leopoldo/594
 
 
-#EXTINF:-1 tvg-id="" tvg-name="DOG TV HD" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/f/f9/Dogtv.png/revision/latest/smart/width/200/height/200?cb=20181011235238&path-prefix=pt-br" group-title="CULTURA",DOG TV HD
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV HD" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/f/f9/Dogtv.png/revision/latest/smart/width/200/height/200?cb=20181011235238&path-prefix=pt-br",DOG TV HD
 http://tv1.cs10.tv:80/leopoldo/leopoldo/61604
 
-#EXTINF:-1 tvg-id="" tvg-name="24H PICA- PAU" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",PICA-PAU 24H
+#EXTINF:-1 tvg-id="" tvg-name="24H PICA- PAU" tvg-logo="",PICA-PAU 24H
 http://srv.maxptv.net:8080/Ricardo1/123456/28155
 
-#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry  24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Tom & Jerry  24H
+#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry  24H" tvg-logo="",Tom & Jerry  24H
 http://srv.maxptv.net:8080/Ricardo1/123456/557
 
-#EXTINF:-1 tvg-id="" tvg-name="Chapolin 2 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Chapolin 2 24H
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin 2 24H" tvg-logo="",Chapolin 2 24H
 http://srv.maxptv.net:8080/Ricardo1/123456/19541
 
 #EXTINF:-1,CHAVES 24h
 http://forceie.com:25461/force112025/2025force11/661
 
-#EXTINF:-1 tvg-id="" tvg-name="OS TRAPALHÕES - 24H" tvg-logo="" group-title="Canais |  24 HORAS",OS TRAPALHÕES 24h
+#EXTINF:-1 tvg-id="" tvg-name="OS TRAPALHÕES - 24H" tvg-logo="",OS TRAPALHÕES 24h
 http://srv.maxptv.net:8080/Ricardo1/123456/25635
