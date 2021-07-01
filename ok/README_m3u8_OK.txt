@@ -1,6 +1,6 @@
 http://clienteworld.com:8080/get.php?username=iarley&password=iarley&type=m3u_plus
-
-
+http://163.172.103.202:8880/get.php?username=287994003124&password=287994003124&type=m3u_plus
+http://tvdns.tech:80/get.php?username=960067&password=960067&type=m3u_plus
 
 http://diretogo.com/get.php?username=cristinasantos9823&password=8912459x&type=m3u
 http://tv1.cs10.tv:80/get.php?username=leopoldo&password=leopoldo&type=m3u_plus
