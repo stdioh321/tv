@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP SD" tvg-logo="http://logos.nineuhd.xyz/globosp.png",Globo SP SD
+http://diretogo.com:80/cristinasantos9823/8912459x/4913
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="http://logos.nineuhd.xyz/globosp.png",Globo SP HD
+http://diretogo.com:80/cristinasantos9823/8912459x/2821
+
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida SD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_FI3ZIOc_Yo8IEzAwAiJ598O1To1DN0Y1vgdN3g=s900-c-k-c0x00ffffff-no-rj",Rede Vida SD
+http://diretogo.com:80/cristinasantos9823/8912459x/5326
+
+#EXTINF:-1 tvg-id="RedevidaHD.br" tvg-name="Rede Vida HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_FI3ZIOc_Yo8IEzAwAiJ598O1To1DN0Y1vgdN3g=s900-c-k-c0x00ffffff-no-rj",Rede Vida HD
+http://diretogo.com:80/cristinasantos9823/8912459x/10027052
+
+#EXTINF:-1 tvg-id="Rci.br" tvg-name="Pai Eterno HD" tvg-logo="http://logocanais.ddns.net/Logo/pai.png",Pai Eterno HD
+http://diretogo.com:80/cristinasantos9823/8912459x/10054485
+
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canal Canção Nova HD" tvg-logo="https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png?file=2015/06/logo_novo_TVCN.png",Canal Canção Nova HD
+http://diretogo.com:80/cristinasantos9823/8912459x/10052887
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD" tvg-logo="http://logos.nineuhd.xyz/sbt.png",Sbt SD
+http://diretogo.com:80/cristinasantos9823/8912459x/4079
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record HD" tvg-logo="http://logos.nineuhd.xyz/rederecord.png",Record HD
+http://diretogo.com:80/cristinasantos9823/8912459x/337
+
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News SD" tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2016/10/novo-logo-record-news-2016-696x364.jpg",Record News SD
+http://diretogo.com:80/cristinasantos9823/8912459x/2776
+
+
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health SD" tvg-logo="https://2.bp.blogspot.com/-P9Yfdyv57Aw/WPeXXUOiuXI/AAAAAAAA3s0/1FHrk8dlsXMEbPD67GOo510rU_j0yVp2QCLcB/s640/discoveryhomeandhealth.png",Discovery Home & Health SD
+http://srv.maxptv.net:8080/Ricardo1/123456/190
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="https://2.bp.blogspot.com/-P9Yfdyv57Aw/WPeXXUOiuXI/AAAAAAAA3s0/1FHrk8dlsXMEbPD67GOo510rU_j0yVp2QCLcB/s640/discoveryhomeandhealth.png",Discovery Home & Health HD
+http://srv.maxptv.net:8080/Ricardo1/123456/191
+
+
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV SD" tvg-logo="http://logos.nineuhd.xyz/redetv.png",RedeTV SD
+http://diretogo.com:80/cristinasantos9823/8912459x/5143
+
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band SP SD" tvg-logo="http://logos.nineuhd.xyz/bandeirantes.png",Band SP SD
+http://diretogo.com:80/cristinasantos9823/8912459x/10055009
+
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Canal Band News HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png",Canal Band News HD
+http://diretogo.com:80/cristinasantos9823/8912459x/20
+
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Cultura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png",Cultura HD
+http://diretogo.com:80/cristinasantos9823/8912459x/2741
+
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo-0-2048x2048.png",Tv Gazeta
+http://diretogo.com:80/cristinasantos9823/8912459x/10027024
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20140519221640",Viva SD
+http://diretogo.com:80/cristinasantos9823/8912459x/313
+
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV Aparecida SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png",TV Aparecida SD
+http://diretogo.com:80/cristinasantos9823/8912459x/9601
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="http://logos.nineuhd.xyz/animalplanethd.png",Animal Planet SD
+http://diretogo.com:80/cristinasantos9823/8912459x/1941
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel SD" tvg-logo="http://logos.nineuhd.xyz/discoverychannelhd.png",Discovery Channel SD
+http://diretogo.com:80/cristinasantos9823/8912459x/132
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24H PICA- PAU" tvg-logo="",PICA-PAU 24H
+http://srv.maxptv.net:8080/Ricardo1/123456/28155
+
+#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry  24H" tvg-logo="",Tom & Jerry  24H
+http://srv.maxptv.net:8080/Ricardo1/123456/557
+
+#EXTINF:-1,CHAVES 24h
+http://forceie.com:25461/force112025/2025force11/661
+
+#EXTINF:-1,CHAVES
+http://diretogo.com:80/cristinasantos9823/8912459x/5431
+
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin 2 24H" tvg-logo="",Chapolin 24H
+http://srv.maxptv.net:8080/Ricardo1/123456/19541
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Cris" tvg-logo="https://segredosdomundo.r7.com/wp-content/uploads/2019/06/saiba-o-que-realmente-e-verdade-no-seriado-todo-mundo-odeia-o-chris-4.jpg",Todo Mundo Odeia o Cris
+http://srv.maxptv.net:8080/Ricardo1/123456/317
+
+#EXTINF:-1 tvg-id="" tvg-name="MR. Bean 24H" tvg-logo="",MR. Bean 24H
+http://srv.maxptv.net:8080/Ricardo1/123456/546
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24H A TURMA DA PANTERA COR DE ROSA" tvg-logo="",A TURMA DA PANTERA COR DE ROSA 24H
+http://srv.maxptv.net:8080/Ricardo1/123456/28189
+
+#EXTINF:-1 tvg-id="" tvg-name="OS TRAPALHÕES - 24H" tvg-logo="",OS TRAPALHÕES 24h
+http://srv.maxptv.net:8080/Ricardo1/123456/25635
