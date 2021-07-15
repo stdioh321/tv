@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP SD" tvg-logo="http://logos.nineuhd.xyz/globosp.png",Globo SP SD
-http://srv.maxptv.net:8080/Ricardo1/123456/71
+http://voxp2p.live:80/melyssa2/melyssa2/5442
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="http://logos.nineuhd.xyz/globosp.png",Globo SP HD
-http://srv.maxptv.net:8080/Ricardo1/123456/72
+http://voxp2p.live:80/melyssa2/melyssa2/128045
 
 #EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida SD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_FI3ZIOc_Yo8IEzAwAiJ598O1To1DN0Y1vgdN3g=s900-c-k-c0x00ffffff-no-rj",Rede Vida SD
 http://srv.maxptv.net:8080/Ricardo1/123456/63
@@ -42,8 +42,6 @@ http://srv.maxptv.net:8080/Ricardo1/123456/129
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Canal Band News HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png",Canal Band News HD
 http://srv.maxptv.net:8080/Ricardo1/123456/224
 
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Cultura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png",Cultura HD
-http://diretogo.com:80/cristinasantos9823/8912459x/10054884
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo-0-2048x2048.png",Tv Gazeta
 http://srv.maxptv.net:8080/Ricardo1/123456/22948
