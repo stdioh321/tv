@@ -1,0 +1,82 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globosp.png" group-title="CANAIS: HD",Globo SP HD+
+http://163.172.103.202:8880/287994003223/287994003223/16730
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo News HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4ff6b7a124e0e98887c306edf7b72c5a.png" group-title="CANAIS: HD",Globo News HD+
+http://163.172.103.202:8880/287994003223/287994003223/16727
+
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="REDE VIDA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/089fa864e8828996702587b383f939b7.png" group-title="CANAIS: RELIGIOSOS",REDE VIDA
+http://163.172.103.202:8880/287994003223/287994003223/31577
+
+#EXTINF:-1 tvg-id="" tvg-name="PAI ETERNO FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/759800dee368ce2cf44d2db23d16f682.png" group-title="CANAIS: RELIGIOSOS",PAI ETERNO FULLHD
+http://163.172.103.202:8880/287994003223/287994003223/33743
+
+#EXTINF:-1 tvg-id="Cancao Nova" tvg-name="CANCAO NOVA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/9785aab110ace3b4b445d48d66c014bc.png" group-title="CANAIS: RELIGIOSOS",CANCAO NOVA
+http://163.172.103.202:8880/287994003223/287994003223/31571
+
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="CANAIS: HD",SBT SP HD+
+http://163.172.103.202:8880/287994003223/287994003223/16749
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD SP HD²" tvg-logo="http://xcui.vitvabc.xyz:8880/images/83c8d9c5f77bb532343d417188302a37.png" group-title="CANAIS: RECORD",BR: RECORD SP HD²
+http://163.172.103.202:8880/287994003223/287994003223/31556
+
+#EXTINF:-1 tvg-id="" tvg-name="Record News HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordnewsb.png" group-title="CANAIS: HD",Record News HD+
+http://163.172.103.202:8880/287994003223/287994003223/16747
+
+#EXTINF:-1 tvg-id="Discovery Home Health HD" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3cb160026aa53be9dc13e3f1844e25.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD
+http://163.172.103.202:8880/287994003223/287994003223/31108
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverychannelb.png" group-title="CANAIS: HD",Discovery Channel HD+
+http://163.172.103.202:8880/287994003223/287994003223/16705
+
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc12f0ddd6fdcb7742bf4924ac4601fd.png" group-title="CANAIS: ABERTOS",REDE TV HD
+http://163.172.103.202:8880/287994003223/287994003223/31072
+
+#EXTINF:-1 tvg-id="" tvg-name="Band SP HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" group-title="CANAIS: HD",Band SP HD+
+http://163.172.103.202:8880/287994003223/287994003223/16697
+
+#EXTINF:-1 tvg-id="" tvg-name="Band News HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/bandnews.png" group-title="CANAIS: HD",Band News HD+
+http://163.172.103.202:8880/287994003223/287994003223/16696
+
+#EXTINF:-1 tvg-id="" tvg-name="GAZETA ¹ SP" tvg-logo="http://xcui.vitvabc.xyz:8880/images/93f3f8456217740578e7c109767d6475.png" group-title="CANAIS: ABERTOS",GAZETA ¹ SP
+http://163.172.103.202:8880/287994003223/287994003223/31069
+
+#EXTINF:-1 tvg-id="Viva HD" tvg-name="VIVA HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a3f61473d7a74dd439b3c132ec666fe.png" group-title="CANAIS: VARIEDADES",VIVA HD
+http://163.172.103.202:8880/287994003223/287994003223/31631
+
+#EXTINF:-1 tvg-id="TV Aparecida [Alter]" tvg-name="TV APARECIDA LIVRE" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f1cad40f81a2f40c3c884a42a1083b47.png" group-title="CANAIS: RELIGIOSOS",TV APARECIDA LIVRE
+http://163.172.103.202:8880/287994003223/287994003223/31579
+
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/40e4afcfd925c2e4ea83a767993ea8b0.png" group-title="CANAIS: HD",Animal Planet HD+
+http://163.172.103.202:8880/287994003223/287994003223/16693
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24H PICA- PAU" tvg-logo="",PICA-PAU 24H
+http://srv.maxptv.net:8080/Ricardo1/123456/28155
+
+#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry  24H" tvg-logo="",Tom & Jerry  24H
+http://srv.maxptv.net:8080/Ricardo1/123456/557
+
+#EXTINF:-1,CHAVES 24h
+http://forceie.com:25461/force112025/2025force11/661
+
+#EXTINF:-1,CHAVES
+http://diretogo.com:80/cristinasantos9823/8912459x/5431
+
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin 2 24H" tvg-logo="",Chapolin 24H
+http://srv.maxptv.net:8080/Ricardo1/123456/19541
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Cris" tvg-logo="https://segredosdomundo.r7.com/wp-content/uploads/2019/06/saiba-o-que-realmente-e-verdade-no-seriado-todo-mundo-odeia-o-chris-4.jpg",Todo Mundo Odeia o Cris
+http://srv.maxptv.net:8080/Ricardo1/123456/317
+
+#EXTINF:-1 tvg-id="" tvg-name="MR. Bean 24H" tvg-logo="",MR. Bean 24H
+http://srv.maxptv.net:8080/Ricardo1/123456/546
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24H A TURMA DA PANTERA COR DE ROSA" tvg-logo="",A TURMA DA PANTERA COR DE ROSA 24H
+http://srv.maxptv.net:8080/Ricardo1/123456/28189
+
+#EXTINF:-1 tvg-id="" tvg-name="OS TRAPALHÕES - 24H" tvg-logo="",OS TRAPALHÕES 24h
+http://srv.maxptv.net:8080/Ricardo1/123456/25635
+
