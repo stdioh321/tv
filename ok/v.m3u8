@@ -1,60 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP SD" tvg-logo="http://logos.nineuhd.xyz/globosp.png",Globo SP SD
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globosp.png" 
 http://163.172.103.202:8880/287994003223/287994003223/16730
 
-#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida SD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_FI3ZIOc_Yo8IEzAwAiJ598O1To1DN0Y1vgdN3g=s900-c-k-c0x00ffffff-no-rj",Rede Vida SD
-http://srv.maxptv.net:8080/Ricardo1/123456/63
+#EXTINF:-1 tvg-id="" tvg-name="Globo News HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4ff6b7a124e0e98887c306edf7b72c5a.png" 
+http://163.172.103.202:8880/287994003223/287994003223/16727
 
-#EXTINF:-1 tvg-id="RedevidaHD.br" tvg-name="Rede Vida HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS_FI3ZIOc_Yo8IEzAwAiJ598O1To1DN0Y1vgdN3g=s900-c-k-c0x00ffffff-no-rj",Rede Vida HD
-http://srv.maxptv.net:8080/Ricardo1/123456/62
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="REDE VIDA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/089fa864e8828996702587b383f939b7.png" 
+http://163.172.103.202:8880/287994003223/287994003223/31577
 
-#EXTINF:-1 tvg-id="Rci.br" tvg-name="Pai Eterno HD" tvg-logo="http://logocanais.ddns.net/Logo/pai.png",Pai Eterno HD
-http://srv.maxptv.net:8080/Ricardo1/123456/23850
+#EXTINF:-1 tvg-id="" tvg-name="PAI ETERNO FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/759800dee368ce2cf44d2db23d16f682.png" 
+http://163.172.103.202:8880/287994003223/287994003223/33743
 
 #EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canal Canção Nova HD" tvg-logo="https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png?file=2015/06/logo_novo_TVCN.png",Canal Canção Nova HD
 http://srv.maxptv.net:8080/Ricardo1/123456/215
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD" tvg-logo="http://logos.nineuhd.xyz/sbt.png",Sbt SD
-http://srv.maxptv.net:8080/Ricardo1/123456/58
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" 
+http://163.172.103.202:8880/287994003223/287994003223/16749
 
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record HD" tvg-logo="http://logos.nineuhd.xyz/rederecord.png",Record HD
+#EXTINF:-1 tvg-id="" tvg-name="Record SP HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a28b54769104da426edfb3fd196b15d7.png" 
 http://srv.maxptv.net:8080/Ricardo1/123456/240
 
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News SD" tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2016/10/novo-logo-record-news-2016-696x364.jpg",Record News SD
-http://srv.maxptv.net:8080/Ricardo1/123456/66
+#EXTINF:-1 tvg-id="" tvg-name="Record News HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordnewsb.png" 
+http://163.172.103.202:8880/287994003223/287994003223/16747
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryhomeandhealth.png" 
+http://163.172.103.202:8880/287994003223/287994003223/16706
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverychannelb.png" 
+http://163.172.103.202:8880/287994003223/287994003223/16705
+
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc12f0ddd6fdcb7742bf4924ac4601fd.png" 
+http://163.172.103.202:8880/287994003223/287994003223/31072
+
+#EXTINF:-1 tvg-id="" tvg-name="Band SP HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" 
+http://163.172.103.202:8880/287994003223/287994003223/16697
+
+#EXTINF:-1 tvg-id="" tvg-name="Band News HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/bandnews.png" 
+http://163.172.103.202:8880/287994003223/287994003223/16696
+
+#EXTINF:-1 tvg-id="" tvg-name="GAZETA ¹ SP" tvg-logo="http://xcui.vitvabc.xyz:8880/images/93f3f8456217740578e7c109767d6475.png" 
+http://163.172.103.202:8880/287994003223/287994003223/31069
 
 
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health SD" tvg-logo="https://2.bp.blogspot.com/-P9Yfdyv57Aw/WPeXXUOiuXI/AAAAAAAA3s0/1FHrk8dlsXMEbPD67GOo510rU_j0yVp2QCLcB/s640/discoveryhomeandhealth.png",Discovery Home & Health SD
-http://srv.maxptv.net:8080/Ricardo1/123456/190
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="https://2.bp.blogspot.com/-P9Yfdyv57Aw/WPeXXUOiuXI/AAAAAAAA3s0/1FHrk8dlsXMEbPD67GOo510rU_j0yVp2QCLcB/s640/discoveryhomeandhealth.png",Discovery Home & Health HD
-http://srv.maxptv.net:8080/Ricardo1/123456/191
-
-
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV SD" tvg-logo="http://logos.nineuhd.xyz/redetv.png",RedeTV SD
-http://srv.maxptv.net:8080/Ricardo1/123456/60
-
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band SP SD" tvg-logo="http://logos.nineuhd.xyz/bandeirantes.png",Band SP SD
-http://srv.maxptv.net:8080/Ricardo1/123456/129
-
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Canal Band News HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png",Canal Band News HD
-http://srv.maxptv.net:8080/Ricardo1/123456/224
-
-
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo-0-2048x2048.png",Tv Gazeta
-http://srv.maxptv.net:8080/Ricardo1/123456/22948
-
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20140519221640",Viva SD
-http://srv.maxptv.net:8080/Ricardo1/123456/5
-
-#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV Aparecida SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png",TV Aparecida SD
-http://srv.maxptv.net:8080/Ricardo1/123456/14
-
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="http://logos.nineuhd.xyz/animalplanethd.png",Animal Planet SD
-http://srv.maxptv.net:8080/Ricardo1/123456/231
-
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel SD" tvg-logo="http://logos.nineuhd.xyz/discoverychannelhd.png",Discovery Channel SD
-http://srv.maxptv.net:8080/Ricardo1/123456/194
-
+#EXTINF:-1 tvg-id="TV Aparecida [Alter]" tvg-name="TV APARECIDA LIVRE" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f1cad40f81a2f40c3c884a42a1083b47.png" 
+http://163.172.103.202:8880/287994003223/287994003223/31579
 
 #EXTINF:-1 tvg-id="" tvg-name="24H PICA- PAU" tvg-logo="",PICA-PAU 24H
 http://srv.maxptv.net:8080/Ricardo1/123456/28155
