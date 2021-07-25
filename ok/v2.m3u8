@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globosp.png",Globo SP HD+
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globosp.png" group-title="CANAIS: HD",Globo SP HD+
 http://163.172.103.202:8880/287994003223/287994003223/16730
 
 #EXTINF:-1 tvg-id="" tvg-name="Globo News HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4ff6b7a124e0e98887c306edf7b72c5a.png" group-title="CANAIS: HD",Globo News HD+
