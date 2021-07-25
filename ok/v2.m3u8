@@ -2,47 +2,47 @@
 #EXTINF:-1 tvg-id="" tvg-name="Globo SP HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globosp.png",Globo SP HD+
 http://163.172.103.202:8880/287994003223/287994003223/16730
 
-#EXTINF:-1 tvg-id="" tvg-name="Globo News HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4ff6b7a124e0e98887c306edf7b72c5a.png",Globo News HD+
+#EXTINF:-1 tvg-id="" tvg-name="Globo News HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4ff6b7a124e0e98887c306edf7b72c5a.png" group-title="CANAIS: HD",Globo News HD+
 http://163.172.103.202:8880/287994003223/287994003223/16727
 
-#EXTINF:-1 tvg-id="Rede Vida" tvg-name="REDE VIDA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/089fa864e8828996702587b383f939b7.png",REDE VIDA
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="REDE VIDA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/089fa864e8828996702587b383f939b7.png" group-title="CANAIS: RELIGIOSOS",REDE VIDA
 http://163.172.103.202:8880/287994003223/287994003223/31577
 
-#EXTINF:-1 tvg-id="" tvg-name="PAI ETERNO FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/759800dee368ce2cf44d2db23d16f682.png",PAI ETERNO FULLHD
+#EXTINF:-1 tvg-id="" tvg-name="PAI ETERNO FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/759800dee368ce2cf44d2db23d16f682.png" group-title="CANAIS: RELIGIOSOS",PAI ETERNO FULLHD
 http://163.172.103.202:8880/287994003223/287994003223/33743
 
 #EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="Canal Canção Nova HD" tvg-logo="https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png?file=2015/06/logo_novo_TVCN.png",Canal Canção Nova HD
 http://srv.maxptv.net:8080/Ricardo1/123456/215
 
-#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png",SBT SP HD+
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png" group-title="CANAIS: HD",SBT SP HD+
 http://163.172.103.202:8880/287994003223/287994003223/16749
 
-#EXTINF:-1 tvg-id="" tvg-name="Record SP HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a28b54769104da426edfb3fd196b15d7.png",Record SP HD+
+#EXTINF:-1 tvg-id="" tvg-name="Record SP HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS: HD",Record SP HD+
 http://srv.maxptv.net:8080/Ricardo1/123456/240
 
-#EXTINF:-1 tvg-id="" tvg-name="Record News HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordnewsb.png",Record News HD+
+#EXTINF:-1 tvg-id="" tvg-name="Record News HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordnewsb.png" group-title="CANAIS: HD",Record News HD+
 http://163.172.103.202:8880/287994003223/287994003223/16747
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryhomeandhealth.png",Discovery H&H HD+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoveryhomeandhealth.png" group-title="CANAIS: HD",Discovery H&H HD+
 http://163.172.103.202:8880/287994003223/287994003223/16706
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverychannelb.png",Discovery Channel HD+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverychannelb.png" group-title="CANAIS: HD",Discovery Channel HD+
 http://163.172.103.202:8880/287994003223/287994003223/16705
 
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc12f0ddd6fdcb7742bf4924ac4601fd.png",REDE TV HD
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc12f0ddd6fdcb7742bf4924ac4601fd.png" group-title="CANAIS: ABERTOS",REDE TV HD
 http://163.172.103.202:8880/287994003223/287994003223/31072
 
-#EXTINF:-1 tvg-id="" tvg-name="Band SP HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png",Band SP HD+
+#EXTINF:-1 tvg-id="" tvg-name="Band SP HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" group-title="CANAIS: HD",Band SP HD+
 http://163.172.103.202:8880/287994003223/287994003223/16697
 
-#EXTINF:-1 tvg-id="" tvg-name="Band News HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/bandnews.png",Band News HD+
+#EXTINF:-1 tvg-id="" tvg-name="Band News HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/bandnews.png" group-title="CANAIS: HD",Band News HD+
 http://163.172.103.202:8880/287994003223/287994003223/16696
 
-#EXTINF:-1 tvg-id="" tvg-name="GAZETA ¹ SP" tvg-logo="http://xcui.vitvabc.xyz:8880/images/93f3f8456217740578e7c109767d6475.png",GAZETA ¹ SP
+#EXTINF:-1 tvg-id="" tvg-name="GAZETA ¹ SP" tvg-logo="http://xcui.vitvabc.xyz:8880/images/93f3f8456217740578e7c109767d6475.png" group-title="CANAIS: ABERTOS",GAZETA ¹ SP
 http://163.172.103.202:8880/287994003223/287994003223/31069
 
 
-#EXTINF:-1 tvg-id="TV Aparecida [Alter]" tvg-name="TV APARECIDA LIVRE" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f1cad40f81a2f40c3c884a42a1083b47.png",TV APARECIDA LIVRE
+#EXTINF:-1 tvg-id="TV Aparecida [Alter]" tvg-name="TV APARECIDA LIVRE" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f1cad40f81a2f40c3c884a42a1083b47.png" group-title="CANAIS: RELIGIOSOS",TV APARECIDA LIVRE
 http://163.172.103.202:8880/287994003223/287994003223/31579
 
 #EXTINF:-1 tvg-id="" tvg-name="24H PICA- PAU" tvg-logo="",PICA-PAU 24H
