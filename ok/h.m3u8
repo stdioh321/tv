@@ -14,11 +14,11 @@ http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/96823
 #EXTINF:-1 tvg-ID="" tvg-name="ES: 24 HORAS" tvg-logo="https://img2.rtve.es/p/36511?imgProgApi=imgPortada&w=1600",ES: 24 HORAS
 http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/96871
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="http://logos.nineuhd.xyz/globosp.png",TV VANGUARDA S.J DOS CAMPOS SD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/09/Logotipo_da_TV_Globo_Internacional.png",TV VANGUARDA S.J DOS CAMPOS SD
 http://163.172.103.202:8880/287994003189/287994003189/32182
 
-#EXTINF:-1 tvg-ID="" tvg-name="BR: Globo SP" tvg-logo="http://logos.nineuhd.xyz/globosp.png",Globo SP
-http://cdn.ayproviders.xyz:80/ZjFB7A8ySw/EM5OYbdMBa/99308
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Globo SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/09/Logotipo_da_TV_Globo_Internacional.png",Globo SP
+http://163.172.103.202:8880/287994003189/287994003189/16730
 
 #EXTINF:-1 tvg-logo="https://s03.video.glbimg.com/x720/8425698.jpg",GLOBO NEWS
 http://163.172.103.202:8880/287994003189/287994003189/32334
@@ -31,8 +31,6 @@ http://163.172.103.202:8880/287994003189/287994003189/16749
 #EXTINF:-1 tvg-logo="http://recordtv.r7.com/emissoras-record/wp-content/plugins/R7/social/images/logo-recordtv-og.png",Record SP HD+
 http://163.172.103.202:8880/287994003189/287994003189/16748
 
-
- tvg-logo=""
 
 #EXTINF:-1 tvg-logo="https://numerodocanal.com/wp-content/uploads/2018/12/numero-da-band-online.png",BAND FULLHD
 http://163.172.103.202:8880/287994003189/287994003189/31060
