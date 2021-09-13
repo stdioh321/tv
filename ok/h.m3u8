@@ -19,74 +19,58 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1606
 http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/32182
 
 #EXTINF:-1 tvg-id="" tvg-name="Globo SP HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/cc47870e439055bfefe058a7ce35d4c2.png",Globo SP HD+
-http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/16730
+http://10gbps.tech:80/jun001/L901513zz/179893
 
 #EXTINF:-1 tvg-id="" tvg-name="Globo News HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4ff6b7a124e0e98887c306edf7b72c5a.png",Globo News HD+
-http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/16727
-
+http://10gbps.tech:80/jun001/L901513zz/180103
 
 #EXTINF:-1 tvg-id="" tvg-name="SBT SP HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png",SBT SP HD+
 http://10gbps.tech:80/jun001/L901513zz/180053
 
 #EXTINF:-1 tvg-id="" tvg-name="BR: RECORD SP HD²" tvg-logo="http://xcui.vitvabc.xyz:8880/images/83c8d9c5f77bb532343d417188302a37.png",BR: RECORD SP HD²
-http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/31556
+http://10gbps.tech:80/jun001/L901513zz/180018
 
 #EXTINF:-1 tvg-id="" tvg-name="Band SP HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/574ff4699083ce51de0dabcfad5edc4c.png",Band SP HD+
-http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/16697
+http://10gbps.tech:80/jun001/L901513zz/180076
 
 #EXTINF:-1 tvg-id="" tvg-name="Band News HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/bandnews.png",Band News HD+
-http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/16696
+http://10gbps.tech:80/jun001/L901513zz/180091
 
 #EXTINF:-1 tvg-id="Rede TV" tvg-name="REDE TV FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc12f0ddd6fdcb7742bf4924ac4601fd.png",REDE TV FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/31071
+http://10gbps.tech:80/jun001/L901513zz/170
 
 #EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="DISCOVERY CHANNEL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3f0a25c8c94296bd1563a0ece015ad4e.png",DISCOVERY CHANNEL FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/31106
+http://10gbps.tech:80/jun001/L901513zz/179560
 
 #EXTINF:-1 tvg-id="The History Channel FHD" tvg-name="HISTORY FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e54d2b4f42397dbed309964bd18be83e.png",HISTORY FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/31122
+http://10gbps.tech:80/jun001/L901513zz/179604
 
 #EXTINF:-1 tvg-id="Discovery Home Health FHD" tvg-name="DISCOVERY HOME & HEALTH FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3cb160026aa53be9dc13e3f1844e25.png",DISCOVERY HOME & HEALTH FULLHD
-http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/31107
+http://10gbps.tech:80/jun001/L901513zz/179564
 
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/40e4afcfd925c2e4ea83a767993ea8b0.png",ANIMAL PLANET HD
-http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/16693
+http://10gbps.tech:80/jun001/L901513zz/179554
 
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e3f342cb93eb9c19cb186ffd3ce94cef.png",Cartoon Network HD+
-http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/16701
+http://10gbps.tech:80/jun001/L901513zz/180127
 
 #EXTINF:-1 tvg-id="" tvg-name="Viva HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/viva2018.png",Viva HD+
-http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/16764
+http://10gbps.tech:80/jun001/L901513zz/180276
 
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/11fa22bd9c5aa4a0e7f769edb69122d4.png",CHAVES
-http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/31676
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKwbVl7SZ8NCBKdFvhG8W6E4CPUOIC2Ho6Q&usqp=CAU",CHAVES
+http://10gbps.tech:80/jun001/L901513zz/180820
 
-#EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b5bf77c52a20f81917e9e7d31693a24a.png",CHAPOLIN
-http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/31675
+#EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN" tvg-logo="https://img.quizur.com/f/img5da4a9d62b5e12.77423446.jpg?lastEdited=1571072472",CHAPOLIN
+http://10gbps.tech:80/jun001/L901513zz/180819
 
-#EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR-DE-ROSA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d3b3f9870ecfbaab197d185e3dffcbf3.png",A PANTERA COR-DE-ROSA
-http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/31637
+#EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR-DE-ROSA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/16/PanteraCorRosa.jpg",A PANTERA COR-DE-ROSA
+http://10gbps.tech:80/jun001/L901513zz/180806
 
-#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f744e4566e9a28722b080de69d866117.png",Tom & Jerry
-http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/31633
+#EXTINF:-1 tvg-id="" tvg-name="Pica Pau" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Woody_Woodpecker.png",Pica Pau
+http://10gbps.tech:80/jun001/L901513zz/180863
 
-#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5608df94701fcf43bc0f55de64ac4326.png",DOIS HOMENS E MEIO
-http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/31684
+#EXTINF:-1 tvg-id="" tvg-name="CORAGEM CAO COVARDE" tvg-logo="https://i.pinimg.com/originals/56/b9/b2/56b9b27dcf2fcdd722eb0f3ac8cb72ef.png",CORAGEM CAO COVARDE
+hhttp://10gbps.tech:80/jun001/L901513zz/180822
 
-#EXTINF:-1 tvg-id="" tvg-name="CORAGEM CAO COVARDE" tvg-logo="http://51.222.46.117:80/images/b040df6b4facc3c57e6526ae7104fc75.png",CORAGEM CAO COVARDE
-http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/31680
-
-#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e6e328104ef8a6a9d8315d8725a654e0.png",TODO MUNDO ODEIA O CHRIS
-http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/31765
-
-#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1effbf1c22863c5e9203c1ad008f7a1d.png",UM MALUCO NO PEDAÇO
-http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/31769
-
-#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE TINTIM" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a87ff679a2f3e71d9181a67b7542122c.png",AS AVENTURAS DE TINTIM
-http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/31647
-
-#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE JACKIE CHAN" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4db0898370772dca680985d491b62ab5.png",AS AVENTURAS DE JACKIE CHAN
-http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/31646
-
-#EXTINF:-1 tvg-id="" tvg-name="LOONEY TUNES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/85efe2bad551cde78e8bdaf1ca4ece5f.png",LOONEY TUNES
-http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/31720
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS" tvg-logo="https://br.web.img2.acsta.net/pictures/14/02/04/14/08/054280.jpg",TODO MUNDO ODEIA O CHRIS
+http://10gbps.tech:80/jun001/L901513zz/180874
