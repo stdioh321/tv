@@ -16,7 +16,9 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1606
 
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/09/Logotipo_da_TV_Globo_Internacional.png",TV VANGUARDA S.J DOS CAMPOS SD
-http://xcui.vitvabc.xyz:8880/2879940036bd/2879940036bd/16730
+http://10gbps.tech:80/jun031/L901513zz/179984
+
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="BR: Globo SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/09/Logotipo_da_TV_Globo_Internacional.png",Globo SP
 http://163.172.103.202:8880/287994003189/287994003189/16730
