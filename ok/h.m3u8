@@ -5,11 +5,11 @@ https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl-Vqet_u88vcB70YjM
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="ES: CUATRO HD" tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/Cuatro-TV-Es-Logo-300x300.jpg",ES: CUATRO HD
-https://5cd577a3dd8ec.streamlock.net/CAMARAS/live3/chunklist_w530817887.m3u8
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4767
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="ES: 24 HORAS" tvg-logo="https://img2.rtve.es/p/36511?imgProgApi=imgPortada&w=1600",ES: 24 HORAS
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4783
 
 #EXTINF:-1 tvg-ID="" tvg-name="ES: 4RD" tvg-logo="https://canal4rd.com/wp-content/uploads/2020/09/Canal-4-Logo-1-2044x2048.png.webp",ES: 4RD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1606598847_b2146304.m3u8
