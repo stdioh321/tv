@@ -26,7 +26,7 @@ http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/16727
 
 
 #EXTINF:-1 tvg-id="" tvg-name="SBT SP HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png",SBT SP HD+
-http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/16749
+http://10gbps.tech:80/jun040/L901513zz/170
 
 #EXTINF:-1 tvg-id="" tvg-name="BR: RECORD SP HD²" tvg-logo="http://xcui.vitvabc.xyz:8880/images/83c8d9c5f77bb532343d417188302a37.png",BR: RECORD SP HD²
 http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/31556
@@ -42,6 +42,9 @@ http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/31071
 
 #EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="DISCOVERY CHANNEL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3f0a25c8c94296bd1563a0ece015ad4e.png",DISCOVERY CHANNEL FULLHD
 http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/31106
+
+#EXTINF:-1 tvg-id="The History Channel FHD" tvg-name="HISTORY FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e54d2b4f42397dbed309964bd18be83e.png",HISTORY FULLHD
+http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/31122
 
 #EXTINF:-1 tvg-id="Discovery Home Health FHD" tvg-name="DISCOVERY HOME & HEALTH FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3cb160026aa53be9dc13e3f1844e25.png",DISCOVERY HOME & HEALTH FULLHD
 http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/31107
