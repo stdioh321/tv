@@ -15,11 +15,11 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1606598847_b2146304.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO² TV VANGUARDA S.J DOS CAMPOS SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png",GLOBO² TV VANGUARDA S.J DOS CAMPOS SD
-http://xcui.vitvabc.xyz:8880/2879940036ba/2879940036ba/32182
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² TV VANGUARDA S.J DOS CAMPOS SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvvanguarda.png",GLOBO VANGUARDA S.J DOS CAMPOS
+http://10gbps.tech:80/jun001/L901513zz/179983
 
 #EXTINF:-1 tvg-id="" tvg-name="Globo SP HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/cc47870e439055bfefe058a7ce35d4c2.png",Globo SP HD+
-http://10gbps.tech:80/jun001/L901513zz/179893
+http://10gbps.tech:80/jun001/L901513zz/179892
 
 #EXTINF:-1 tvg-id="" tvg-name="Globo News HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4ff6b7a124e0e98887c306edf7b72c5a.png",Globo News HD+
 http://10gbps.tech:80/jun001/L901513zz/180103
@@ -66,13 +66,15 @@ http://10gbps.tech:80/jun001/L901513zz/180819
 #EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR-DE-ROSA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/16/PanteraCorRosa.jpg",A PANTERA COR-DE-ROSA
 http://10gbps.tech:80/jun001/L901513zz/180806
 
-#EXTINF:-1 tvg-id="" tvg-name="Pica Pau" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Woody_Woodpecker.png",Pica Pau
+#EXTINF:-1 tvg-id="" tvg-name="Papa-leguas" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Woody_Woodpecker.png",Papa-leguas
 http://10gbps.tech:80/jun001/L901513zz/180863
 
 #EXTINF:-1 tvg-id="" tvg-name="CORAGEM CAO COVARDE" tvg-logo="https://i.pinimg.com/originals/56/b9/b2/56b9b27dcf2fcdd722eb0f3ac8cb72ef.png",CORAGEM CAO COVARDE
 http://10gbps.tech:80/jun001/L901513zz/180822
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS" tvg-logo="https://br.web.img2.acsta.net/pictures/14/02/04/14/08/054280.jpg",TODO MUNDO ODEIA O CHRIS
 http://10gbps.tech:80/jun001/L901513zz/180874
+
+#EXTINF:-1 tvg-id="" tvg-name="EU SOU O MAXIMO" tvg-logo="https://i.ytimg.com/vi/rUl1L607r60/maxresdefault.jpg",EU SOU O MAXIMO
+http://10gbps.tech:80/jun001/L901513zz/180833
