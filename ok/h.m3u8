@@ -11,6 +11,12 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4767
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 
+#EXTINF:-1 tvg-ID="" tvg-name="ES: TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png",ES: TVE
+https://rtvelivestreamv3.akamaized.net/la1_main_dvr_720.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Telemadrid" tvg-logo="http://ortomedicalcare.com/wp-content/uploads/2018/01/logo-telemadrid-1-1080x675.png",ES: Telemadrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-name="ES: 4RD" tvg-logo="https://canal4rd.com/wp-content/uploads/2020/09/Canal-4-Logo-1-2044x2048.png.webp",ES: 4RD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1606598847_b2146304.m3u8
 
