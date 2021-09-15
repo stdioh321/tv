@@ -11,9 +11,6 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4767
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="ES: TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png",ES: TVE
-https://rtvelivestreamv3.akamaized.net/la1_main_dvr_720.m3u8
-
 #EXTINF:-1 tvg-ID="" tvg-name="ES: Telemadrid" tvg-logo="http://ortomedicalcare.com/wp-content/uploads/2018/01/logo-telemadrid-1-1080x675.png",ES: Telemadrid
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 
@@ -21,66 +18,79 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1606598847_b2146304.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO² TV VANGUARDA S.J DOS CAMPOS SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvvanguarda.png",GLOBO VANGUARDA S.J DOS CAMPOS
-http://10gbps.tech:80/jun001/L901513zz/179983
 
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/cc47870e439055bfefe058a7ce35d4c2.png",Globo SP HD+
-http://10gbps.tech:80/jun001/L901513zz/179892
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/cc47870e439055bfefe058a7ce35d4c2.png",Globo SP HD
+http://pfsv.io:80/patricia2021/patricia2021/394
 
 #EXTINF:-1 tvg-id="" tvg-name="Globo News HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4ff6b7a124e0e98887c306edf7b72c5a.png",Globo News HD+
-http://10gbps.tech:80/jun001/L901513zz/180103
+http://pfsv.io:80/55322769/99436328/512
 
 #EXTINF:-1 tvg-id="" tvg-name="SBT SP HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png",SBT SP HD+
-http://10gbps.tech:80/jun001/L901513zz/180053
+http://pfsv.io:80/55322769/99436328/55
 
-#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD SP HD²" tvg-logo="http://xcui.vitvabc.xyz:8880/images/83c8d9c5f77bb532343d417188302a37.png",BR: RECORD SP HD²
-http://10gbps.tech:80/jun001/L901513zz/180018
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD News" tvg-logo="http://xcui.vitvabc.xyz:8880/images/83c8d9c5f77bb532343d417188302a37.png",BR: RECORD News
+http://pfsv.io:80/55322769/99436328/511
 
 #EXTINF:-1 tvg-id="" tvg-name="Band SP HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/574ff4699083ce51de0dabcfad5edc4c.png",Band SP HD+
-http://10gbps.tech:80/jun001/L901513zz/180076
+http://pfsv.io:80/55322769/99436328/30181
 
 #EXTINF:-1 tvg-id="" tvg-name="Band News HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/bandnews.png",Band News HD+
-http://10gbps.tech:80/jun001/L901513zz/180091
-
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="REDE TV FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc12f0ddd6fdcb7742bf4924ac4601fd.png",REDE TV FULLHD
-http://10gbps.tech:80/jun001/L901513zz/170
-
-#EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="DISCOVERY CHANNEL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3f0a25c8c94296bd1563a0ece015ad4e.png",DISCOVERY CHANNEL FULLHD
-http://10gbps.tech:80/jun001/L901513zz/179560
-
-#EXTINF:-1 tvg-id="The History Channel FHD" tvg-name="HISTORY FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e54d2b4f42397dbed309964bd18be83e.png",HISTORY FULLHD
-http://10gbps.tech:80/jun001/L901513zz/179604
-
-#EXTINF:-1 tvg-id="Discovery Home Health FHD" tvg-name="DISCOVERY HOME & HEALTH FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3cb160026aa53be9dc13e3f1844e25.png",DISCOVERY HOME & HEALTH FULLHD
-http://10gbps.tech:80/jun001/L901513zz/179564
-
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/40e4afcfd925c2e4ea83a767993ea8b0.png",ANIMAL PLANET HD
-http://10gbps.tech:80/jun001/L901513zz/179554
-
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e3f342cb93eb9c19cb186ffd3ce94cef.png",Cartoon Network HD+
-http://10gbps.tech:80/jun001/L901513zz/180127
+http://pfsv.io:80/55322769/99436328/510
 
 #EXTINF:-1 tvg-id="" tvg-name="Viva HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/viva2018.png",Viva HD+
-http://10gbps.tech:80/jun001/L901513zz/180276
+http://pfsv.io:80/55322769/99436328/105
 
 #EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKwbVl7SZ8NCBKdFvhG8W6E4CPUOIC2Ho6Q&usqp=CAU",CHAVES
-http://10gbps.tech:80/jun001/L901513zz/180820
+http://pfsv.io:80/55322769/99436328/43865
 
 #EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN" tvg-logo="https://img.quizur.com/f/img5da4a9d62b5e12.77423446.jpg?lastEdited=1571072472",CHAPOLIN
-http://10gbps.tech:80/jun001/L901513zz/180819
+http://pfsv.io:80/55322769/99436328/43864
 
 #EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR-DE-ROSA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/16/PanteraCorRosa.jpg",A PANTERA COR-DE-ROSA
-http://10gbps.tech:80/jun001/L901513zz/180806
+http://pfsv.io:80/55322769/99436328/43950
 
-#EXTINF:-1 tvg-id="" tvg-name="Papa-leguas" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Woody_Woodpecker.png",Papa-leguas
-http://10gbps.tech:80/jun001/L901513zz/180863
+#EXTINF:-1 tvg-id="" tvg-name="Papa-leguas",Papa-leguas
+http://pfsv.io:80/55322769/99436328/43903
 
 #EXTINF:-1 tvg-id="" tvg-name="CORAGEM CAO COVARDE" tvg-logo="https://i.pinimg.com/originals/56/b9/b2/56b9b27dcf2fcdd722eb0f3ac8cb72ef.png",CORAGEM CAO COVARDE
-http://10gbps.tech:80/jun001/L901513zz/180822
+http://pfsv.io:80/55322769/99436328/43862
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS" tvg-logo="https://br.web.img2.acsta.net/pictures/14/02/04/14/08/054280.jpg",TODO MUNDO ODEIA O CHRIS
-http://10gbps.tech:80/jun001/L901513zz/180874
+http://pfsv.io:80/55322769/99436328/43921
 
-#EXTINF:-1 tvg-id="" tvg-name="EU SOU O MAXIMO" tvg-logo="https://i.ytimg.com/vi/rUl1L607r60/maxresdefault.jpg",EU SOU O MAXIMO
-http://10gbps.tech:80/jun001/L901513zz/180833
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Eu a Patroa e as Criancas
+http://pfsv.io:80/55322769/99436328/43939
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio
+http://pfsv.io:80/55322769/99436328/43870
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Doug
+http://pfsv.io:80/55322769/99436328/43871
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] BOB ESPONJA
+http://pfsv.io:80/55322769/99436328/43860
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] As Aventuras de Tintim
+http://pfsv.io:80/55322769/99436328/58311
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] A Grande Familia
+http://pfsv.io:80/55322769/99436328/43932
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Pica Pau Classico
+http://pfsv.io:80/55322769/99436328/44150
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Pink-e-Cerebro
+http://pfsv.io:80/55322769/99436328/43908
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] South Park
+http://pfsv.io:80/55322769/99436328/43915
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Tom & Jerry
+http://pfsv.io:80/55322769/99436328/43922
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Uma Família da Pesada
+http://pfsv.io:80/55322769/99436328/43925
+
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] YU-YU-Hakusho
+http://pfsv.io:80/55322769/99436328/43930
