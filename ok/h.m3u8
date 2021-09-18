@@ -10,6 +10,9 @@ http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4767
 #EXTINF:-1 tvg-ID="" tvg-name="ES: 24 Horas" tvg-logo="http://img2.rtve.es/v/3123660/?w=904&crop=no&preview=1431442463607.jpg",ES: 24 Horas
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="ES: TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/125px-TV3.svg.png",ES: TV3
+https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/playlist.m3u8
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="ES: Telemadrid" tvg-logo="http://ortomedicalcare.com/wp-content/uploads/2018/01/logo-telemadrid-1-1080x675.png",ES: Telemadrid
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
@@ -48,8 +51,6 @@ http://pfsv.io:80/patricia2021/patricia2021/43864
 #EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR-DE-ROSA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/16/PanteraCorRosa.jpg",A PANTERA COR-DE-ROSA
 http://pfsv.io:80/patricia2021/patricia2021/43950
 
-#EXTINF:-1 tvg-id="" tvg-name="Papa-leguas",Papa-leguas
-http://pfsv.io:80/patricia2021/patricia2021/43903
 
 #EXTINF:-1 tvg-id="" tvg-name="CORAGEM CAO COVARDE" tvg-logo="https://i.pinimg.com/originals/56/b9/b2/56b9b27dcf2fcdd722eb0f3ac8cb72ef.png",CORAGEM CAO COVARDE
 http://pfsv.io:80/patricia2021/patricia2021/43862
@@ -57,6 +58,10 @@ http://pfsv.io:80/patricia2021/patricia2021/43862
 
 #EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS" tvg-logo="https://br.web.img2.acsta.net/pictures/14/02/04/14/08/054280.jpg",TODO MUNDO ODEIA O CHRIS
 http://pfsv.io:80/patricia2021/patricia2021/43921
+
+#EXTINF:-1 tvg-id="" tvg-name="Papa-leguas",Papa-leguas
+http://pfsv.io:80/patricia2021/patricia2021/43903
+
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Eu a Patroa e as Criancas
 http://pfsv.io:80/patricia2021/patricia2021/43939
