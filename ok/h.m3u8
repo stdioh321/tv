@@ -27,95 +27,63 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1606
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Globo SP HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/cc47870e439055bfefe058a7ce35d4c2.png",Globo SP HD
-http://pfsv.io:80/patricia2021/patricia2021/394
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/16730
 
 #EXTINF:-1 tvg-id="" tvg-name="Globo News HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4ff6b7a124e0e98887c306edf7b72c5a.png",Globo News HD+
-http://pfsv.io:80/patricia2021/patricia2021/512
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31518
 
 #EXTINF:-1 tvg-id="" tvg-name="SBT SP HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sbt.png",SBT SP HD+
-http://pfsv.io:80/patricia2021/patricia2021/55
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/16749
 
 #EXTINF:-1 tvg-id="" tvg-name="BR: RECORD News" tvg-logo="http://xcui.vitvabc.xyz:8880/images/83c8d9c5f77bb532343d417188302a37.png",BR: RECORD News
-http://pfsv.io:80/patricia2021/patricia2021/511
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31523
 
 #EXTINF:-1 tvg-id="" tvg-name="Band SP HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/574ff4699083ce51de0dabcfad5edc4c.png",Band SP HD+
-http://pfsv.io:80/patricia2021/patricia2021/30181
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/16697
 
 #EXTINF:-1 tvg-id="" tvg-name="Band News HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/bandnews.png",Band News HD+
-http://pfsv.io:80/patricia2021/patricia2021/510
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/16696
 
 #EXTINF:-1 tvg-id="" tvg-name="Viva HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/viva2018.png",Viva HD+
-http://pfsv.io:80/patricia2021/patricia2021/105
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/16764
 
 #EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKwbVl7SZ8NCBKdFvhG8W6E4CPUOIC2Ho6Q&usqp=CAU",CHAVES
-http://pfsv.io:80/patricia2021/patricia2021/43865
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31676
 
 #EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN" tvg-logo="https://img.quizur.com/f/img5da4a9d62b5e12.77423446.jpg?lastEdited=1571072472",CHAPOLIN
-http://pfsv.io:80/patricia2021/patricia2021/43864
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31675
 
 #EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR-DE-ROSA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/16/PanteraCorRosa.jpg",A PANTERA COR-DE-ROSA
-http://pfsv.io:80/patricia2021/patricia2021/43950
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31637
 
 
 #EXTINF:-1 tvg-id="" tvg-name="CORAGEM CAO COVARDE" tvg-logo="https://i.pinimg.com/originals/56/b9/b2/56b9b27dcf2fcdd722eb0f3ac8cb72ef.png",CORAGEM CAO COVARDE
-http://pfsv.io:80/patricia2021/patricia2021/43862
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31680
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS" tvg-logo="https://br.web.img2.acsta.net/pictures/14/02/04/14/08/054280.jpg",TODO MUNDO ODEIA O CHRIS
-http://pfsv.io:80/patricia2021/patricia2021/43921
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31765
 
-#EXTINF:-1 tvg-id="" tvg-name="Papa-leguas",Papa-leguas
-http://pfsv.io:80/patricia2021/patricia2021/43903
+#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5608df94701fcf43bc0f55de64ac4326.png",DOIS HOMENS E MEIO
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31684
 
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/80176ad2631747fe693d79962c1b125c.png",BOB ESPONJA
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31660
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Eu a Patroa e as Criancas
-http://pfsv.io:80/patricia2021/patricia2021/43939
+#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE TINTIM" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a87ff679a2f3e71d9181a67b7542122c.png",AS AVENTURAS DE TINTIM
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31647
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Dois Homens e Meio
-http://pfsv.io:80/patricia2021/patricia2021/43870
+#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f744e4566e9a28722b080de69d866117.png",Tom & Jerry
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31633
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Doug
-http://pfsv.io:80/patricia2021/patricia2021/43871
+#EXTINF:-1 tvg-id="" tvg-name="CAVALO DE FOGO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/254e05c746c7ac24b0b66be67739d74c.png",CAVALO DE FOGO
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31673
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] BOB ESPONJA
-http://pfsv.io:80/patricia2021/patricia2021/43860
+#EXTINF:-1 tvg-id="" tvg-name="LOONEY TUNES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/85efe2bad551cde78e8bdaf1ca4ece5f.png",LOONEY TUNES
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31720
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] As Aventuras de Tintim
-http://pfsv.io:80/patricia2021/patricia2021/58311
+#EXTINF:-1 tvg-id="" tvg-name="STREET FIGTHER" tvg-logo="http://51.222.46.117:80/images/0bd31b0cda59de051da19a00510db7cf.png",STREET FIGTHER
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31761
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] A Grande Familia
-http://pfsv.io:80/patricia2021/patricia2021/43932
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Pica Pau Classico
-http://pfsv.io:80/patricia2021/patricia2021/44150
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Pink-e-Cerebro
-http://pfsv.io:80/patricia2021/patricia2021/43908
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] South Park
-http://pfsv.io:80/patricia2021/patricia2021/43915
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Tom & Jerry
-http://pfsv.io:80/patricia2021/patricia2021/43922
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] Uma Família da Pesada
-http://pfsv.io:80/patricia2021/patricia2021/43925
-
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] YU-YU-Hakusho
-http://pfsv.io:80/patricia2021/patricia2021/43930
-
-#EXTINF:-1,[24H] Jaspion
-http://pfsv.io:80/patricia2021/patricia2021/43885
-
-#EXTINF:-1,[24H] Jiban
-http://pfsv.io:80/patricia2021/patricia2021/58283
-
-#EXTINF:-1,[24H] JIRAYA O Incrível Ninja
-http://pfsv.io:80/patricia2021/patricia2021/43886
-
-
-#EXTINF:-1,[24H] PERNALONGA
-http://pfsv.io:80/patricia2021/patricia2021/43905
-
-#EXTINF:-1,[24H] Rick And Morty
-http://pfsv.io:80/patricia2021/patricia2021/43955
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1effbf1c22863c5e9203c1ad008f7a1d.png",UM MALUCO NO PEDAÇO
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31769
