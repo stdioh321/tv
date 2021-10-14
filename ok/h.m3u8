@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="TESTE" tvg-logo="https://image.flaticon.com/icons/png/512/1205/1205526.png",TESTE
-http://xcui.vitvabc.xyz:8880/2879940036dd/2879940036dd/16729
-
-
 #EXTINF:-1 tvg-id="TV Cultura HD" tvg-name="TV CULTURA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/071d4d7c98f1f4d43932abc07cc036cb.png",TV CULTURA
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1148690750.m3u8
 #http://pfsv.io:80/patricia2021/patricia2021/47
@@ -69,3 +65,6 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31633
 
 #EXTINF:-1 tvg-id="" tvg-name="LOONEY TUNES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/85efe2bad551cde78e8bdaf1ca4ece5f.png",LOONEY TUNES
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31720
+
+#EXTINF:-1 tvg-name="TESTE" tvg-logo="https://image.flaticon.com/icons/png/512/1205/1205526.png",TESTE
+http://xcui.vitvabc.xyz:8880/2879940036dd/2879940036dd/16729
