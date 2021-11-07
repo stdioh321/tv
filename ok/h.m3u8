@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="TESTE" tvg-logo="https://image.flaticon.com/icons/png/512/1205/1205526.png",TESTE
-http://xcui.vitvabc.xyz:8880/2879940036dd/2879940036dd/16729
-
-
 #EXTINF:-1 tvg-id="TV Cultura HD" tvg-name="TV CULTURA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/071d4d7c98f1f4d43932abc07cc036cb.png",TV CULTURA
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1148690750.m3u8
 #http://pfsv.io:80/patricia2021/patricia2021/47
@@ -56,34 +52,19 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31675
 #EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR-DE-ROSA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/16/PanteraCorRosa.jpg",A PANTERA COR-DE-ROSA
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31637
 
-
-#EXTINF:-1 tvg-id="" tvg-name="CORAGEM CAO COVARDE" tvg-logo="https://i.pinimg.com/originals/56/b9/b2/56b9b27dcf2fcdd722eb0f3ac8cb72ef.png",CORAGEM CAO COVARDE
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31680
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS" tvg-logo="https://br.web.img2.acsta.net/pictures/14/02/04/14/08/054280.jpg",TODO MUNDO ODEIA O CHRIS
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31765
-
 #EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5608df94701fcf43bc0f55de64ac4326.png",DOIS HOMENS E MEIO
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31684
 
 #EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/80176ad2631747fe693d79962c1b125c.png",BOB ESPONJA
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31660
 
-#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE TINTIM" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a87ff679a2f3e71d9181a67b7542122c.png",AS AVENTURAS DE TINTIM
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31647
 
 #EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f744e4566e9a28722b080de69d866117.png",Tom & Jerry
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31633
 
-#EXTINF:-1 tvg-id="" tvg-name="CAVALO DE FOGO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/254e05c746c7ac24b0b66be67739d74c.png",CAVALO DE FOGO
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31673
 
 #EXTINF:-1 tvg-id="" tvg-name="LOONEY TUNES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/85efe2bad551cde78e8bdaf1ca4ece5f.png",LOONEY TUNES
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31720
 
-#EXTINF:-1 tvg-id="" tvg-name="STREET FIGTHER" tvg-logo="http://51.222.46.117:80/images/0bd31b0cda59de051da19a00510db7cf.png",STREET FIGTHER
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31761
-
-#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1effbf1c22863c5e9203c1ad008f7a1d.png",UM MALUCO NO PEDAÇO
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31769
+#EXTINF:-1 tvg-name="TESTE" tvg-logo="https://image.flaticon.com/icons/png/512/1205/1205526.png",TESTE
+http://xcui.vitvabc.xyz:8880/2879940036dd/2879940036dd/16729
